@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-07T21:15:59-05:00
+
+====== hobgoblin bounty hunters ======
+Created Monday 07 January 2019
+
+Tracking the party to collect a bounty.  Have crude portrait of one of the party members.  They know the location of cragmaw castle.
+
+loot: 10 gp per hobgoblin, longsword, longbow, chain mail vest, crude portrait of one player with bounty (20gp), 
+
+challenge 1/2 (100 xp)

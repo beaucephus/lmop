@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-07T20:56:06-05:00
+
+====== ghouls ======
+Created Monday 07 January 2019
+
+Ghouls wandering the plains/hills of triboar trail.
+
+loot: ghoulclaws emanate a fiendishly magic aura (Acts as a dagger, when it successfully hits a creature other than an elf or undead, that creature must succeed on a DC 10 con saving throw or be paralyzed for 1 minute.  Breaks on use.)
+
+challenge 1 (200 xp)
+
