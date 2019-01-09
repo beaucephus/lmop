@@ -2,6 +2,6 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-01-07T20:45:50-05:00
 
-====== agatha's hut ======
+====== Agatha's Hut ======
 Created Monday 07 January 2019
 

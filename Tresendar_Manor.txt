@@ -1,7 +1,7 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2019-01-08T19:52:35-05:00
+Creation-Date: 2019-01-08T19:53:32-05:00
 
-====== phandalin miner's exchange ======
+====== Tresendar Manor ======
 Created Tuesday 08 January 2019
 

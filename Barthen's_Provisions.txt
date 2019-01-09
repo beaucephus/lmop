@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-01-08T19:51:56-05:00
 
-====== barthen's provisions ======
+====== Barthen's Provisions ======
 Created Tuesday 08 January 2019
 
 Well kept General store run by Elmar Barthen

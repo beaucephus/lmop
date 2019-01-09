@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-01-08T14:35:33-05:00
-
-====== town hall ======
-Created Tuesday 08 January 2019
-
