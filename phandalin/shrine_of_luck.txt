@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-08T19:52:58-05:00
+
+====== shrine of luck ======
+Created Tuesday 08 January 2019
+
+Shrine to Tymora, goddess of luck.
+
+npc: Sister Garaele

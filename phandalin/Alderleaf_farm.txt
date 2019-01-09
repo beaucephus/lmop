@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-08T19:52:49-05:00
+
+====== Alderleaf farm ======
+Created Tuesday 08 January 2019
+
+Small farm near the south edge of town
+
+npcs: Qelline Alderleaf, Carp Alderleaf
