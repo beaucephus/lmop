@@ -7,8 +7,13 @@ Created Wednesday 09 January 2019
 
 //A cold breeze fills this large natural cavern, carrying with it the faint scent of decaying flesh.  A crevasse divides the cavern and is flanked by two rough stone columns that support the twenty-foot-high ceiling.  Two arched wooden bridges span the chasm.//
 
-A crazy, chaotic evil nothic who would rather deal than fight lurks on the west end of the cavern.  The nothic was here before the redbrands, and made a deal with [[Iarno Albrek]] .  he guards this passage in exchange for treasure and food.  The nothic will betray Iarno for treasure or food.
-The nothic speaks telepathicly and knows common.
+A crazy, chaotic evil nothic named [[Grendel]] who would rather deal than fight lurks on the west end of the cavern.  
+  The nothic was here before the redbrands, and made a deal with [[Iarno Albrek]] .  
+  He guards this passage in exchange for treasure and food.  [[Grendel]] will betray Iarno for treasure or food.
+  He speaks telepathicly and knows common.
+  He offers a deal to non-good players.
+	[[Jober]]: Kill [[Gundren Rockseeker]], get the location of [[Wave echo cave]] .
+	[[Othard]]:  Ruin [[Linene Greywind]], get the location of [[Wave echo cave]] . 
 
 The bridges are simple wooden planks with supporting beams.  DC 10 strength check to dislodge a support and crash the bridge. 
 The south bridge is trapped to collapse in the center.  DC 15 investigation to discover trap.
@@ -17,8 +22,4 @@ The south bridge is trapped to collapse in the center.  DC 15 investigation to d
 If the players deal with the nothic, he threatens them for more treasure and/or food when they leave the complex.
 
 **Loot**
-The nothic's treasure hoarde is under the northern bridge. It contains 200 gp, a [[https://roll20.net/compendium/dnd5e/Augury#content|Scroll of Augury]], and a magical sword in a silver chased scabbard, [[Talon]].
-
-
-
-{{~\Downloads\nothic.png}}
+The nothic's treasure hoarde is under the northern bridge. It contains 200 gp, a [[https://roll20.net/compendium/dnd5e/Augury#content|Scroll of Augury]], and a magical sword in a silver chased scabbard, [[Talon]] .
