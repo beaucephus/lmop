@@ -1,0 +1,2 @@
+2019-01-10 10:44:24.481 Python[8049:256640] *** WARNING: Method userSpaceScaleFactor in class NSView is deprecated on 10.7 and later. It should not be used in new applications. Use convertRectToBacking: instead. 
+2019-01-10 10:50:59.211 Python[8167:285400] *** WARNING: Method userSpaceScaleFactor in class NSView is deprecated on 10.7 and later. It should not be used in new applications. Use convertRectToBacking: instead. 

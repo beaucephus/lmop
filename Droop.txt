@@ -5,6 +5,6 @@ Creation-Date: 2019-01-09T21:19:52-05:00
 ====== Droop ======
 Created Wednesday 09 January 2019
 
-Droop is a cowardly goblin being bullied by bugbears in the [[Redbrand Hideout:9.Guard Barracks]] of the [[Redbrand Hideout]].
+Droop is a cowardly goblin being bullied by bugbears in the Guard Barracks of the [[Redbrand Hideout]].
 
 Droop joins the party for a while if asked, but flees as soon as they get outdoors.
