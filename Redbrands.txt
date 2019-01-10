@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-09T18:13:55-05:00
+
+====== Redbrands ======
+Created Wednesday 09 January 2019
+
+Group of bandits based in the ruins under [[Tresendar Manor]] in [[Phandalin]].  
+They are lead by [[Iarno Albrek]] aka [[Glasstaff]].
+They are under the orders of [[Nezznar]] aka the [[Black Spider]] to sew chaos and instability in the [[Triboar Trail]] area.
+
+They patrol the streets of [[Phandalin]] and attempt to run off any new comers.
+
+**What the Redbrands Know**
+The leader is a human nick-named [[Glasstaff]]
+The [[Black Spider]] hired the [[Redbrands]] to scare off adventurers and intimidate the locals,
+  he sent bugbears to help.
+The lower part of the [[Redbrand Hideout]] is guarded by a hideous "eye monster" 
+There are captives in the holding area of the [[Redbrand Hideout]] "near the old crypts", the crypts are guarded by skeletons.
+
+{{~\Downloads\redbrand_ruffian.png}}

@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-09T21:07:17-05:00
+
+====== 9.Guard Barracks ======
+Created Wednesday 09 January 2019
+
+//This barracks contains four roughly built wooden bunks, with heaped-up blankets and dirty dishes scattered about.  A strong smell of unwashed bodies and rotten meat fills the air.  Three tall, furry bugbears are lounging among the mess, barking orders at a sad little goblin that demeans itself for their amusement.  Your sudden appearance causes the goblin to faint.//
+
+3 bugbears, one of which is [[Mosk]] and a goblin named [[Droop]] are here.
+  [[Mosk]] wears a gemstone inlaid eyepatch even tho he has both eyes.
+  If the party are wearing scarlett cloaks, the bugbears assume they are part of the [[Redbrands]]
+
+**Developments**
+If they players defeat the bugbears, [[Droop]] pleads with the party to let him live and escape, he'll do anything.
+
+**What Droop knows**
+Droop only knows the general location of [[Cragmaw Castle]]
+Droop knows the bugbears and goblins patrolling the area would know where [[Cragmaw Castle]] is.
+
+**What the bugbears know**
+[[Mosk]] knows the location of [[Wave Echo Cave]].
+All the bugbears know the location of [[Cragmaw Castle]]
+DC15 intimidation to get the info
+
+**Loot**
+Mosk has 5 gp and wears an eyepatch of black leather set with semiprecious gemstones.  He also has a key that unlocks all the doors in the hideout.
+

@@ -5,3 +5,28 @@ Creation-Date: 2019-01-08T19:56:02-05:00
 ====== Redbrand Hideout ======
 Created Tuesday 08 January 2019
 
+**General Features**
+Ceilings are 10 ft high unless otherwise indicated.
+Doors are made of wood with iron handles.
+A locked door can be picked with thieves tools DC10, or opened with a key.  [[Iarno Albrek]] and [[Mosk]] have keys.
+A door can be broken in with a DC20 strength check.
+Doors have 30 hp.
+Secret doors require a passive perception of 15 or more.
+
+There is light.
+
+**Areas**
+[[+1.Cellar]]
+[[Redbrand Hideout:2.Barracks]]
+[[Redbrand Hideout:3.Trapped Halls]]
+[[Redbrand Hideout:4.Tresendar Crypts]]
+[[Redbrand Hideout:5.Slave Pens]]
+[[Redbrand Hideout:6.Armory]]
+[[Redbrand Hideout:7.Storeroom and Work Area]]
+[[Redbrand Hideout:8.Crevasse]]
+[[Redbrand Hideout:9.Guard Barracks]]
+[[Redbrand Hideout:10.Common Room]]
+[[Redbrand Hideout:11. Wizard's Workshop]]
+[[Redbrand Hideout:12.Glasstaff's Quarters]]
+
+

@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-09T20:02:27-05:00
+
+====== 7.Storeroom and Work Area ======
+Created Wednesday 09 January 2019
+
+//This area is the north end of a large natural cavern, but it has been finished with dressed stone block walls and a flagstone floor.  Several barrels are stored against the walls here, along with a number of empty crates, straw for packing, hammers, pry bars, and nails.  The cavern continues for some distance to the south.  You can make out several passages that open up off the larger cavern, and what looks like a deep pit or crevasse in the floor.//
+
+This room contains secret doors to the [[6.Armory]] and [[12.Glasstaff's Quarters]].
+
+**Loot**
+30 beaver pelts.

@@ -5,3 +5,14 @@ Creation-Date: 2019-01-07T20:35:26-05:00
 ====== Phandalin ======
 Created Monday 07 January 2019
 
+Points of Interest:
+[[Alderleaf Farm]]
+[[Barthen's Provisions]]
+[[Edermath Orchard]]
+[[Lionshield Coster]]
+[[Phandalin Miner's Exchange]]
+[[Phandalin Town Hall]]
+[[Redbrand Hideout]]
+[[Tresendar Manor]]
+[[Sleeping Giant]]
+[[Stonehill Inn]]

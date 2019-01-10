@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-09T19:11:00-05:00
+
+====== 3.Trapped Halls ======
+Created Wednesday 09 January 2019
+
+//Thick dust covers the flagstones of this somber hallway.  The walls are decorated with faux columns every ten feet, and the double doors at the west end of the hall are sheathed in copper plate, now green with age.  A relief carving of a mournful angel graces the doors.//
+
+There is pit trap in center of the hallway with narrow stone ledges along the sides.  DC 15 perception check to notice the trap and ledges.  DC 10 acrobatics to use the ledges.  DC 15 dex save to catch the ledge if falling.
+
+**Developments**
+If the trap is triggered, the [[Redbrands]] and skeletons in rooms [[2.Barracks]] and [[4.Tresendar Crypts]] respectively come to investigate.
+ 

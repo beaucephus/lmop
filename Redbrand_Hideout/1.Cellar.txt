@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-09T18:47:40-05:00
+
+====== 1.Cellar ======
+Created Wednesday 09 January 2019
+
+//The door opens onto a five-foot-wide landing fifteen feet above a large cellar, with stone steps descending to the floor in two short flights.  Another door stands beneath the stairs to the north.  A large stone cistern full to the brim with clean, cold water occupies the western part of the room, whose walls are lined with kegs and barrels.  Aged copper pipes feed from all corners of the room into a single large copper pipe that feeds into the cistern.//
+
+The barrels contain dried meats, flour, sugar, apples, and ale.
+
+The cistern is 10 feet deep with an elevated rim.  A waterproof satchel, [[:Iarno Albrek]]'s bug-out bag, hangs from a rope in the cistern.  DC 15 perception check to find the rope.
+
+**Developments**
+If the players make a lot of noise the [[Redbrands]] in the [[2.Barracks]] take notice and try to ambush the players.  If they fight in this area, they might try to escape using the secret door to the [[8.Crevasse]].
+
+**Loot** 
+[[Iarno Albrek]]'s bug-out bag contains a [[https://roll20.net/compendium/dnd5e/Potion%20of%20Healing#content|Potion of Healing,]] a [[https://roll20.net/compendium/dnd5e/Potion%20of%20Invisibility#content|Potion of Invisibility,]] 50 gp, and a clean set of ordinary travel clothing.
+  
