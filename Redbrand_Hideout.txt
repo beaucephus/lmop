@@ -5,7 +5,7 @@ Creation-Date: 2019-01-08T19:56:02-05:00
 ====== Redbrand Hideout ======
 Created Tuesday 08 January 2019
 The Ruined crypts and catacombs underneath [[Tresendar Manor]] have been converted by the [[Redbrands]] into a hideout.
-{{./redbrand_hideout.jpg}}
+{{..\redbrand_hideout.jpg}}
 
 ===== General Features =====
 Ceilings are 10 ft high unless otherwise indicated.

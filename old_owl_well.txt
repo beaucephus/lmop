@@ -2,6 +2,11 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-01-07T20:46:03-05:00
 
-====== Old Owl Well ======
+====== Old owl well ======
 Created Monday 07 January 2019
 
+[[Hamun Kost]] has set up tent at the Old owl well along with his 12 skeletons.
+
+The party visited Hamun and food poisoned him, infiltrating his tent, but stealing nothing.
+They found the old owl well itself to be 200 ft deep with something shiny at the bottom.  It is a [[Sling of Critical Accuracy]].
+The party left, leaving Hamun and his skeletons to their business.
