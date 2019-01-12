@@ -5,3 +5,26 @@ Creation-Date: 2019-01-07T20:45:07-05:00
 ====== Wyvern Tor ======
 Created Monday 07 January 2019
 
+Wyvern Tor is a very prominent hill in the foothills between the [[Ruins of Conyberry]] and the [[Sword Mountains.]]
+It is visible from 20 miles away.
+The orc camp can some time to find...Factor this into the party's attempts to find it.
+
+Once they succeed, they follow the smell of smoke to a ravine.
+At the bottom of the ravine, there is a cave mouth, outside which sits a single orc keeping watch.
+Inside the cave is:
+  [[Brughor Axe-Biter]], an orc with 30 HP
+  2-6 normal orcs
+  1 ogre named Gog.
+Gog fights until slain, the orcs flee if Brughor plus half the normal orcs die.
+
+This encounter is potentially super DEADLY!!!
+Get the right number of orcs!!!
+2 normal orcs = (100*3 + 450) * 2 = 1500
+4 normal orcs = (100*5 + 450) * 2 = 1900
+6 normal orcs = (100*7 + 450) * 2.5 = 2875
+
+
+==== Loot ====
+85 gp and 3 vials of perfume in an unlocked chest inside
+1 orc war wagon
+a 1d6 greataxes, 2d6 javelins and 1d6 sets of hide armor.
