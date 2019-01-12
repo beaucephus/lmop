@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-01-09T18:20:51-05:00
-
-====== Black Spider ======
-Created Wednesday 09 January 2019
-
-Alias of [[Nezznar]]

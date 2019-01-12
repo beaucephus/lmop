@@ -10,7 +10,7 @@ The Ruined crypts and catacombs underneath [[Tresendar Manor]] have been convert
 ===== General Features =====
 Ceilings are 10 ft high unless otherwise indicated.
 Doors are made of wood with iron handles.
-A locked door can be picked with thieves tools DC10, or opened with a key.  [[Iarno Albrek]] and [[Mosk]] have keys.
+A locked door can be picked with thieves tools DC10, or opened with a key.  [[Iarno Albrek aka Glasstaff]] and [[Mosk]] have keys.
 A door can be broken in with a DC20 strength check.
 Doors have 30 hp.
 Secret doors require a passive perception of 15 or more.
@@ -22,13 +22,13 @@ There is light.
 
 The barrels contain dried meats, flour, sugar, apples, and ale.
 
-The cistern is 10 feet deep with an elevated rim.  A waterproof satchel, [[Iarno Albrek]]'s bug-out bag, hangs from a rope in the cistern.  DC 15 perception check to find the rope.
+The cistern is 10 feet deep with an elevated rim.  A waterproof satchel, [[Iarno Albrek aka Glasstaff]]'s bug-out bag, hangs from a rope in the cistern.  DC 15 perception check to find the rope.
 
 **Developments**
 If the players make a lot of noise the [[Redbrands]] in the 2.Barracks take notice and try to ambush the players.  If they fight in this area, they might try to escape using the secret door to the 8.Crevasse.
 
 **Loot** 
-[[Iarno Albrek]]'s bug-out bag contains a Potion of Healing[[https://roll20.net/compendium/dnd5e/Potion of Healing#content|,]] a Potion of Invisibility[[https://roll20.net/compendium/dnd5e/Potion of Invisibility#content|,]] 50 gp, and a clean set of ordinary travel clothing.
+[[Iarno Albrek aka Glasstaff]]'s bug-out bag contains a Potion of Healing[[https://roll20.net/compendium/dnd5e/Potion of Healing#content|,]] a Potion of Invisibility[[https://roll20.net/compendium/dnd5e/Potion of Invisibility#content|,]] 50 gp, and a clean set of ordinary travel clothing.
 
 
 
@@ -71,7 +71,7 @@ Fighting in this room alerts the [[Redbrands]] in the 5.Slave Pens
 
 The heap of clothing contains at least a dozen sets of clothing.
 
-The cell doors require a DC 10 lockpicking check, DC 22 strength check, or key from [[Iarno Albrek]] or [[Mosk]] to open.
+The cell doors require a DC 10 lockpicking check, DC 22 strength check, or key from [[Iarno Albrek aka Glasstaff]] or [[Mosk]] to open.
 
 The 3 humans are [[:Mirna Dendrar|Mirna Dendrar]], her 22 year old daughter [[:Nisa Dendrar|Nisa Dendrar]], and 10 year old son [[:Nars Dendrar|Nars Dendrar]].  They were abducted after the [[Redbrands]] killed her husband [[Thel Dendrar]], and are being prepared for sale into slavery.
   The Dendrars know that the [[Redbrands]] boss is a human wizard, and they have "tall, furry monsters with big ears working for them" (bugbears).
@@ -101,7 +101,7 @@ This room contains secret doors to the 6.Armory and 12.Glasstaff's Quarters.
 //A cold breeze fills this large natural cavern, carrying with it the faint scent of decaying flesh.  A crevasse divides the cavern and is flanked by two rough stone columns that support the twenty-foot-high ceiling.  Two arched wooden bridges span the chasm.//
 
 A crazy, chaotic evil nothic named [[Grendel]] who would rather deal than fight lurks on the west end of the cavern.  
-  The nothic was here before the redbrands, and made a deal with [[Iarno Albrek]] .  
+  The nothic was here before the redbrands, and made a deal with [[Iarno Albrek aka Glasstaff]] .  
   He guards this passage in exchange for treasure and food.  [[Grendel]] will betray Iarno for treasure or food.
   He speaks telepathicly and knows common.
   He offers a deal to non-good players.

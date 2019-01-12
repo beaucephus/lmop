@@ -1,6 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-01-09T20:06:54-05:00
-
-====== Mirna Dendrar ======
-Created Wednesday 09 January 2019

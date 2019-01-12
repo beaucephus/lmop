@@ -5,3 +5,35 @@ Creation-Date: 2019-01-07T20:45:50-05:00
 ====== Agatha's Hut ======
 Created Monday 07 January 2019
 
+Home of [[Agatha the Banshee]]
+It is located just northwest of the [[Ruins of Conyberry]]
+An old, unused trail leads northwest out of the ruins, into [[Neverwinter Wood]]
+
+===== 3 Challenges to reach the hut =====
+
+==== First Challenge: Trapped Stirge Cavern ====
+Approach a large opening of a cavern 60 ft wide next to road.
+Invisible alarm spells are set along the road and cavern opening.
+If triggered, a loud bell begins going off and stirges swarm out of the cavern.
+1d8 stirges every round as long as the party remains on the road near the cavern opening.
+Stirges don't follow past the cavern opening, party just needs to either get off the road or run through.
+
+==== Second Challenge: Pitfall ====
+Party hears the moans of an injured animal.  
+A large, sprung pitfall trap lies in the road, an owlbear has fallen inside and impaled its rear thigh on a spike.
+DC15 animal handling check to calm the owlbear (auto success with food).
+The [[Owlbear of Neverwinter Wood]] might show up again if they help it???
+
+
+==== Third Challenge: Riddle ====
+Wall of Force encases the hut.
+Ethereal, beautiful visage of [[Agatha the Banshee]] manifests and says,
+  "I know why you are here.  You come to the eternal lady of [[Neverwinter Wood]] seeking knowledge and power, but such things must be earned.  First, give me an answer, and then you may find what you seek."
+  "Deep as a bowl, round as a cup, Yet all the world's oceans can't fill me up.  What am I?"
+	A colander, Sphere of Annihilation, or any container with a hole.  
+
+Once inside, [[Agatha the Banshee]] appears for the party, offers them tea, and offers [[Arthindol's Spellbook]] to them.  
+  If they helped the [[Owlbear of Neverwinter Wood]], she offers an enhancement to whoever helped, a feat. 
+Agatha hasn't had visitors in a long time.  She savors the company if it is polite and respectful, otherwise she answers the question and hurries them out.
+
+
