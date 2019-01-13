@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-13T13:33:27-05:00
+
+====== Phandalin Miner's Exchange ======
+Created Sunday 13 January 2019
+
+The Miner's Exchange is a trading post where local miners have their valuable finds weighed, measured, and paid out.
+
+It is a great place for the party to learn about the countryside surrounding [[Phandalin]]
+
+The guildmaster is a young, ambitious, human woman named [[Halia Thornton]]
+  Halia tells the players that the redbrands are a problem.
+  She knows that they loiter around the [[Sleeping Giant]] taphouse and have a base under the ruins of [[Tresendar Manor]]
+  She offers the players 100 gp to eliminate the [[Redbrands]] leader, "Glasstaff" and bring her any correspondance found in his possession

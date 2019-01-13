@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-13T10:42:06-05:00
+
+====== Dawnbringer ======
+Created Sunday 13 January 2019
+
+Lightbringer is a +1 magical mace that requires attunement by a good aligned character.
+Once attuned, the wielder can speak the command word to make the mace glow like a torch.
+The mace deals 1d6 extra radiant damage while glowing.

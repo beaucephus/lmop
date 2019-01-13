@@ -9,23 +9,34 @@ Home of [[Agatha the Banshee]]
 It is located just northwest of the [[Ruins of Conyberry]]
 An old, unused trail leads northwest out of the ruins, into [[Neverwinter Wood]]
 
+//The forest here seems very old.  The air is damp and cold, making each breath a heavy heave.  Knotted and warped trees span as far as is visible.  The ground is riddled with patches of moss and mushrooms.//
+
 ===== 3 Challenges to reach the hut =====
 
 ==== First Challenge: Trapped Stirge Cavern ====
-Approach a large opening of a cavern 60 ft wide next to road.
+//The road begins to wind around a large hill.  On your way around the hill you spot a cavernous opening in the hillside.  The cave mouth looks large enough to house any manner of beast imaginable.//
+
+Approach a cavern 60 ft wide next to road.
 Invisible alarm spells are set along the road and cavern opening.
 If triggered, a loud bell begins going off and stirges swarm out of the cavern.
 1d8 stirges every round as long as the party remains on the road near the cavern opening.
 Stirges don't follow past the cavern opening, party just needs to either get off the road or run through.
 
 ==== Second Challenge: Pitfall ====
+//You hear a faint, feral, wimpering sound on the road ahead.//
+
+//You come upon the riggings of a pitfall trap, already triggered.  The opening in the ground spans most of the road.  From inside the pit you here a snarling growl.//
+
 Party hears the moans of an injured animal.  
-A large, sprung pitfall trap lies in the road, an owlbear has fallen inside and impaled its rear thigh on a spike.
+A large, sprung pitfall trap lies in the road, an owlbear has fallen inside and broken one of its rear legs.
 DC15 animal handling check to calm the owlbear (auto success with food).
 The [[Owlbear of Neverwinter Wood]] might show up again if they help it???
 
 
 ==== Third Challenge: Riddle ====
+//Rounding a bend in the trail, you see a screen made from the warped branches of trees standing close together, woven into a domelike shelter in the shadows. A low doorway leads inside.//
+//The air grows cold, and a powerful feeling of dread grips at you.  A cold, pale light flickers in the air, rapidly taking on the form of a beautiful female elf, her hair and robes waving as if in a flowing wind.//
+
 Wall of Force encases the hut.
 Ethereal, beautiful visage of [[Agatha the Banshee]] manifests and says,
   "I know why you are here.  You come to the eternal lady of [[Neverwinter Wood]] seeking knowledge and power, but such things must be earned.  First, give me an answer, and then you may find what you seek."
@@ -33,7 +44,8 @@ Ethereal, beautiful visage of [[Agatha the Banshee]] manifests and says,
 	A colander, Sphere of Annihilation, or any container with a hole.  
 
 Once inside, [[Agatha the Banshee]] appears for the party, offers them tea, and offers [[Arthindol's Spellbook]] to them.  
-  If they helped the [[Owlbear of Neverwinter Wood]], she offers an enhancement to whoever helped, a feat. 
-Agatha hasn't had visitors in a long time.  She savors the company if it is polite and respectful, otherwise she answers the question and hurries them out.
+  If they helped the [[Owlbear of Neverwinter Wood]], she offers an enhancement to whoever helped.
+  She touches them (they see through her illusion), and shows them visions of her life.  Following, she asks "What did you learn?"  The player can pick up a feat.
+Agatha hasn't had visitors in a long time.  She savors the company if it is polite and respectful, otherwise she hands over the "scribbles of a dribbling fool", [[Arthindol's Spellbook]] , and hurries them out.
 
 

@@ -28,7 +28,7 @@ The cistern is 10 feet deep with an elevated rim.  A waterproof satchel, [[Iarno
 If the players make a lot of noise the [[Redbrands]] in the 2.Barracks take notice and try to ambush the players.  If they fight in this area, they might try to escape using the secret door to the 8.Crevasse.
 
 **Loot** 
-[[Iarno Albrek aka Glasstaff]]'s bug-out bag contains a Potion of Healing[[https://roll20.net/compendium/dnd5e/Potion of Healing#content|,]] a Potion of Invisibility[[https://roll20.net/compendium/dnd5e/Potion of Invisibility#content|,]] 50 gp, and a clean set of ordinary travel clothing.
+[[Iarno Albrek aka Glasstaff]]'s bug-out bag contains a Potion of Healing[[https://roll20.net/compendium/dnd5e/Potion%20of%20Healing#content|,]] a Potion of Invisibility[[https://roll20.net/compendium/dnd5e/Potion%20of%20Invisibility#content|,]] 50 gp, and a clean set of ordinary travel clothing.
 
 
 
@@ -142,12 +142,73 @@ DC15 intimidation to get the info
 Mosk has 5 gp and wears an eyepatch of black leather set with semiprecious gemstones.  He also has a key that unlocks all the doors in the hideout.
 
 
-
 ==== 10. Common Room ====
+**If the party listens at the door, they hear 4 separate voices.  It sounds like they're playing a game of knucklebones**
+//Several worn tables and chairs are scattered around this large room.  Wooden benches are drawn up against walls decorated with draperies of brown and red, and several ale kegs are propped up and tapped.//
+//Four tough-looking human warriors wearing scarlet cloaks are gathered around one of the tables.  A stack of coins and trinkets is heaped upon the tabletop between them.//
+
+They players get surprise if they burst into the room.
+All four [[Redbrands]] are poisoned.
+If the players are wearing red cloaks, they are immediately recognized as imposters.
+  "Wait a minute, I aint never seen you before..." **take a pause after this, give them a chance to be witty**
+
+**Loot**
+30 gp and a pair of gold earrings with ruby tear drops are on the table (50gp).
+There is ale in the kegs.
+Any player who drinks a glass recovers 1d4 HP, multiple drinks require a DC5 con save.  The DC increases by 5 per drink. 
 
 
 ==== 11. Wizard's Workshop ====
+//This room appears to be a wizard's workshop.  A rat scurries across the floor and takes refuge under a large worktable set up with alembics, retorts, distillation coils, and other alchemical devices, all of it stewing and bubbling away.  Bookshelves are crowded with sheaves of parchment and strange-looking tomes.//
+
+The rat is [[Iarno Albrek aka Glasstaff]] 's familiar
+It sends a telepathic message to Iarno as soon as it sees the party.
+It has AC10 and 1HP
+
+Any character proficient in arcana can tell the lab is set up to brew Potions of Invisibilty.
+  You see an empty phial at the end of the apparatus.
+  There is a dripping sound coming from the phial 
+  The phial contains a Potion of Invisibility.
+
+Most of the books are related to alchemy.
+However, there is a Dwarvish tome, the journal of an adventurer named [[Urmon]]
+  It describes the history of the [[Lost Mine of Phandelver]] and the [[Forge of Spells]]
+	Reread the first 2 paragraphs of the "Background" in the lmop book if needed.
+	In addition, [[Urmon]] records that a magical mace named [[Dawnbringer]] was commissioned by priests of [[Lathander, the God of Dawn]]
+	The mace was lost when the orc hordes swept across the land.
 
 
 ==== 12. Iarno's Quarters ====
+//The walls of this bedchamber are covered with drapes of scarlet cloth.  The furnishings include a small writing desk with matching chair, a comfortable-looking bed, and a wooden chest at the foot of the bed.//
+
+If [[Iarno Albrek aka Glasstaff]] is surprised add...
+
+//Sitting at the desk is a tall, thin, dark-bearded human male in robes, studying a tome.  He wears a princely mantle of ermine.  A beautiful glass staff leans against his char, within easy reach.//
+
+If his familiar alerts him in area 11, Iarno grabs his Staff of Defense and the scrolls in his bed chest, then flees through the secret door to area 7.  This takes two rounds.
+
+If Iarno is caught unawares, he attempts to bargain with the party, offering a share in the wealth of the [[Lost Mine of Phandelver]] for their loyalty, only resorting to fighting if neccessary.
+
+**Developments**
+If caught this is what Iarno knows.
+  He reports a drow called [[Nezznar the Black Spider]]
+  Nezznar sent him 3 bugbears as extra muscle, one of them, [[Mosk]] , knows the way to [[Wave Echo Cave]]
+  [[Nezznar the Black Spider]] is trying to use the [[Forge of Spells]] to craft powerful magical items, which he plans to take back to his people.  
+  Nobody in the [[Lord's Alliance]] knows of Iarno's betrayal.
+
+Various correspondances lie on Iarno's desk, most are about alchemical research.
+There is one letter that stands out
+  //Lord Albrek//
+  //My spies in Neverwinter tell me that strangers are due to arrive in Phandalin.  //
+  //They could be working for the dwarves.  //
+  //Capture them if you can, kill them if you must, but don't allow them to upset our plans.  //
+  //See that any dwarven maps in their possession are delivered to me with haste.  //
+  //I'm counting on you, Iarno.  Don't disappoint me.//
+  (Signed with pictogram of a black spider)
+
+**Loot**
+If Iarno is surprised, there are 2 scrolls in the bed-chest: a Scroll of Charm Person and a Scroll of Fireball plus the Staff of Defense carried by Iarno himself.
+There is also 350 gp worth of coins and gems
+
+
 

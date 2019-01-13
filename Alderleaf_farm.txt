@@ -5,6 +5,6 @@ Creation-Date: 2019-01-08T19:52:49-05:00
 ====== Alderleaf Farm ======
 Created Tuesday 08 January 2019
 
-Small farm near the south edge of town
+Small farm near the south edge of town.
 
-npcs: [[Qelline Alderleaf]], [[Carp Alderleaf]]
+[[Qelline Alderleaf]], a 30ish halfling woman, and her son, [[Carp Alderleaf]] operate and live in the farm.

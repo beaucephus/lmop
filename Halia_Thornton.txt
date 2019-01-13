@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-13T13:44:43-05:00
+
+====== Halia Thornton ======
+Created Sunday 13 January 2019
+
+Halia Thornton is a sharp witted, beautiful, and ambitious young human woman who runs the [[Phandalin Miner's Exchange]] in [[Phandalin]]
+She is a member of the secretive organization called the [[Zhentarim]]
+She offers the players a quest to eliminate "Glasstaff", the leader of the [[Redbrands]] and bring her any correspondence in his possession. (100gp)
+She secretly wants to take over the [[Redbrands]] herself.
+
+{{..\Halia_Thornton.jpg}}

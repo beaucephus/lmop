@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-13T13:50:45-05:00
+
+====== Sleeping Giant ======
+Created Sunday 13 January 2019
+
+//The Sleeping Giant is a ramshackle taproom at the east end of town.  //
+//Four human men linger on the covered porch, perched on empty ale barrels or leaning against the wall.  //
+//They all wear grimy scarlet cloaks, their sullen stares fixed on you as you approach.//
+//One of the thugs spits on the ground and slurs,  //
+
+//"Y'all must be the new folk I heard so much about.  We was gonna stalk you out and take each of you alone, but I suppose if you all wanna die together, we can do that too."//
+//"Only warning, drop yer stuff where you stand and get outta our town."//
+
+The [[Redbrands]] attempt to surround the party and then grab one of them, hopefully combat ensues.
+If the redbrands begin to lose, they run inside.  3 more Redbands await inside and they attemp to ambush the party.
+The barmaid is a surly Dwarven woman named Grista, she hides behind the bar.
+If they begin to lose in the bar, they run out the back door and towards the secret entrance to the [[Redbrand Hideout]] under [[Tresendar Manor]]
+
+**Developments**
+If the players capture a redbrand thug, [[Townmaster Harbin Wester]] refuses to lock them in the [[Townmaster's Hall]] jail. He is afraid of the [[Redbrands]]
+Most of the townspeople are grateful, and might semi-jokingly point them toward [[Tresendar Manor]] to "finish them off"
