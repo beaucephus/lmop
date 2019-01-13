@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-13T08:29:43-05:00
+
+====== Vyerith ======
+Created Sunday 13 January 2019
+
+Vyerith is an underling of [[Nezznar the Black Spider]]
+
+She is a female drow spy and fears Nezznar's wrath.  She will not fail him.
+
+https://roll20.net/compendium/dnd5e/Monsters:Drow/#h-Drow
+https://roll20.net/compendium/dnd5e/Monsters:Spy/#h-Spy

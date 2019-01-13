@@ -116,15 +116,50 @@ Mind the arrow slits to the 7. Banquet Hall.
 
 
 ==== 11. Ruined Tower ====
+//This tower has almost completely collapsed, although the ground floor still has a little open space.  Rotting crates and ancient barrels show that provisions were once stored here.  A heavy curtain blocks a crumbling area to the south, and an intact door leads east.  To the north, a short passage through the rubble ends before a screen of canvas.//
 
 
 ==== 12. Guard Barracks ====
+//A stone brazier full of coals glows in the middle of this small barracks.  Four straw pallets are lined up along the east wall.  The wall to the south has collapsed, but a barred wooden door in that direction is still clear.  A curtain hangs in an archway to the north.//
+
+2 hobgoblins stand guard here.  They shout "Intruders" and retreat to area 14 if attacked.
 
 
 ==== 13. Owlbear Tower ====
+//The upper floors of this tower have collapsed to create a hollow silo at least thirty feet hgh, and the upper reaches of the room are lost in shadows.  Dust, rubble, and broken glass cover the floor, and old worktables and bookshelves lie strewn to the south.  In the middle of the room is a hulking beast that looks like a mangy bear with an owl's head.  It rears up and roars when it sees you.//
+
+**Developments**
+If given the opportunity, the owlbear flees the castle, attacking anything that gets in its way.
+
+**Loot**
+On the jagged remnants of the second floor ledge stands 1 intact bookshelf.  There is a small chest with 150 gp and a Potion of Healing, and a few scroll cases which contain a Scroll of Silence, and a Scroll of Revivify.
 
 
 ==== 14. King's Quarters ====
+**If the characters listen at the door, they hear two voices in a heated discussion--a loud, growling voice demanding payment for something, and a silky smooth reply.**
+//This chamber has been set up as a crude living space, with thick furs thrown on the floor to serve as carpets, old trophies hanging on the walls, a large bed to the north, and a brazier of coals burning brightly.  A round table with several chairs stands to the south near the door.  Near the table, on the floor, is an unconscious dwarf who looks badly beaten.//
 
+In this room:
+  [[King Grol of Cragmaw Castle]] - a bugbear chief
+  Snarl - Grol's pet wolf with 18 HP
+  [[Vyerith]] - a drow spy 
+  [[Gundren Rockseeker]] - unconscious
+
+If they know the attack is coming, Vyerith hides behind the northern door, trying to ambush someone.  Grol takes Gundren hostage.
+
+**Developments**
+If Grol is slain, Vyerith tries to kill Gundren and flees.  If corned, Vyerith fights to the death.
+If Gundren is revived, he thanks the party graciously, but won't leave without his map.  He knows Grol had it.
+
+**Loot**
+Hidden under Grol's bed mattress is a stitched leather sack containing 100 gp, 3 Potions of Healing, and Gundren's map to [[Wave Echo Cave]]
+
+
+==== Returning War Band ====
+3 hobgoblins and 2 wolves
+Led by hobgoblin [[Targor Bloodsword]]
+Targor wants to succeed Grol, doesn't fight the party if he finds out they killed Grol
+  
+  
 
 
