@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-13T16:36:25-05:00
+
+====== Ash Zombies ======
+Created Sunday 13 January 2019
+
+Ash zombies overran what is now the [[Ruins of Thundertree]] 30 years ago after the eruption of [[Mount Hotenow]]
+They linger in the town and are caked in strange magical ash.
+They are regular zombies with the following additional trait.
+
+Ash Puff. The first time the zombie takes damage, any living creature within 5 feet must succeed on a DC 10 CON save or be incapacitated for 1 minute.
+Think pepper spray!
