@@ -1,0 +1,130 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-12T19:05:19-05:00
+
+====== Cragmaw Castle ======
+Created Saturday 12 January 2019
+
+Cragmaw Castle is an ancient crumbling structure from some empire long past, and is currently the stronghold of the [[Cragmaw Goblins]].
+The fortress and surounding goblin parties in [[Neverwinter Wood]] are led by [[King Grol of Cragmaw Castle]]
+{{..\cragmaw_castle.png}}
+
+
+===== General Features =====
+Ceilings are 15 ft high
+Interior doors are made of wood reinforced with iron bands.  They are neither locked, nor do they have keyholes.
+The floors are made of cracked and uneven flagstone.
+During the day, dim light filters in through the arrow slits.  There are no lit torches or wall sconces.
+Arrow slits give 3/4 cover (+5 to AC)
+
+
+==== 1. Castle Entrance ====
+//The castle consists of seven crumbling towers of different sizes and heights, but the upper stories are all in varying states of collapse.  A short flight of steps leads up to a terrace in front of the main entryway.  Past the wreckage of a pair of sundered doors lies a shadowed hall.  Round towers loom over the entranceway, with dark arrow slits looking down on the terrace.//
+
+Goblins in the 3. Archer Post are supposed to be keeping watch, but their lazy.  They only notice the party if the party makes a lot of noise.
+
+**Developments**
+If the goblins in the 3. Archer Post notice the party, they open fire and alert their comrades in the 4. Ruined Barracks and 6. Hobgoblin Barracks
+
+
+==== 2. Trapped Hall ====
+//Doors stand closed to the north and south, with a crumbling mound of rubble partially obscuring the southern hall.  To the east, a broad corridor ends in two more doors leading south and east.  The corridor is cluttered with dusty rubble and fallen plaster from a partial collapse of the ceiling overhead.//
+
+If the goblins in the 3. Archer Post noticed the party, then the enemies in the 4. Ruined Barracks and 6. Hobgolbin Barracks come suging into the 2. Trapped Hall at the same time.
+
+There is a copper tripwire trap, DC10 to notice if investigating for traps.
+  If triggered, a support girder is pulled out of place and the ceiling collapses.
+  DC10 dex save.  3d6 bludgeoning damage or half on a save.
+  
+**Developments**
+If the trap is triggered, it alerts enemies in areas 3, 7, 8, and 9.
+
+
+==== 3. Archer Post ====
+//This small room is littered with debris.  The arrow slit opposite the door offers a fine field of fire over the terrace in front of the castle gates.//
+
+2 goblins occupy each of the rooms labeled 3.
+
+
+==== 4. Ruined Barracks ====
+//The southwest tower of the castle is little more than a heap of rubble.  Several ragged bedrolls are scattered across the remaining floor space, and a small, twisting passage leads east through the ruins.//
+
+3 goblins bunk here.
+
+**Developments**
+Any loud noises here alert the goblins in the 7. Banquet Hall.  One comes to investigate first.
+
+
+==== 5. Storeroom ====
+//Old casks of salted meat and sacks of rotting grain fill this storage area.  Among the supplies, you see a bloodied breast plate, a heavy crossbow, and an unsheathed longsword with the emblem of Neverwinter worked into its hilt.//
+
+**Loot**
+One small cask is filled with exceptional dwarven Brandy (about 5 liters).  
+A character who drinks a glass regains 1d4 hit points.
+Multiple glasses require a DC5 con save or be poisoned for 1 hour.
+The DC increases by 5 per glass.
+
+The gear is [[Sildar Hallwinter]]'s.  He is grateful if at least his longsword is returned to him.
+
+
+==== 6. Hobgoblin Barracks ====
+//Four plain straw pallets and bedrolls are lined up on the floor of the barracks.  Brackets on the walls hold a number of weapons--spears, swords, morningstars, and more.  The north wall shows signs of damage, but the floor is swept clean of rubble.//
+
+4 hobgolbins are quartered here.
+
+**Loot**
+Mounted to the walls are 5 spears, four longswords, three morningstars, two greatswords, and a [[Staff of the Red Oak]].
+
+
+==== 7. Banquet Hall ====
+//The western portion of this large hall ends in a wall of rubble, but the remainder is still intact.  This must once have been the castle's banquet hall, with a soaring ceiling twenty-five feet high.  Two large wooden tables with plain benches stand in the middle of the room, and a brass brazier full of glowing coals is tucked into one corner.  Dirty dishes, haf-full stewpots, moldy heels of bread, and gnawed bones cover the tables.//
+
+This room contains 7 miserable goblins and their leader--a fat, cantakerous goblin with 12 HP name Yegg.
+Yegg is the chief cook for the [[Cragmaw Goblins]].  If he is defeated, the other golbins flee to the east and west, avoiding the trap to the north.
+
+
+==== 8. Dark Hall ====
+This text assumes darkvision or light!!!
+//This high, narrow hall looks as if it might have been part of a chapel or shrine at one time.  Angelic figures are sculpted along the room's upper reaches, looking down on the floor below.  To the north, heavy curtains block a matching pair of archwys.  Between the archways is a cracked but ornately carved stone brazier.//
+
+This chamber contains a grick, the special pet of the boblin Lhupo in the 9. Goblin Shrine.
+
+**Developments**
+If combat happens here, the goblins in area 9 can't be surprised.
+
+**Loot**
+There is a magical golden statue of a sun elf worth 100gp buried in the coals of the brazier.  Once per day, a good aligned player may ask the statue a question and receive an omen as though it had cast the augury spell.
+
+
+==== 9. Goblin Shrine ====
+//This chamber occupies the northern tower of the castle.  A stone alter stands in the middle of the room, covered with bloodstained black cloth.  Golden ritual implements--a chalice, a knife, and a censer--are carefully arranged on top of the altar.  Two archways to the south are covered with heavy curtains.//
+
+Lhupo, a goblin with 12 HP and 2 ordinary goblins are in this chamber.  If not alerted by the grick in the 8. Dark Hall, they are knealing, praying to Maglubiyet for victory over the humans in [[Phandalin]]
+If alerted, they attempt to hide behind the alter and surprise the party.
+
+**Loot**
+The chalice, knife, and censer are human-made art objects worth 150gp, 60gp, and 120gp, respectively
+
+
+==== 10. Postern Gate ====
+//On the south side of the old castle, an overgrown path leads to a passage that climbs up into the wall.  A large iron door stands here, sheltered from direct outside attack.  Arrow slits ten feet above the ground overlook the path.//
+
+The iron door is locked.  DC 15 lockpicking or DC 25 strength check to open.
+
+**Developments**
+Mind the arrow slits to the 7. Banquet Hall.
+
+
+==== 11. Ruined Tower ====
+
+
+==== 12. Guard Barracks ====
+
+
+==== 13. Owlbear Tower ====
+
+
+==== 14. King's Quarters ====
+
+
+

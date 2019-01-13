@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-12T20:34:44-05:00
+
+====== Staff of the Red Oak ======
+Created Saturday 12 January 2019
+
+Staff, rare (require attunement by a druid)
+
+This staff can be weilded as a magic quarterstaff that grants +1 to attack and damage rolls made with it.
+
+You can use an action to speak the command word and plant one end of the staff in fertile earth to transform the the staff into a healty tree.
+The tree is 60 feet tall and has a 5-foot diameter trunk.  
+While touching the tree, you can speak a second command word to revert the tree to a staff.

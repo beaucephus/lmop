@@ -11,8 +11,9 @@ Ted is the physician/undertaker in [[Phandalin]].
 He lives and works out of his small clinic just east of the [[Sleeping Giant]].
 The undertaker's workshop is out back, separate from his home/clinic.
 
-Ted needs large quantities of spider venom for medicine (good for arthritis).
-He knows that abnormaly large spiders can be found in the [[Neverwinter Wood]] and [[Ruins of Thundertree]].
+Ted needs large quantities of spider venom for medicine (good for Potions of healing).
+  He offers 3 Potions of Healing for 3 large vials of spider venom, he provides the vials.
+He knows that abnormaly large spiders can be found in the [[Ruins of Thundertree]].
 
 
 
