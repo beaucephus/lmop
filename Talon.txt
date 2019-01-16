@@ -5,7 +5,7 @@ Creation-Date: 2019-01-09T20:28:02-05:00
 ====== Talon ======
 Created Wednesday 09 January 2019
 
-Talon is a +1  rapier held in a silver-chased scabbard.  The hilt is worked to resemble the talons of a bird of prey.
+Talon is a +1 magic rapier held in a silver-chased scabbard.  The hilt is worked to resemble the talons of a bird of prey.
 
 During attunement dream, determine a command word.  Once per day, you can shout the command word as a bonus action.  When you do, a pair of black feathered wings sprouts from your back, and you gain a flying speed of 60 ft.  You have advantage on any attacks made with Talon while flying due to this effect. The wings disappear at the start of your next turn.  
 
