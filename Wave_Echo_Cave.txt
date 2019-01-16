@@ -1,0 +1,188 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-16T09:03:26-05:00
+
+====== Wave Echo Cave ======
+Created Wednesday 16 January 2019
+Fifteen miles east of Phandalin, in the deep vales of the [[Sword Mountains]] lies Wave Echo Cave.  The rich mine of the Phandelver's Pact was lost five hundred years ago during orc invasions that devastated this part of the World.
+{{..\wave_echo_cave.png}}
+
+//This entrance to the mine is a cold, damp, and surprisingly drafty tunnel. A noticeable breeze flows inward toward the mine. //
+
+===== General Features =====
+**Ceilings**
+  Tunnels are 10 feet
+  Finished rooms are 20 feet
+  Natural caverns are 30 feet
+**Doors**
+  The doors are low and wide-perfect for dwarves
+  They are made of thick slabs of stone with rusty iron handles and hinges
+**Walls**
+  Rooms 14,15,19,20 have well-fitted stone masonry
+  Rest are rough hewn stone
+**Floors** are smooth, natural stone
+**Light **None, all the italics text assumes darkvision or a light source.
+**Stalagmites** provide cover
+**Booming Waves**
+  Wave Echo Cave is connected to a large underground sea at area 16.  Waves funnel in every 2 minutes, crashing against the ledge and creating a crashing boom sound throughout the cavern.  The boom is louder near area 16. 
+
+
+--------------------
+
+==== 1. Cave Entrance ====
+//The entrance tunnel leads into a large cavern supported by a natural pillar of rock and containing three stalagmites. Int the western part of the cave, behind the column of rock, are three bedrolls and a heap of ordinary supplies--sacks of flour, bags of salt, casks of salted meat, lanterns, flasks of lamp oil, pickaxes, shovels, and other gear. Amid the supplies, you see the body of a dwarf miner, dead for at least a week.//
+//The northeastern section of the cavern has collapsed, forming a ten-foot-wide, twenty-foot-deep pit. A sturdy hemp rope is tied off around a nearby stalagmite and dangles down the side of the pit,  at the bottom of which is a rough-hewn tunnel heading northwest and east.//
+
+This was the campsite of the Rockseekers
+The dead dwarf is the middle brother, Tharden.
+DC15 Athletics to climb up or down the pit w/o rope
+Tunnels lead to areas 2 and 3.
+
+Potentially put an encounter with something coming out of the tunnel just as the last person descends the rope.
+
+**Loot**
+Tharden is wearing a pair of Boots of Striding and Springing.
+
+
+--------------------
+
+==== 2. Mine Tunnels ====
+//This area consists of numerous intersecting passages. The ceilings here are only six fee high, and several of the passages end in partially excavated rock faces.//
+
+There is an ochre jelly in one of the dead-ends.  It stalks the group, trying to single out a lone character.
+
+
+--------------------
+
+==== 3. Old Entrance ====
+//Many tunnels intersect at this natural, thirty-foot-high cavern. The walls are carved with simple reliefs showing dwarf and gnome miners hard at work. Below them, nearly 30 skeletons in rusted scraps of armor are scattered across the cavern floor. Some are dwarf skeletons, while others are orc remains. 6 large brass lanterns stand in niches or on ledges around the caver, but none are lit.//
+
+10 stirges cling to the ceilings.  They attempt to surprise the party.
+
+
+--------------------
+
+==== 4. Old Guardroom ====
+//Splintered stone benches and heaps of rubble from a partially collapsed ceiling fill this room. Amid ruined stone bunks and toppled weapon racks are the bones of several dwarves and orcs.//
+
+If any living creature enters this room, 9 skeletons stir and attack.
+
+
+--------------------
+
+==== 5. Assayers' Office ====
+//This chamber was once an office or storeroom of some kind. A large stone counter bisects the room, set with three dusty balance scales made of iron. Cubbyholes carved into the north wall are stuffed with dusty paper scraps. Several long-dead corpses--gnomes and orcs by their look--are sprawled across the floor.//
+
+**Loot**
+Locked iron strongbox behind the counter. DC20 lockpicking to open, DC25 strength to smash
+  125gp worth of coins
+
+
+--------------------
+
+==== 6. South Barracks ====
+**Partially open door, any character that stops to listen hears faint crunching and splintering sounds.**
+//Old stone bunks in orderly rows line the walls of this chamber, and a corroded iron brazier full of old coals stands near the middle of the room. The bones of a half dozen dwarves and orcs lie strewn abount, clad in scraps of armor. Three gray, hunched figures squat aomng the remains, pawing at the scraps and gnawing on the bones.//
+
+3 ghouls attack immediately
+
+
+--------------------
+
+==== 7. Ruined Storeroom ====
+//The eastern wall of this chamber has collapsed into a mass of rubble. To the north, a door stands ajar, leading to a good-sized storeroom. Dusty kegs are tucked neatly against the walls, all of them cracked and split open from age.//
+
+The storeroom could serve as a resting place.
+No monsters come this way, and the door is in good shape and could easily be barred or blocked from the inside.
+
+
+--------------------
+
+==== 8. Fungi Cavern ====
+//Dense carpets of weird fungi cover large sections of the floor in this cavern. The growth includes puffballs a foot across, weird shelf fungus growing on stalagmites, and large stalks and caps a good five feet tall. Some of the puffballs glow with an eerie green phosphorescence.//
+
+Dim light fills this cavern due to the glowing fungi.
+
+Any attempt to cross the cavern triggers the fungi to release a stinky, colorless poisonous gas.
+  Any creature in the chamber must make a DC11 con save or take 3d6 poison dmg and be poisoned for 10 minutes.
+  Any creature that ends their turn in the chamber, must repeat the save.
+  The gas disperses after 1 minute.
+
+
+--------------------
+
+==== 9. Great Cavern ====
+//Steep escarpments divide this large cavern into three sections--high ledges at either end, and a lower section in the middle. Carved stone stairs climb up to the ledges. Two large tables stand in the middle section, along with a pair of old braziers. A smaller table stands on the eastern ledge. The skeletal remains of dozens of dead warriors--dwarves, gnomes, orcs, and ogres--attest to the fierceness of the fighting that took place here long ago.//
+
+7 ghouls are in the shadows on the western ledge.
+
+**Loot**
+ghoul claws
+
+
+--------------------
+
+==== 10. Dark Pool ====
+//A still pool fills much of this cavern. The water is dark, revelaing little of what might lie within. The shore of the pool consists of a thin layer of broken shells from strange, pale mussels, and a fishy odor hangs in the air. A passage leads south from this area, and a set of steps climbs up to the east. A sluggish stream flows out of the cave to the northeast.//
+
+The pool is 20 feet deep in its center.
+The stream is 3 feet deep and the tunnel it creates is 6 feet tall, it permits character movement to area 18.
+
+**Loot**
+There is an arrow-riddled skeleton at the bottom of the pool.
+  It is wearing 2 platinum rings (75gp each)
+  It is clutching a wand of magic missiles in its bony fingers.
+
+
+--------------------
+
+==== 11. North Barracks ====
+
+
+--------------------
+
+==== 12. Smelter Cavern ====
+
+
+--------------------
+
+==== 13. Starry Cavern ====
+
+
+--------------------
+
+==== 14. Wizard's Quarters ====
+
+
+--------------------
+
+==== 15. Forge of Spells ====
+
+
+--------------------
+
+==== 16. Booming Cavern ====
+
+
+--------------------
+
+==== 17. Old Streambed ====
+
+
+--------------------
+
+==== 18. Collapsed Cavern ====
+
+
+--------------------
+
+==== 19. Temple of Dumathoin ====
+
+
+--------------------
+
+==== 20. Priests' Quarters ====
+
+
+
+
