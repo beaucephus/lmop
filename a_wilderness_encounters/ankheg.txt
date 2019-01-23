@@ -14,7 +14,9 @@ each pit is 30 ft in diamater
 one pit has wagon tilted in, small wooden/iron chest near bottom of pit
 ankheg comes out if pit disturbed twice
 
-loot: ankheg claw (greatsword), ankheg acid (vial of acid)
+**loot** 
+ankheg claw (greatsword), ankheg acid (vial of acid)
+chest: 200gp worth of gems, treasure map with unknown features (adventure hook to [[Thar]] , a desert region and kingdom to the east)
 
 developments: 
 
