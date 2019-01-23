@@ -11,6 +11,14 @@ They are under the orders of [[Nezznar the Black Spider]] to sew chaos and insta
 
 They patrol the streets of [[Phandalin]] and attempt to run off any new comers.
 
+**Encounter: Redbrand Ruffians**
+4 redbrands attack the party either leaving a building or on a street out of town.
+2 try to distract from the front, 2 try to sneak up from behind
+the leader tries to distract them what a "made you look" gag
+  if he succeeds, everyone who looks is surprised
+if they redbrands win, they take everybody's stuff and tie them up in the dungeon of the [[Redbrand Hideout]]
+  Their things are half boxed up in the storeroom area of the hideout
+
 **What the Redbrands Know**
 The leader is a human nick-named Glasstaff
 [[Nezznar the Black Spider]] hired the [[Redbrands]] to scare off adventurers and intimidate the locals,
