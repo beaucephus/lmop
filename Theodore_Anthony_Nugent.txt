@@ -11,7 +11,7 @@ Ted is the alchemical physician/undertaker in [[Phandalin]].
 He lives and works out of his small clinic just east of the [[Sleeping Giant]].
 The undertaker's workshop is out back, separate from his home/clinic.
 
-He normally sells Potions of Healing for 50g, but is running low on supplies.
+He normally sells Potions of Healing for 50g, but is running low on supplies.  He could also craft some potions of greater healing with more spider venom.
 
 Ted needs large quantities of spider venom for medicine (good for Potions of healing).
   He offers 3 Potions of Healing for 3 large vials of spider venom, he provides the vials.
