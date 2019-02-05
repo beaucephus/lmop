@@ -7,4 +7,6 @@ Created Tuesday 08 January 2019
 
 Shrine to [[Tymora, Goddess of Luck]].
 
-[[Sister Garaele]] lives in a small cottage behind the shrine and offers the party 3 Potions of Healing to retrieve an old wizard's spellbook from [[Agatha the Banshee]]
+[[Sister Garaele]] lives in a small cottage behind the shrine and offers the party to use a divination spell to learn the location of [[Gundren Rockseeker]] in exchange for retrieving [[Arthindol's Spellbook]] from [[Agatha the Banshee]]
+
+She learns the Discern Location (3e) spell from [[Arthindol's Spellbook]] which she could use to locate Gundren.
