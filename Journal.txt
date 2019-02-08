@@ -5,14 +5,10 @@ Creation-Date: 2019-01-10T17:35:48-05:00
 ====== Journal ======
 Created Thursday 10 January 2019
 
-===== Session 0/1 =====
-
-===== 2018 =====
+===== Session 0/1 2018 =====
 Arrived in [[Phandalin]].
 
-===== Session 2 =====
-
-===== 19/01/10 =====
+===== Session 2 19/01/10 =====
 Learned of [[Theodore Anthony Nugent]] the town physician/undertaker.
 
 Found [[Daren Edermath]]'s quest
@@ -28,9 +24,7 @@ Left for [[Triboar Trail]].
 
 Party exp: 500 each
 
-===== Session 3 =====
-
-===== 19/01/24 =====
+===== Session 3 19/01/24 =====
 Fought an ankheg in the [[Ruins of Conyberry]]
 Traveled north to [[agatha's hut]]
 Fought some stirges
@@ -40,9 +34,7 @@ Got [[Arthindol's Spellbook]]
 Travelled back to [[Phandalin]]
 Levelled up to level 3!!!
 
-===== Session 4 =====
-
-===== 19/01/31 =====
+===== Session 4 19/01/31 =====
 Gave spellbook to [[Sister Garaele]]
   She will take a day to copy the locator spell and will be able to cast it in a day
 Visited [[Daren Edermath]] and received payment for the [[old owl well]] quest.
@@ -55,3 +47,27 @@ The party learned of the [[Redbrands]] hangout at the [[Sleeping Giant]]
 [[Sildar Hallwinter]] is missing from the Townhall. 
   Sildar's requests for reinforcements aren't getting to Neverwinter, they're being intercepted.
   Silder left for Neverwinter himself.
+
+===== Session 5 19/02/07 =====
+[[Arjun Prexajandlin]] left on his own to find [[Gundren Rockseeker]] and [[Cragmaw Castle]]
+The party met with [[Sister Garaele]] and used her new divination spell to locate [[Cragmaw Castle]] and [[Gundren Rockseeker]]
+  [[Othard]] stole back [[Arthindol's Spellbook]]
+The party met [[Atan]] who was being assaulted by 2 [[Redbrands]]
+  They scared off the Redbrands and Atan joined the party to find the [[Forge of Spells]]
+The party went to [[old owl well]] 
+  They retrieved the [[Sling of Critical Accuracy]] from the bottom of the well
+  They exchanged [[Arthindol's Spellbook]] for [[Jober]] to learn a 2nd level version of Animate Dead.  Add Life Transference to his domain spell list at 5th level.
+The party set out to find [[Cragmaw Castle]] and instead found the [[a wilderness encounters:rickety tower|rickety tower]] full of kobolds and magical [[Quiver of Pristine Fletching]].  The tunnel underneath leads to a [[a wilderness encounters:Kobold Lair|Kobold Lair]]
+short rest!!! 
+  [[Ulric]] attuned to the [[Sling of Critical Accuracy]]
+  [[Leaf in the Grass]] attuned to the [[Quiver of Pristine Fletching]]
+  
+
+===== Next Time... =====
+New quest posted by [[Theodore Anthony Nugent]] : [[a quests:WTB giant spider venom|WTB giant spider venom]]
+
+
+
+
+
+

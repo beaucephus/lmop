@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-08T14:08:56-05:00
+
+====== Quiver of Pristine Fletching ======
+Created Friday 08 February 2019
+
+Well-made quiver with ornate embroidery of jade in the shape of swallow feathers.
+
+Requires attunement
+When attuning, set the quiver to arrows or bolts. 
+Anything arrow-shaped that is placed in the quiver grows fletchings and a sharp point. It can be used as an arrow or bolt.
+Any bolt or arrow placed in the quiver magically improves in quality and becomes a magical +1 arrow or bolt.
