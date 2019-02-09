@@ -5,7 +5,7 @@ Creation-Date: 2019-01-07T20:45:07-05:00
 ====== Wyvern Tor ======
 Created Monday 07 January 2019
 
-Wyvern Tor is a very prominent hill in the foothills between the [[Ruins of Conyberry]] and the [[Sword Mountains.]]
+Wyvern Tor is a very prominent hill in the foothills between the [[Ruins of Conyberry]] and the [[Sword Mountains]]
 It is visible from 20 miles away.
 The orc camp can some time to find...Factor this into the party's attempts to find it.
 
