@@ -68,7 +68,7 @@ A mote of pitch runs the length of the tunnels leading to this area.  If any kob
 2 kobold scale sorcerors, 2 kobold dragonshields, and 1 older-looking kobold inventor with 16 AC and 30 HP are in this room.
 
 **Developments**
-If the players capture one of the kobolds here, they tell the players that [[Venomfang]] a terrible green dragon that lives in the ruins to the northwest will come and avenge them we she doesn't receive her tribute on time.
+If the players capture one of the kobolds or the kobolds surrender (last one standing will surrender), they tell the players that [[Venomfang]] a terrible green dragon that lives in the ruins to the northwest will come and avenge them we she doesn't receive her tribute on time.
   The kobolds have been using their tower setup to kill game and goblinoids.  They give the game and treasure looted from the goblinoids to Venomfang as tribute.
   They also try to lie and say there is more treasure in area 8 (The old treasure room before the cave-in).  There is really a water elemental.
 
