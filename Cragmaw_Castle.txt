@@ -49,7 +49,7 @@ If the trap is triggered, it alerts enemies in areas 3, 7, 8, and 9.
 ==== 4. Ruined Barracks ====
 //The southwest tower of the castle is little more than a heap of rubble.  Several ragged bedrolls are scattered across the remaining floor space, and a small, twisting passage leads east through the ruins.//
 
-3 goblins bunk here.
+4 goblins bunk here.
 
 **Developments**
 Any loud noises here alert the goblins in the 7. Banquet Hall.  One comes to investigate first.
@@ -99,7 +99,7 @@ There is a magical golden statue of a sun elf worth 100gp buried in the coals of
 ==== 9. Goblin Shrine ====
 //This chamber occupies the northern tower of the castle.  A stone alter stands in the middle of the room, covered with bloodstained black cloth.  Golden ritual implements--a chalice, a knife, and a censer--are carefully arranged on top of the altar.  Two archways to the south are covered with heavy curtains.//
 
-Lhupo, a goblin with 12 HP and 2 ordinary goblins are in this chamber.  If not alerted by the grick in the 8. Dark Hall, they are knealing, praying to Maglubiyet for victory over the humans in [[Phandalin]]
+Lhupo, a goblin with 12 HP and 3 ordinary goblins are in this chamber.  If not alerted by the grick in the 8. Dark Hall, they are knealing, praying to Maglubiyet for victory over the humans in [[Phandalin]]
 If alerted, they attempt to hide behind the alter and surprise the party.
 
 **Loot**
@@ -141,7 +141,7 @@ On the jagged remnants of the second floor ledge stands 1 intact bookshelf.  The
 
 In this room:
   [[King Grol of Cragmaw Castle]] - a bugbear chief
-  [[https://roll20.net/compendium/dnd5e/Wolf#content|Snarl]] - Grol's pet wolf with 18 HP
+  2 wolves, [[https://roll20.net/compendium/dnd5e/Wolf#content|Snarl]] and Mange, Grol's pet wolves with 18 HP
   [[Vyerith]] - a drow spy 
   [[Gundren Rockseeker]] - unconscious
 
@@ -158,7 +158,7 @@ Hidden under Grol's bed mattress is a stitched leather sack containing 100 gp, 3
 
 
 ==== Returning War Band ====
-3 hobgoblins and 2 wolves
+4 hobgoblins and 2 wolves
 Led by hobgoblin [[Targor Bloodsword]]
 Targor wants to succeed Grol, doesn't fight the party if he finds out they killed Grol
   
