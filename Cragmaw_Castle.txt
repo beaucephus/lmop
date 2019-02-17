@@ -141,7 +141,7 @@ On the jagged remnants of the second floor ledge stands 1 intact bookshelf.  The
 
 In this room:
   [[King Grol of Cragmaw Castle]] - a bugbear chief
-  Snarl - Grol's pet wolf with 18 HP
+  [[https://roll20.net/compendium/dnd5e/Wolf#content|Snarl]] - Grol's pet wolf with 18 HP
   [[Vyerith]] - a drow spy 
   [[Gundren Rockseeker]] - unconscious
 
@@ -152,6 +152,8 @@ If Grol is slain, Vyerith tries to kill Gundren and flees.  If corned, Vyerith f
 If Gundren is revived, he thanks the party graciously, but won't leave without his map.  He knows Grol had it.
 
 **Loot**
+If [[Vyerith]] is slain, see her sheet.
+Grol has a [[Cloak of Billowing]]
 Hidden under Grol's bed mattress is a stitched leather sack containing 100 gp, 3 Potions of Healing, and Gundren's map to [[Wave Echo Cave]]
 
 

@@ -26,7 +26,7 @@ Party exp: 500 each
 
 ===== Session 3 19/01/24 =====
 Fought an ankheg in the [[Ruins of Conyberry]]
-Traveled north to [[agatha's hut]]
+Traveled north to [[1 quests:agatha's hut]]
 Fought some stirges
 Saved the [[Owlbear of Neverwinter Wood]]
 Visited [[Agatha the Banshee]]
@@ -51,15 +51,15 @@ The party learned of the [[Redbrands]] hangout at the [[Sleeping Giant]]
 ===== Session 5 19/02/07 =====
 [[Arjun Prexajandlin]] left on his own to find [[Gundren Rockseeker]] and [[Cragmaw Castle]]
 The party met with [[Sister Garaele]] and used her new divination spell to locate [[Cragmaw Castle]] and [[Gundren Rockseeker]]
-  [[Othard]] stole back [[Arthindol's Spellbook]]
+  [[Othard Drapier]] stole back [[Arthindol's Spellbook]]
 The party met [[Atan]] who was being assaulted by 2 [[Redbrands]]
   They scared off the Redbrands and Atan joined the party to find the [[Forge of Spells]]
 The party went to [[old owl well]] 
   They retrieved the [[Sling of Critical Accuracy]] from the bottom of the well
   They exchanged [[Arthindol's Spellbook]] for [[Jober]] to learn a 2nd level version of Animate Dead.  Add Life Transference to his domain spell list at 5th level.
-The party set out to find [[Cragmaw Castle]] and instead found the [[a wilderness encounters:rickety tower|rickety tower]] 
+The party set out to find [[Cragmaw Castle]] and instead found the [[1 wilderness encounters:rickety tower|rickety tower]] 
   The tower was full of kobolds and magical [[Quiver of Pristine Fletching]].  
-  The tunnel underneath leads to a [[a wilderness encounters:Kobold Lair|Kobold Lair]]
+  The tunnel underneath leads to a [[1 wilderness encounters:Kobold Lair|Kobold Lair]]
   2 Kobolds escaped into the tunnel to warn the others
 short rest!!! 
   [[Ulric]] attuned to the [[Sling of Critical Accuracy]]
@@ -67,9 +67,16 @@ short rest!!!
   
 
 ===== Next Time... =====
-New quest posted by [[Theodore Anthony Nugent]] : [[a quests:WTB giant spider venom|WTB giant spider venom]]
-Prepare [[a wilderness encounters:Kobold Lair|Kobold Lair]] just incase
+Prepare [[1 wilderness encounters:Kobold Lair|Kobold Lair]] just incase
 Proabably [[Cragmaw Castle]]
+Sildar is back in Phandalin with a group of 5 guards to establish a constabulary.
+  Offers to help the players route the Redbrands.
+
+
+===== Future... =====
+New quest posted by [[Theodore Anthony Nugent]] : [[1 quests:WTB giant spider venom|WTB giant spider venom]]
+Lionshield Coster store is for sale due to lack of supplies.  The branding is being white washed.  Linene Greywind is packing up and worries what she will do.
+
 
 
 

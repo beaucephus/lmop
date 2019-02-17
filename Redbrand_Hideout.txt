@@ -106,7 +106,7 @@ A crazy, chaotic evil nothic named [[Grendel]] who would rather deal than fight 
   He speaks telepathicly and knows common.
   He offers a deal to non-good players.
 	[[Jober]]: Kill [[Gundren Rockseeker]], get the location of [[Wave echo cave]].
-	[[Othard]]:  Ruin [[Linene Greywind]], get the location of [[Wave echo cave]] . 
+	[[Othard Drapier]]:  Ruin [[Linene Greywind]], get the location of [[Wave echo cave]] . 
 
 The bridges are simple wooden planks with supporting beams.  DC 10 strength check to dislodge a support and crash the bridge. 
 The south bridge is trapped to collapse in the center.  DC 15 investigation to discover trap.

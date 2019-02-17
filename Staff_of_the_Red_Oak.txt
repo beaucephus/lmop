@@ -5,7 +5,7 @@ Creation-Date: 2019-01-12T20:34:44-05:00
 ====== Staff of the Red Oak ======
 Created Saturday 12 January 2019
 
-Staff, rare (require attunement by a druid)
+Staff, rare (requires attunement)
 
 This staff can be weilded as a magic quarterstaff that grants +1 to attack and damage rolls made with it.
 

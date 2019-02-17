@@ -5,9 +5,23 @@ Creation-Date: 2019-01-13T08:29:43-05:00
 ====== Vyerith ======
 Created Sunday 13 January 2019
 
-Vyerith is an underling of [[Nezznar the Black Spider]]
+Vyerith is a female drow spy.
 
-She is a female drow spy and fears Nezznar's wrath.  She will not fail him.
+**Motivation**
+Vyerith is a loyal lieutenant of [[Nezznar the Black Spider]]
+She wants to complete her mission which is to either retrieve or destroy all information regarding [[Wave Echo Cave]]
 
+**Personality**
+She is a smooth talker and never raises her voice.
+
+**Knowledge**
+Vyerith is very tight-lipped and trained to resist torture and interrogation.
+Vyerith knows that Nezznar is in [[Wave Echo Cave]]
+She knows why the drow are here on the surface (To utilize the [[Forge of Spells]] to craft magical weapons in order to turn the tide in their war with the deurgar in the underdark.)
+
+**Stat Blocks**
 https://roll20.net/compendium/dnd5e/Monsters:Drow/#h-Drow
 https://roll20.net/compendium/dnd5e/Monsters:Spy/#h-Spy
+
+**Loot**
+[[Armor of Gleaming(Studded Leather)]]

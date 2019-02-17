@@ -5,9 +5,20 @@ Creation-Date: 2019-01-10T09:51:42-05:00
 ====== Gundren Rockseeker ======
 Created Thursday 10 January 2019
 
-Gundren Rockseeker is the eldest of the Rockseeker brothers.
-He and his brothers have discovered the entrance to [[Wave echo cave]], the location of the [[Lost Mine of Phandelver]].
+Gundren Rockseeker is a male dwarf and the eldest of the Rockseeker brothers.
+Gundren and his brothers have discovered the entrance to [[Wave echo cave]], the location of the [[Lost Mine of Phandelver]] 
+[[Jober]] has a sharp distaste for Gundren
+
+**Motivation**
+Gundren wants to find his brothers and plans to open up the [[Lost Mine of Phandelver]] as a mining operation.
+
+**Personality**
+Gundred is the oldest brother of 3 so he is the defacto leader of the Rockseekers.
+He puts on strong aires of confidence, even in the worst of circumstances.
+He can sometimes be patronizing.
+
+===== 19/02/17 =====
 Gundren is currently being held captive at [[Cragmaw castle]].
 
-[[Jober]] has a sharp distaste for Gundren.
+
 
