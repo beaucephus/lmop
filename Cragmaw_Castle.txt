@@ -18,6 +18,11 @@ During the day, dim light filters in through the arrow slits.  There are no lit 
 Arrow slits give 3/4 cover (+5 to AC)
 
 
+==== Returning/Patrolling War Band ====
+4 hobgoblins and 2 wolves
+Led by hobgoblin [[Targor Bloodsword]]
+Targor wants to succeed Grol, doesn't fight the party if he finds out they killed Grol
+
 ==== 1. Castle Entrance ====
 //The castle consists of seven crumbling towers of different sizes and heights, but the upper stories are all in varying states of collapse.  A short flight of steps leads up to a terrace in front of the main entryway.  Past the wreckage of a pair of sundered doors lies a shadowed hall.  Round towers loom over the entranceway, with dark arrow slits looking down on the terrace.//
 
@@ -156,11 +161,6 @@ If [[Vyerith]] is slain, see her sheet.
 Grol has a [[Cloak of Billowing]]
 Hidden under Grol's bed mattress is a stitched leather sack containing 100 gp, 3 Potions of Healing, and Gundren's map to [[Wave Echo Cave]]
 
-
-==== Returning War Band ====
-4 hobgoblins and 2 wolves
-Led by hobgoblin [[Targor Bloodsword]]
-Targor wants to succeed Grol, doesn't fight the party if he finds out they killed Grol
   
   
 
