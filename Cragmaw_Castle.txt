@@ -90,7 +90,9 @@ Yegg is the chief cook for the [[Cragmaw Goblins]].  If he is defeated, the othe
 
 ==== 8. Dark Hall ====
 This text assumes darkvision or light!!!
-//This high, narrow hall looks as if it might have been part of a chapel or shrine at one time.  Angelic figures are sculpted along the room's upper reaches, looking down on the floor below.  To the north, heavy curtains block a matching pair of archwys.  Between the archways is a cracked but ornately carved stone brazier.//
+//This high, narrow hall looks as if it might have been part of a chapel or shrine at one time.  Angelic figures are sculpted along the room's upper reaches, looking down on the floor below.  To the north, heavy curtains block a matching pair of archwys.  Between the archways is a cracked but ornately carved stone brazier.  The stench of decay assaults your senses seemingly coming from a large pile of something in the southeastern corner.//
+
+The pile is mangled, half-eaten humanoid and animal bodies.  All missing their hearts.
 
 This chamber contains a grick, the special pet of the boblin Lhupo in the 9. Goblin Shrine.
 
@@ -102,10 +104,13 @@ There is a magical golden statue of a sun elf worth 100gp buried in the coals of
 
 
 ==== 9. Goblin Shrine ====
-//This chamber occupies the northern tower of the castle.  A stone alter stands in the middle of the room, covered with bloodstained black cloth.  Golden ritual implements--a chalice, a knife, and a censer--are carefully arranged on top of the altar.  Two archways to the south are covered with heavy curtains.//
+//This chamber occupies the northern tower of the castle.  A stone alter stands in the middle of the room, covered with bloodstained black cloth.  Golden ritual implements--a chalice, a knife, and a censer--are carefully arranged on top of the altar along with a large wooden bowl.  Two archways to the south are covered with heavy curtains.//
 
-Lhupo, a goblin with 12 HP and 3 ordinary goblins are in this chamber.  If not alerted by the grick in the 8. Dark Hall, they are knealing, praying to Maglubiyet for victory over the humans in [[Phandalin]]
+The bowl contains a dozen hearts.
+
+[[Lhupo the goblin cleric]] and 3 ordinary goblins are in this chamber.  If not alerted by the grick in the 8. Dark Hall, they are knealing, praying to Maglubiyet for victory over the humans in [[Phandalin]]
 If alerted, they attempt to hide behind the alter and surprise the party.
+Lhupo uses Thaumaturgy over 2 rounds to summon the grick.  He then hides in a locked compartment under the alter (DC 25 to smash, 5 to lockpick)
 
 **Loot**
 The chalice, knife, and censer are human-made art objects worth 150gp, 60gp, and 120gp, respectively

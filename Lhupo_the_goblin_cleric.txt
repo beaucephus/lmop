@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-27T12:56:52-05:00
+
+====== Lhupo the goblin cleric ======
+Created Wednesday 27 February 2019
+
+Lhupo is a short, fat lvl 1 goblin cleric of maglubiyet.
+
+**Motivation**
+Lhupo wants to serve his god of war
+
+
+**Personality**
+Lhupo has a very deep, fat, goblin voice
+He speaks good common, and talks withs a slow bellow
+Think preacher giving a sermon in a large hall.
+
+
+**Knowledge**
+Lhupo gnows the [[Cragmaw Goblins]] , and knows they are working with [[Nezznar the Black Spider]] who he knows is a drow emmisarry of sorts.
+
+
+20 HP
+16 AC
+
++2 proficiency
++3 Wisdom
+
+spells known
+  Sacred Flame
+  Thaumaturgy
+
+1st level (2 times per day)
+  Healing Word
+  Command
+  Inflict Wounds
+
