@@ -71,6 +71,10 @@ short rest!!!
 [[Arjun Prexajandlin]] joined the party
 [[Cragmaw Castle]]
   Cleared first 6 rooms
+	Found some gear with neverwinter emblem on it
+	breastplate
+	heavy crossbow
+	longsword
 
 
 ===== Session 7 =====
@@ -78,6 +82,7 @@ Taking a short rest in the castle
   Players notice goblin riders riding wargs circling the castle and running on into the forest blowing horns.
   The rubble in area 2 is mostly gone, it has been used to barricade the doors to the temple and mess hall.
   The doors to the mess hall and temple will be barricaded (DC 22 strength to force open)
+	No goblins in mess hall.
   The goblins in the mess hall, and the returning war band have formed 2 search parties, and are dispatched to deal with the intruders
 	2 hobgoblins, 1 wolf, and a bugbear find them in their hideout.
 	  They pry the door off its hinges and toss a molotov cocktail into the party (DC 10 dex save, 3d6 fire dmg or half on save)
