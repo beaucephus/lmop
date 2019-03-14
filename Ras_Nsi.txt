@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-14T08:48:29-04:00
+
+====== Ras Nsi ======
+Created Thursday 14 March 2019
+
+Ras Nsi is the leader of the yuan-ti faction on the island of [[Chult]]
+
+Ras Nsi sent [[Atan]] on a mission to find the [[Forge of Spells]] and take control of it for the yuan-ti.
