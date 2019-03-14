@@ -84,7 +84,9 @@ Taking a short rest in the castle
   The doors to the mess hall and temple will be barricaded (DC 22 strength to force open)
 	No goblins in mess hall.
   The goblins in the mess hall, and the returning war band have formed 2 search parties, and are dispatched to deal with the intruders
-	2 hobgoblins, 1 wolf, and a bugbear find them in their hideout.
+	2 hobgoblins, 1 wolf, and a bugbear, Buhga, find them in their hideout.
+	  Buhga offers to spare them if they surrender.
+		He'll take their stuff, looking for a map, and tie them up until it's time for sacrifice.
 	  They pry the door off its hinges and toss a molotov cocktail into the party (DC 10 dex save, 3d6 fire dmg or half on save)
 	5 goblins, 1 wolf, and a bugbear end up behind the party
 	  They will try to sneak up behind the party if the party takes too long
