@@ -12,17 +12,15 @@ Created Friday 08 February 2019
 [[Othard Drapier]]
 [[Atan]]
 
-===== Combat Difficulty (4-6 3rd level players) =====
+===== Combat Difficulty (4-6 4th level players) =====
 Easy
-300-450
+500-800
 
 Medium
-600-900
+1000-1500
 
 Hard
-900-1350
+1500-2250
 
 Deadly
-1600-2400
-
-
+2000-3000

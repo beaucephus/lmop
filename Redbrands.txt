@@ -4,7 +4,7 @@ Creation-Date: 2019-01-09T18:13:55-05:00
 
 ====== Redbrands ======
 Created Wednesday 09 January 2019
-
+{{.\redbrand.png}}
 Group of bandits based in the ruins under [[Tresendar Manor]] in [[Phandalin]].  
 They are lead by [[Iarno Albrek aka Glasstaff]] aka Glasstaff.
 They are under the orders of [[Nezznar the Black Spider]] to sew chaos and instability in the [[Triboar Trail]] area.
@@ -26,4 +26,25 @@ The leader is a human nick-named Glasstaff
 The lower part of the [[Redbrand Hideout]] is guarded by a hideous "eye monster" 
 There are captives in the holding area of the [[Redbrand Hideout]] "near the old crypts", the crypts are guarded by skeletons.
 
-{{~\Downloads\redbrand_ruffian.png}}
+**Updated Redbrand stats**
+HP 24
+AC 16
+
+short sword
++6 to hit
+2d6+3 piercing damage
+
+Multi attack
+Potions and Scrolls!!!
+  Potion of speed(haste spell)
+  Potion of Invisibility
+  Potion of Enlarge(Enlarge/Reduce Spell)
+  Potions of Healing(4d4 + 4)
+  
+  Scroll of Suggestion
+  Scroll of Burning Hands
+  Scroll of Slow
+  Scroll of Fear
+
+
+
