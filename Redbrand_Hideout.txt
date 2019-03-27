@@ -104,9 +104,7 @@ A crazy, chaotic evil nothic named [[Grendel]] who would rather deal than fight 
   The nothic was here before the redbrands, and made a deal with [[Iarno Albrek aka Glasstaff]] .  
   He guards this passage in exchange for treasure and food.  [[Grendel]] will betray Iarno for treasure or food.
   He speaks telepathicly and knows common.
-  He offers a deal to non-good players.
-	[[Jober]]: Kill [[Gundren Rockseeker]], get the location of [[Wave echo cave]].
-	[[Othard Drapier]]:  Ruin [[Linene Greywind]], get the location of [[Wave echo cave]] . 
+  He offers conflicting information in an effort to confuse the players.
 
 The bridges are simple wooden planks with supporting beams.  DC 10 strength check to dislodge a support and crash the bridge. 
 The south bridge is trapped to collapse in the center.  DC 15 investigation to discover trap.

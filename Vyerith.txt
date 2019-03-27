@@ -23,5 +23,10 @@ She knows why the drow are here on the surface (To utilize the [[Forge of Spells
 https://roll20.net/compendium/dnd5e/Monsters:Drow/#h-Drow
 https://roll20.net/compendium/dnd5e/Monsters:Spy/#h-Spy
 
+HP 40
+AC 16
++6 to hit
++4 to dmg
+
 **Loot**
 [[Armor of Gleaming(Studded Leather)]]

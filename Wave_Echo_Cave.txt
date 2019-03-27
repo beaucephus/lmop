@@ -31,17 +31,21 @@ Fifteen miles east of Phandalin, in the deep vales of the [[Sword Mountains]] li
 
 ==== 1. Cave Entrance ====
 //The entrance tunnel leads into a large cavern supported by a natural pillar of rock and containing three stalagmites. Int the western part of the cave, behind the column of rock, are three bedrolls and a heap of ordinary supplies--sacks of flour, bags of salt, casks of salted meat, lanterns, flasks of lamp oil, pickaxes, shovels, and other gear. Amid the supplies, you see the body of a dwarf miner, dead for at least a week.//
-//The northeastern section of the cavern has collapsed, forming a ten-foot-wide, twenty-foot-deep pit. A sturdy hemp rope is tied off around a nearby stalagmite and dangles down the side of the pit,  at the bottom of which is a rough-hewn tunnel heading northwest and east.//
+//The northeastern section of the cavern has collapsed, forming a deep pit.//
 
 This was the campsite of the Rockseekers
 The dead dwarf is the middle brother, Tharden.
 DC15 Athletics to climb up or down the pit w/o rope
 Tunnels lead to areas 2 and 3.
 
-Potentially put an encounter with something coming out of the tunnel just as the last person descends the rope.
+Vyerith and some drow fighters keep watch in this area.
+  Vyerith has a scroll of haste which she uses at the start of battle. (speed doubled, +2 AC, advantage on dex saves, additional attack)
+  She uses her boots of spider climbing to climb to the ceiling and loose arrow from behind stalagtites.
+
+// A sturdy hemp rope is tied off around a nearby stalagmite and dangles down the side of the pit,  at the bottom of which is a rough-hewn tunnel heading northwest and east.//
 
 **Loot**
-Tharden is wearing a pair of Boots of Striding and Springing.
+Vyerith loot and drow scale mail
 
 
 --------------------
