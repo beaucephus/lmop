@@ -8,4 +8,18 @@ Created Sunday 13 January 2019
 Iarno Albrek is a former member of the [[Lord's Alliance]]
 He was sent to [[Phandalin]] to set up a constabulary, but instead create the bandit gang calling them, the [[Redbrands]]
 
-{{..\evil_mage.png}}
+HP 50+
+AC 16(mage armor + Staff of Defense)
++7 to hit
+15 spell save DC
+
+Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
+1st level (4 slots): mage armor, magic missile, shield, charm person
+2nd level (3 slots): alter self, misty step, web
+3rd level (2 slots): fly, lightning bolt
+
+Staff of Defense
++1 AC
+10 charges
+  Mage Armor (1 charge)
+  Shield (2 charges)

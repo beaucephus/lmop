@@ -38,14 +38,14 @@ The dead dwarf is the middle brother, Tharden.
 DC15 Athletics to climb up or down the pit w/o rope
 Tunnels lead to areas 2 and 3.
 
-Vyerith and some drow fighters keep watch in this area.
+[[Vyerith]] and some drow fighters keep watch in this area.
   Vyerith has a scroll of haste which she uses at the start of battle. (speed doubled, +2 AC, advantage on dex saves, additional attack)
-  She uses her boots of spider climbing to climb to the ceiling and loose arrow from behind stalagtites.
+  She uses her slippers of spider climbing to climb to the ceiling, casts Darkness and uses Blinding arrows from behind stalagtites.
 
 // A sturdy hemp rope is tied off around a nearby stalagmite and dangles down the side of the pit,  at the bottom of which is a rough-hewn tunnel heading northwest and east.//
 
 **Loot**
-Vyerith loot and drow scale mail
+Vyerith loot and intricate drow scale mail
 
 
 --------------------

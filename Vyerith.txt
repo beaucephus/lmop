@@ -29,4 +29,5 @@ AC 16
 +4 to dmg
 
 **Loot**
-[[Armor of Gleaming(Studded Leather)]]
+Slippers of Spider Climbing
+Blinging Warheads

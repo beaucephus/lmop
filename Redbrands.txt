@@ -32,7 +32,7 @@ AC 16
 
 short sword
 +6 to hit
-2d6+3 piercing damage
+1d6+3 piercing damage
 
 Multi attack
 Potions and Scrolls!!!
