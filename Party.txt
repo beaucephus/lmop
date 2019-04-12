@@ -5,22 +5,25 @@ Creation-Date: 2019-02-08T14:52:38-05:00
 ====== Party ======
 Created Friday 08 February 2019
 
-[[Jober]]
+~~Jober~~
 [[Leaf in the Grass]]
-[[Ulric]]
+~~Ulric~~
 [[Arjun Prexajandlin]]
 [[Othard Drapier]]
-[[Atan]]
+~~Atan~~
+[[Fie]]
+[[H'ruck]]
+[[Biff Broadsteele]]
 
-===== Combat Difficulty (4-6 4th level players) =====
+===== Combat Difficulty (4-6 5th level players) =====
 Easy
-500-800
-
-Medium
 1000-1500
 
+Medium
+2000-3000
+
 Hard
-1500-2250
+3000-4500
 
 Deadly
-2000-3000
+4400-6600
