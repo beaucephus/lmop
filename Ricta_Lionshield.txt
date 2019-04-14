@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-14T16:58:35-04:00
+
+====== Ricta Lionshield ======
+Created Sunday 14 April 2019
+
+Ricta is a lesser ranking noble of the Lionshield family.
+
+**Motivation**
+Ricta wants to sell the [[Lionshield Coster]] and return to [[Neverwinter]] ASAP.
+
+**Looks and Personality**
+Ricta is a 25-year-old human female of dark complexion and friendly manner.
+She has black hair pulled up into twin poytails.
+She fancies [[Othard Drapier]] and will flirt with him if given the chance.
+
+**Loot**
+122GP
+a pouch containing Dust of Disappearance

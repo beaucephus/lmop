@@ -121,8 +121,13 @@ The redbrand hideout is emptied out.
 Level 5!!!
 
 ===== Session 12 =====
-[[1 Encounters:Redbrand's Last Stand]]
+[[1 Encounters:Redbrand's Last Stand]] during the night
 Maybe [[1 Random Encounters:hippogriffs]] or [[1 Random Encounters:saber-toothed tiger]]
+If the party returns to [[Phandalin]] with the kidnapped villagers, the Harbin, Silder, Toblin and other villagers  thank them and promise to help them and spread word of their deeds. (Prompt the party for a team name.)
+  There is a Lionshield wagon outside the Lionshield Coster
+  [[Ricta Lionshield]] is outside barking orders to workers.
+  They are loading inventory into the wagon, whitewashing the Lionshield branding, and posting a "for sale 2500GP" sign.
+  
 [[1 Random Encounters:Stone Defenders]] if the party goes to [[Wave Echo Cave]]
 
 ===== Future... =====
