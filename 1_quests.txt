@@ -2,6 +2,6 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-02-08T13:33:44-05:00
 
-====== 1 quests ======
+====== 1 Quests ======
 Created Friday 08 February 2019
 

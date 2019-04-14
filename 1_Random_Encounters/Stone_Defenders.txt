@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-14T16:29:32-04:00
+
+====== Stone Defenders ======
+Created Sunday 14 April 2019
+
+//The lightly wooded area gives way to 20-foot square grotto set in the center of a 40-ft clearing.  On the other side of the grotto, hidden in dense foliage is a huge mound of earth adorned with a 5-foot doorway of worked stone.  A carving of a dwarf is set into either side of the stone doorway.//
+
+If the players inspect the grotto, they find the dead body of a drow fighter in studded leather drown armor.
+The dwarfs are Stone Defenders and animate if any creature comes within 5 feet of the doorway.
+  They understand Dwarvish, but cannot speak.  They obey commands given in dwarvish. 

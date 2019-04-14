@@ -58,9 +58,9 @@ The party met [[Atan]] who was being assaulted by 2 [[Redbrands]]
 The party went to [[old owl well]] 
   They retrieved the [[Sling of Critical Accuracy]] from the bottom of the well
   They exchanged [[Arthindol's Spellbook]] for [[Jober]] to learn a 2nd level version of Animate Dead.  Add Life Transference to his domain spell list at 5th level.
-The party set out to find [[Cragmaw Castle]] and instead found the [[1 wilderness encounters:rickety tower|rickety tower]] 
+The party set out to find [[Cragmaw Castle]] and instead found the [[1 random encounters:rickety tower|rickety tower]] 
   The tower was full of kobolds and magical [[Quiver of Pristine Fletching]].  
-  The tunnel underneath leads to a [[1 wilderness encounters:Kobold Lair|Kobold Lair]]
+  The tunnel underneath leads to a [[1 random encounters:Kobold Lair|Kobold Lair]]
   2 Kobolds escaped into the tunnel to warn the others
 short rest!!! 
   [[Ulric]] attuned to the [[Sling of Critical Accuracy]]
@@ -115,14 +115,15 @@ Party left [[Redbrand Hideout]]
 ===== Session 11 19/04/11 =====
 During the night, the [[Redbrands]] raided [[Phandalin]] setting fires and stealing children.
   The Redbrands set fires, and kidnap women and children of the town.
-  They head east out of town and set up camp during the night in the wilderness
-  [[Iarno Albrek aka Glasstaff]] and X redbrands.  They have  a scroll of slow. The men protect Iarno.
-	Iarno has a potion of greater healing and staff of defense
-	The bandits + large chest have 450GP worth of coins, jewelry and gemstones
+  They head south out of town and set up camp during the night foothils of the sword mountains.
+
 The redbrand hideout is emptied out. 
 Level 5!!!
 
 ===== Session 12 =====
+[[1 Encounters:Redbrand's Last Stand]]
+Maybe [[1 Random Encounters:hippogriffs]] or [[1 Random Encounters:saber-toothed tiger]]
+[[1 Random Encounters:Stone Defenders]] if the party goes to [[Wave Echo Cave]]
 
 ===== Future... =====
 New quest posted by [[Theodore Anthony Nugent]] : [[1 quests:WTB giant spider venom|WTB giant spider venom]]

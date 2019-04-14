@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-03-20T20:41:28-04:00
+
+====== hill giant ======
+Created Wednesday 20 March 2019
+
+Party picks up human-sized tracks.
+Tracks end in 5-foot crater.
+
+attacks the party with rocks from 100ft as he approaches.
