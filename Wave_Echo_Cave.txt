@@ -53,7 +53,13 @@ Vyerith loot and intricate drow scale mail
 ==== 2. Mine Tunnels ====
 //This area consists of numerous intersecting passages. The ceilings here are only six fee high, and several of the passages end in partially excavated rock faces.//
 
-There is an ochre jelly in one of the dead-ends.  It stalks the group, trying to single out a lone character.
+Xorn. Contact with water works like acid.
+It approaches the party and tries to communicate a desire for gemstones, and valuable metals.
+It is very hungry and will resort to force if ignored.
+If helped, it reveals information about the mine.
+  It warns the party of a Wraith to the east.
+  It warns the drow are to the north of the mine.
+  It tries to get them to search the water in area 10.  He cannot go in.
 
 
 --------------------
