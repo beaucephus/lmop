@@ -59,9 +59,9 @@ There is an ochre jelly in one of the dead-ends.  It stalks the group, trying to
 --------------------
 
 ==== 3. Old Entrance ====
-//Many tunnels intersect at this natural, thirty-foot-high cavern. The walls are carved with simple reliefs showing dwarf and gnome miners hard at work. Below them, nearly 30 skeletons in rusted scraps of armor are scattered across the cavern floor. Some are dwarf skeletons, while others are orc remains. 6 large brass lanterns stand in niches or on ledges around the caver, but none are lit.//
+//Many tunnels intersect at this natural, thirty-foot-high cavern. The walls are carved with simple reliefs showing dwarf and gnome miners hard at work. Below them, nearly 30 skeletons in rusted scraps of armor are scattered across the cavern floor. Some are dwarf skeletons, while others are orc remains. 6 large brass lanterns stand in niches or on ledges around the caver, but none are lit.  2 large stalactites hang near the center of the room.//
 
-10 stirges cling to the ceilings.  They attempt to surprise the party.
+2 ropers with lowered AC cling to the ceilings.  They attempt to surprise the party.
 
 
 --------------------
@@ -69,7 +69,7 @@ There is an ochre jelly in one of the dead-ends.  It stalks the group, trying to
 ==== 4. Old Guardroom ====
 //Splintered stone benches and heaps of rubble from a partially collapsed ceiling fill this room. Amid ruined stone bunks and toppled weapon racks are the bones of several dwarves and orcs.//
 
-If any living creature enters this room, 9 skeletons stir and attack.
+If any living creature enters this room, 9 skeletons stir and attack.  Another 9 come from chamber 5.
 
 
 --------------------
@@ -88,7 +88,7 @@ Locked iron strongbox behind the counter. DC20 lockpicking to open, DC25 strengt
 **Partially open door, any character that stops to listen hears faint crunching and splintering sounds.**
 //Old stone bunks in orderly rows line the walls of this chamber, and a corroded iron brazier full of old coals stands near the middle of the room. The bones of a half dozen dwarves and orcs lie strewn abount, clad in scraps of armor. Three gray, hunched figures squat aomng the remains, pawing at the scraps and gnawing on the bones.//
 
-3 ghouls attack immediately
+5 ghouls attack immediately
 
 
 --------------------
@@ -118,10 +118,6 @@ Any attempt to cross the cavern triggers the fungi to release a stinky, colorles
 ==== 9. Great Cavern ====
 //Steep escarpments divide this large cavern into three sections--high ledges at either end, and a lower section in the middle. Carved stone stairs climb up to the ledges. Two large tables stand in the middle section, along with a pair of old braziers. A smaller table stands on the eastern ledge. The skeletal remains of dozens of dead warriors--dwarves, gnomes, orcs, and ogres--attest to the fierceness of the fighting that took place here long ago.//
 
-7 ghouls are in the shadows on the western ledge.
-
-**Loot**
-ghoul claws
 
 
 --------------------
