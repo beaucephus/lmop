@@ -30,7 +30,7 @@ Fifteen miles east of Phandalin, in the deep vales of the [[Sword Mountains]] li
 --------------------
 
 ==== 1. Cave Entrance ====
-//The entrance tunnel leads into a large cavern supported by a natural pillar of rock and containing three stalagmites. Int the western part of the cave, behind the column of rock, are three bedrolls and a heap of ordinary supplies--sacks of flour, bags of salt, casks of salted meat, lanterns, flasks of lamp oil, pickaxes, shovels, and other gear. Amid the supplies, you see the body of a dwarf miner, dead for at least a week.//
+//The entrance tunnel leads into a large cavern containing three stalagmites. Int the western part of the cave, are two bedrolls and a heap of ordinary supplies--sacks of flour, bags of salt, casks of salted meat, lanterns, flasks of lamp oil, pickaxes, shovels, and other gear. Amid the supplies, you see the body of a dwarf miner, dead for at least a week.//
 //The northeastern section of the cavern has collapsed, forming a deep pit.//
 
 This was the campsite of the Rockseekers
@@ -38,14 +38,14 @@ The dead dwarf is the middle brother, Tharden.
 DC15 Athletics to climb up or down the pit w/o rope
 Tunnels lead to areas 2 and 3.
 
-[[Vyerith]] and some drow fighters keep watch in this area.
+[[Vyerith]] and some drow elite warriors with 35 HP keep watch in this area. If they players fought the stone defenders, the drow hear them coming.
   Vyerith has a scroll of haste which she uses at the start of battle. (speed doubled, +2 AC, advantage on dex saves, additional attack)
   She uses her slippers of spider climbing to climb to the ceiling, casts Darkness and uses Blinding arrows from behind stalagtites.
 
 // A sturdy hemp rope is tied off around a nearby stalagmite and dangles down the side of the pit,  at the bottom of which is a rough-hewn tunnel heading northwest and east.//
 
 **Loot**
-Vyerith loot and intricate drow scale mail
+[[Vyerith]] loot and intricate drow scale mail
 
 
 --------------------
@@ -67,7 +67,8 @@ If helped, it reveals information about the mine.
 ==== 3. Old Entrance ====
 //Many tunnels intersect at this natural, thirty-foot-high cavern. The walls are carved with simple reliefs showing dwarf and gnome miners hard at work. Below them, nearly 30 skeletons in rusted scraps of armor are scattered across the cavern floor. Some are dwarf skeletons, while others are orc remains. 6 large brass lanterns stand in niches or on ledges around the caver, but none are lit.  2 large stalactites hang near the center of the room.//
 
-2 ropers with lowered AC cling to the ceilings.  They attempt to surprise the party.
+The stalactites are ropers.  They attempt to surprise the party.
+  If the ropers are triggered, the skeletons(18) from areas 4 and 5 come 1 round later.
 
 
 --------------------
@@ -83,6 +84,8 @@ If any living creature enters this room, 9 skeletons stir and attack.  Another 9
 ==== 5. Assayers' Office ====
 //This chamber was once an office or storeroom of some kind. A large stone counter bisects the room, set with three dusty balance scales made of iron. Cubbyholes carved into the north wall are stuffed with dusty paper scraps. Several long-dead corpses--gnomes and orcs by their look--are sprawled across the floor.//
 
+9 skeletons
+
 **Loot**
 Locked iron strongbox behind the counter. DC20 lockpicking to open, DC25 strength to smash
   125gp worth of coins
@@ -92,15 +95,17 @@ Locked iron strongbox behind the counter. DC20 lockpicking to open, DC25 strengt
 
 ==== 6. South Barracks ====
 **Partially open door, any character that stops to listen hears faint crunching and splintering sounds.**
-//Old stone bunks in orderly rows line the walls of this chamber, and a corroded iron brazier full of old coals stands near the middle of the room. The bones of a half dozen dwarves and orcs lie strewn abount, clad in scraps of armor. Three gray, hunched figures squat aomng the remains, pawing at the scraps and gnawing on the bones.//
+//Old stone bunks in orderly rows line the walls of this chamber, and a corroded iron brazier full of old coals stands near the middle of the room. The bones of a half dozen dwarves and orcs lie strewn abount, clad in scraps of armor. Six gray, hunched figures squat aomng the remains, pawing at the scraps and gnawing on the bones.//
 
-5 ghouls attack immediately
+5 ghouls, and 1 ghast attack immediately.
 
 
 --------------------
 
 ==== 7. Ruined Storeroom ====
-//The eastern wall of this chamber has collapsed into a mass of rubble. To the north, a door stands ajar, leading to a good-sized storeroom. Dusty kegs are tucked neatly against the walls, all of them cracked and split open from age.//
+//The eastern wall of this chamber has collapsed into a mass of rubble. To the north, a door stands ajar.//
+
+In the door: //The door leads to a good-sized storeroom. Dusty kegs are tucked neatly against the walls, all of them cracked and split open from age.//
 
 The storeroom could serve as a resting place.
 No monsters come this way, and the door is in good shape and could easily be barred or blocked from the inside.
@@ -124,7 +129,7 @@ Any attempt to cross the cavern triggers the fungi to release a stinky, colorles
 ==== 9. Great Cavern ====
 //Steep escarpments divide this large cavern into three sections--high ledges at either end, and a lower section in the middle. Carved stone stairs climb up to the ledges. Two large tables stand in the middle section, along with a pair of old braziers. A smaller table stands on the eastern ledge. The skeletal remains of dozens of dead warriors--dwarves, gnomes, orcs, and ogres--attest to the fierceness of the fighting that took place here long ago.//
 
-
+This room is empty of monsters and treasures.  All meaningfull loot was plundered hundreds of years ago.
 
 --------------------
 
@@ -143,51 +148,135 @@ There is an arrow-riddled skeleton at the bottom of the pool.
 --------------------
 
 ==== 11. North Barracks ====
+The East door is barracaded from the inside.  DC22 strength to force open.
+If the players listen at either door, DC10 perception, they hear silky, voices speaking a harsh dialect of elvish.
+  They speak about how hungry they are and wonder if the undead will ever give way.
+//Old stone bunks line the walls of this barracks, which is lit and heated by a glowing iron brazier in the middle of the room.//
+If coming from the west: //Across the room is another door, this one blocked by a barricade made from the remains of a wooden table.//
+
+8 regular drow in this room.  They are unarmored AC12, but have short-swords by their bunks.
+This room marks the front line in [[Lythrana Yril'Lysaen]] 's battle against the undead led by [[Mormesk]] the wraith.
+
+**Loot**
+The drow have 10GP and a Potion of Vitality
 
 
 --------------------
 
 ==== 12. Smelter Cavern ====
+//A blast funace and a mechanical bellows powered by a a waterwheel dominate this large chamber.  The furnace is cold and dark, but heaps of coal are piled nearby, along with carts full of unrefined ore.  The waterwheel sits in a ten-foot-wide channel cut into the floor of the room, but the channel is dry.  Passages exit to the west, south, and east.  The empty channel exits to the north and east.//
+//More than a dozen withered corpses are scattered around the room.  These slain dwarves and orcs are still wearing the remnants of their armor.  Floating above them is a skull engulfed in green flame.//
+
+8 zombies with15 AC.  They pursue outside the room for 1 round.
+1 flameskull.  It does not pursue out of the room.
+  The flameskull patrols areas 12 and 13.
+
+**Loot**
+3 of the flameskull's teeth are made of gold. (5GP each)
+
+**Developments**
+The flameskull reforms with half HP after 1 hour if not doused with holy water, or affected by dispel magic or remove curse.
+  If the flameskull is destroyed permanently, it gives one dying phrase "Finally I rest."
 
 
 --------------------
 
 ==== 13. Starry Cavern ====
+//Glittering minerals in the ceiling of this large cavern catch the light and send it back to create the impression of a starry night sky.  Dozens of skeletons--many crushed under fallen debris--are scattered across the floor.//
+//The cave is large enough that it contains two freestanding structures.  Each of these stone buildings is proportioned for human use, as opposed to the dwarf-sized doorways and furnishings you've seen elsewhere in the mines.  Both structures have battered and blackened masonry walls, their double doors cracked and scorched.//
+//Passages lead out of this area to the north, south, and west.//
+
+See rooms 14 and 15 for the building descriptions.
+Any character proficient in arcana can sense a subtle aura of magic in this cavern.  
+  A DC10 arcana check revelase that the aura is stronger around the northern building.
 
 
 --------------------
 
 ==== 14. Wizard's Quarters ====
+The doors are cracked, their iron hinges partially melted. DC15 strength to open.
+//Dust, ash, walls blackened by fire, and heaps of debris beneath the sagging ceiling show that this room was damaged by a destructive blast. The furnishings--tables, chairs, bookshelves, beds--are charred or splintered, but otherwise well preserved. A scorced iron chest stands near the foot of one of the beds.//
 
+[[Mormesk]] the wraith rises up out of the floor with a living creature enters the room.
+  
 
 --------------------
 
 ==== 15. Forge of Spells ====
+The doors are cracked, their iron hinges partially melted. DC15 strength to open.
+//This large workshop was badly damaged by the ancient spell battle that laid waste to the mine. Worktables taking up two corners of the room are scorched, and the plaster has been burned off the masonry walls. In the middle of the room, a stone pedestal holds a small brazier in which an eerie green flame dances and crackles. The brazier and its pedestal appear to have been untouched by the forces that destroyed this area.//
+//Behind the brazier of green flame floats a spherical creature measuring roughly four feet in diameter. Four eyestalks protrude from its central mass, two on each side. In the center of the body is a large eye that stares at you.//
+//"Hello," says a thick, burbling voice inside your head.//
+
+Spectator named "four-eyes"
+  If blinded he planar shifts thinking he can no longer protect the forge.
+  DC15 charisma check to convince him to leave.
+  Otherwise the spectator is a LN guardian of the brazier.  he will let players use the [[Forge of Spells]] to temporarily enchant weapons and armor, but will not let them take the magic items in the room.
+
+**Loot**
+Lightbringer, Red Dragon Belt, and Ring of the Liar
+DC15 arcana check to learn the properties of the [[Forge of Spells]]
 
 
 --------------------
 
 ==== 16. Booming Cavern ====
+//A narrow ledge overlooks a large cavern that houses a surging, seething body of water that disappears into the darkness of the northeastern portion of the cavern. The rhythmic booming heard throughout the mines is louder here. At regular intervals, a fresh surge of water funnels into this chamber and slams against the wall just below the ledge. The echo suggests that this cave might be one arm of a much larger cavern to the northeast. Lying near the ledge is a broken and battered skiff made from a strange type of wood and rigged with ropes of spider's silk.//
+
+The ledge is 15 feet above the water level. However, when water surges into the cave every 2 minutes it raises the water level by 10 feet, after which the water slowly recedes to its normal level.
 
 
 --------------------
 
 ==== 17. Old Streambed ====
+//This passageway is barely four feet high and is obstructed by rounded boulders and pebbles.//
+
+It used to be a stream bed fed by the pool in area 10, but no water flows here now.
+This passage was probably used by [[Lythrana Yril'Lysaen]] and her troops to enter the cave.
 
 
 --------------------
 
 ==== 18. Collapsed Cavern ====
+//A wide rift fills the eastern half of this cavern. A stream pours out of the west wall, then tumbles down into the rift and flows out again to the north. Several ropes are secured to iron stakes along the western edge of the rift, leading down to the chasm floor.//
 
+2 drow are searching for something in the rubble of the chasm.
+1 drow stands guard above the chasm.
+1 drow elite warrior, [[Vhalak]] patrols areas 18 and 19 and oversees the operation.
+
+**Loot**
+DC20 investigation or perception to find a skeleton with a magic item in the rubble.
+
+**Developments**
+Any of the drow runs to warn [[Lythrana Yril'Lysaen]] if it seems like they are going to lose.
 
 --------------------
 
 ==== 19. Temple of Dumathoin ====
+//Six cracked marble pillars line the walls of this hall, at the north end of which stands a nine-foot-tall statue of a dwarf seated on a throne, a mighty stone warhammer across his lap. Large emeralds gleam in the statue's eyes.//
+//The dust and debris covering the floor has been swept to one side, and a campsite of sorts now spreads in front of the statue. Half a dozen bedrolls and packs are neatly arranged around a rough-built fire pit. A wooden table stands on the west side of the room between two pillars.//
+
+If enemies unaware of party: Two //drow stand by the table, one a heavily armored male, and another a female dressed in black leather armor and robes. She stands a foot taller than the male and wider at the shoulders as well. She clutches a black staff with a carved spider at the top and frowns as she sees you enter.//
+
+[[1 Encounters:Temple of Dumathoin]]
+
+The emeralds
+  DC15 investigation to recognize they are just colored glass.
+  DC20 investigation to realize they are magically trapped
+  DC10 arcana to realize they are trapped
+  DC10 strength to pop one out
+	If removed, the cieling collapses. DC15 dex save or take a few d10 blugeoning damage.
+
 
 
 --------------------
 
 ==== 20. Priests' Quarters ====
+Locked. DC15 thieves tools to pick open, DC25 to force open. [[Lythrana Yril'Lysaen]] has the key.
+//Dusty draperies adorn the walls of this room, which also contains a bed and brazier. A badly disheveled dwarf lies bound and unconscious on the cold stone floor.//
+
+Nundro, the youngest of the rockseeker brothers is held captive in this room where he has been slowly tortured and interrogated for information regarding the mine.
+He has been exposed to long-term low doses of poison and is delirious and incapacitated even if wakened.
 
 
 

@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-20T19:02:12-04:00
+
+====== Mormesk ======
+Created Saturday 20 April 2019
+
+Mormesk is a wraith inhabiting [[Wave Echo Cave]].
+
+//Mormesk is a flowing incorporeal wisp of black smoke.  His face holds the distinct shape of a skull cleaved in two. The smoke flows off his face forming an incorporeal body shaped like a robed human.//
+"//Your presence is offensive to me, your lives forfeit. My treasures are mine alone, not yours to plunder!"//
+  If the players make no attemp to reason with him, he and some spectres attack in 1 round.
+
+**Motivation**
+Mormesk commands the undead in wave echo cave.  
+He remains in the room where his treasure resides and guards his treasure.
+
+He is absolutely evil, but will bargain with players for their lives DC10, if he is offered magical items.
+He will not give up the Glasses of Night.
+He will give up the gold and gems if the players agree to kill the spectator in wave echo cave.
+
+**Looks and Personality**
+Mormesk is a flowing incorporeal wisp of black smoke.  His face holds the distinct shape of a skull cleaved in two. The smoke flows off his face forming an incorporeal body shaped like a robed human.
+
+**Loot**
+The scorched chest is unlocked and contains:
+50GP
+3 diamonds worth 100GP each
+Glasses of Night.  Dark-lensed spectacles that grant +60 feet darkvision
+

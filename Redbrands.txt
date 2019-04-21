@@ -7,7 +7,7 @@ Created Wednesday 09 January 2019
 {{.\redbrand.png}}
 Group of bandits based in the ruins under [[Tresendar Manor]] in [[Phandalin]].  
 They are lead by [[Iarno Albrek aka Glasstaff]] aka Glasstaff.
-They are under the orders of [[Nezznar the Black Spider]] to sew chaos and instability in the [[Triboar Trail]] area.
+They are under the orders of [[Lythrana Yril'Lysaen]] to sew chaos and instability in the [[Triboar Trail]] area.
 
 They patrol the streets of [[Phandalin]] and attempt to run off any new comers.
 
@@ -21,7 +21,7 @@ if they redbrands win, they take everybody's stuff and tie them up in the dungeo
 
 **What the Redbrands Know**
 The leader is a human nick-named Glasstaff
-[[Nezznar the Black Spider]] hired the [[Redbrands]] to scare off adventurers and intimidate the locals,
+[[Lythrana Yril'Lysaen]] hired the [[Redbrands]] to scare off adventurers and intimidate the locals,
   he sent bugbears to help.
 The lower part of the [[Redbrand Hideout]] is guarded by a hideous "eye monster" 
 There are captives in the holding area of the [[Redbrand Hideout]] "near the old crypts", the crypts are guarded by skeletons.

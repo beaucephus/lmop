@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-21T07:52:25-04:00
+
+====== Temple of Dumathoin ======
+Created Sunday 21 April 2019
+
+4 giant spiders, 1 drow elite warrior(with a lay-on-hands style healing ability), and [[Lythrana Yril'Lysaen]] a drow mage.
+  If they get too hurt, Lythrana and the drow elite warrior both carry a Potion of Superior Healing(8d4 +8)
+
+Upon engaging, [[Lythrana Yril'Lysaen]] casts Greater Invisibility on herself and begins chanting what sounds like a religious rite in a mix of elvish and abyssal. The drow elite warrior casts darkness and/or LayOnHands on her if needed.
+//"Great Goddess, Mother of the Dark, grant me the blood of my enemies for drink and their living hearts for meat. Grant me the screams of their young for song, grant me the helplessness of their males for my satisfaction, grant me the wealth of their houses for my bed. By this unworthy sacrifice I honor you, Queen of Spiders, and beseech of you the strength to destroy my foes."//
+//A rip tears in the fabric of reality, growing wider every second.//
+
+Immediately before one of Lythrana's turns once the party gets the upper hand:  
+//The rip created earlier expands to the size of the room and with a loud bang reality warps.  All around you see two ethereal realities, as if one world were layered over the other, causing neither to appear physical. Layered on the room you were fighting in, you also see a desolate hell-scape of rocky crags and black plains strewn with inumerable giant spider's webs. Looming overhead, a fortress of black iron crawls slowly on 8 spider-like leg stalks.  Your surroundings shift and you find yourself in a large room dominated by a throne made of silver-colored spider's silk. Upon it sits a 15-foot-tall voluptuously beautiful dark elven woman.  Surrounded by consorts, she is completely nude except for a few pieces of carnal jewelry ornaments tightly hugging her charcoal skin.//
+//She turns her head to face Lythrana who is dragged as though by a spider's line to the throne.  "You are not worthy of that rite. *subtle feminie laugh* Still, a mother must show favor to her children."//
+//The seemingly elven woman leans over and snatches Lythrana by the hair, pulling her in close.//
+//She kisses Lythrana on the mouth, eyes open and peering in your direction, and the ethereal layering of realities dissapates.//
+Back i//n the temple, now physical again, Lythrana's belly begins to distend and she screams in pain, clutching it with one hand.//
+
+She looks fearful.
+Take Lythrana's (probably last) turn.
+
+Immediately before Lythrana's next turn:
+//Lythrana's belly distends to an unatural size and she lets out one last howl of pain before the distension collapses.  *pause* Millions of tiny, black baby spiders pour out from underneath Lythrana's armor.//
+
+if the party is facing a wipe:
+  //The spiders begin to disperse throughout the temple crawling into whatever nooks and crannies they find. After a few moments, they all disappear out of sight.//
+else
+  //The spiders swarm around Lythrana's corpse, eating, spinning silk, and initiating a gruesome transformation. Lythrana's body bends and breaks and reforms into a large monstrosity before your eyes.  It has the abdomen and legs of a spider, and the upper torso and head of Lythrana.  However, instead of an elven mouth, a pair of long mandibles protrude from the face, clicking vigorously at you.//
+
+Final Form!!! Drider.
+Decide if she can still cast spells and weilds the Spider Staff based on how the party is doing.
+
+**Loot**
+2 Potions of Superior Healing
+Spider Staff
+Iron key with head shaped like an anvil. unlocks the door to room 20
+Sack on the woden table contains 450GP worth of coins, small gemstones
+Dwarven ale mug made from hammered electrum (100GP)
+Notest and maps on the table detail Lythrana's efforts at exploring the mine.  They show that:
+  Lythrana and the drow came from their "home" by boat.
+  Lythrana is trying to decide how to get past the undead in area 12 and the fungus in area 8

@@ -6,5 +6,14 @@ Creation-Date: 2019-01-13T13:26:09-05:00
 Created Sunday 13 January 2019
 
 The Forge of Spells is the magical forge made legendary by tails of the [[Lost Mine of Phandelver]]
-It is located in [[Wave Echo Cave]]
-When properly manned and worked (requires a large crew), it can create magical items.
+It is located in [[Wave Echo Cave]] and is a small stone pedastal holding a brazier of green flame.
+
+Any non-magical weapon or armor bathed in the green flame becomes a +1 weapon or armor for 24 hours.
+
+When properly manned and worked (requires a crew of trained arcanists), it grants various benefits towards the creation of permanently enchanted magic items.
+  Magic item crafting requires half the normal time and reagents.
+  Magic items crafted using the forge of spells are more powerful than their conventionally made counterparts.
+	Magic items with any quantitative effect have numerical bonuses increased by +1, subject to DM discretion.
+	  to hit, damage, number of damage dice, spell save DC, AC, etc...
+	Magit items witout a quantitative effect have their effect boosted in some way at the DM's discretion
+    
