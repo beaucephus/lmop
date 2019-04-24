@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-24T15:57:21-04:00
+
+====== Undil MountainRiver ======
+Created Wednesday 24 April 2019
+
+Adult mail mountain dwarf merchant.
+Very long and straight brown hair and well-oiled beard.
+
+**Mannerisms**
+He is a fast-talker and is not afraid to pull a con.
+He has a bad habit of interrupting people.
+
+**Motivation**
+Undil is a travelling merchant.  From his wagon he trades in magical items and oddities.
+He wants to see the world and uses trade as his means to do so.
+
+**Loot**
+5400GP
+Cloak of Protection
+3 Potions of Greater Healing
+5 Potions of Healing
+Merchant's Wagon
+
