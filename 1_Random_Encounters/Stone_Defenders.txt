@@ -13,3 +13,4 @@ The warning says in dwarvish "Danger!  Request safe passage before entering!"
 If the players inspect the grotto, they find the dead body of a drow fighter in studded leather drow armor.
 The dwarfs are Stone Defenders and animate if any creature comes within 5 feet of the doorway.
   They understand Dwarvish, but cannot speak.  They obey commands given in dwarvish. 
+
