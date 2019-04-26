@@ -5,8 +5,8 @@ Creation-Date: 2019-04-24T15:57:21-04:00
 ====== Undil MountainRiver ======
 Created Wednesday 24 April 2019
 
-Adult mail mountain dwarf merchant.
-Very long and straight brown hair and well-oiled beard.
+Adult mail mountain dwarf dressed in merchants travel clothes.  He travels by a large merchant's wagon pulled by 2 large mountain goats.
+Very long and straight brown hair and well-oiled also straight, brown beard.
 
 **Mannerisms**
 He is a fast-talker and is not afraid to pull a con.
@@ -15,11 +15,13 @@ He has a bad habit of interrupting people.
 **Motivation**
 Undil is a travelling merchant.  From his wagon he trades in magical items and oddities.
 He wants to see the world and uses trade as his means to do so.
+If the players mention [[Gundren Rockseeker]]
+  Undil wants to gain favor within the dwarf clans will give the players a discount in exchange for a meeting with [[Gundren Rockseeker]]
 
-**Loot**
+**Loot/Trade**
 5400GP
-Cloak of Protection
-3 Potions of Greater Healing
-5 Potions of Healing
+Cloak of Protection - 2000GP
+3 Potions of Greater Healing - 250GP each
+5 Potions of Healing - 50GP each
 Merchant's Wagon
 

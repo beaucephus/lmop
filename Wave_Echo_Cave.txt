@@ -40,7 +40,8 @@ Tunnels lead to areas 2 and 3.
 
 [[Vyerith]] and some drow elite warriors with 35 HP keep watch in this area. If they players fought the stone defenders, the drow hear them coming.
   Vyerith has a scroll of haste which she uses at the start of battle. (speed doubled, +2 AC, advantage on dex saves, additional attack)
-  She uses her slippers of spider climbing to climb to the ceiling, casts Darkness and uses Blinding arrows from behind stalagtites.
+  She uses her slippers of spider climbing to climb to the ceiling, calls for Darkness and uses Blinding arrows from behind stalagtites.
+  The warriors use darkness and faerie fire to disrupt the players
 
 // A sturdy hemp rope is tied off around a nearby stalagmite and dangles down the side of the pit,  at the bottom of which is a rough-hewn tunnel heading northwest and east.//
 
