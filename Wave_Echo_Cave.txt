@@ -58,18 +58,19 @@ Xorn. Contact with water works like acid.
 It approaches the party and tries to communicate a desire for gemstones, and valuable metals.
 It is very hungry and will resort to force if ignored.
 If helped, it reveals information about the mine.
+  It tries to get them to search the water in area 10.  He cannot go in.
   It warns the party of a Wraith to the east.
   It warns the drow are to the north of the mine.
-  It tries to get them to search the water in area 10.  He cannot go in.
+ 
 
 
 --------------------
 
 ==== 3. Old Entrance ====
-//Many tunnels intersect at this natural, thirty-foot-high cavern. The walls are carved with simple reliefs showing dwarf and gnome miners hard at work. Below them, nearly 30 skeletons in rusted scraps of armor are scattered across the cavern floor. Some are dwarf skeletons, while others are orc remains. 6 large brass lanterns stand in niches or on ledges around the caver, but none are lit.  2 large stalactites hang near the center of the room.//
+//Many tunnels intersect at this natural, thirty-foot-high cavern. The walls are carved with simple reliefs showing dwarf and gnome miners hard at work. Below them, nearly 30 skeletons in rusted scraps of armor are scattered across the cavern floor. Some are dwarf skeletons, while others are orc remains. 6 large brass lanterns stand in niches or on ledges around the caver, but none are lit.  A single large stalactite hangs near the center of the room.//
 
-The stalactites are ropers.  They attempt to surprise the party.
-  If the ropers are triggered, the skeletons(18) from areas 4 and 5 come 1 round later.
+The stalactite is a roper.  It attempts to surprise the party.
+  If the roper is triggered, the skeletons(18) from areas 4 and 5 come 1 round later.
 
 
 --------------------
@@ -96,7 +97,7 @@ Locked iron strongbox behind the counter. DC20 lockpicking to open, DC25 strengt
 
 ==== 6. South Barracks ====
 **Partially open door, any character that stops to listen hears faint crunching and splintering sounds.**
-//Old stone bunks in orderly rows line the walls of this chamber, and a corroded iron brazier full of old coals stands near the middle of the room. The bones of a half dozen dwarves and orcs lie strewn abount, clad in scraps of armor. Six gray, hunched figures squat aomng the remains, pawing at the scraps and gnawing on the bones.//
+//Old stone bunks in orderly rows line the walls of this chamber, and a corroded iron brazier full of old coals stands near the middle of the room. The bones of a half dozen dwarves and orcs lie strewn abount, clad in scraps of armor. Several gray, hunched figures squat aomng the remains, pawing at the scraps and gnawing on the bones.//
 
 5 ghouls, and 1 ghast attack immediately.
 
@@ -155,7 +156,7 @@ If the players listen at either door, DC10 perception, they hear silky, voices s
 //Old stone bunks line the walls of this barracks, which is lit and heated by a glowing iron brazier in the middle of the room.//
 If coming from the west: //Across the room is another door, this one blocked by a barricade made from the remains of a wooden table.//
 
-8 regular drow in this room.  They are unarmored AC12, but have short-swords by their bunks.
+8 regular drow in this room.  They are unarmored AC12, but have short-swords by their bunks.  They shout battle-cries to [[Lolth the Spider Queen]] and attack.  Only the last attempts a surrender.
 This room marks the front line in [[Lythrana Yril'Lysaen]] 's battle against the undead led by [[Mormesk]] the wraith.
 
 **Loot**
@@ -165,7 +166,7 @@ The drow have 10GP and a Potion of Vitality
 --------------------
 
 ==== 12. Smelter Cavern ====
-//A blast funace and a mechanical bellows powered by a a waterwheel dominate this large chamber.  The furnace is cold and dark, but heaps of coal are piled nearby, along with carts full of unrefined ore.  The waterwheel sits in a ten-foot-wide channel cut into the floor of the room, but the channel is dry.  Passages exit to the west, south, and east.  The empty channel exits to the north and east.//
+//A blast funace and a mechanical bellows powered by a a waterwheel dominate this large chamber.  The furnace is glowing with low heat and heaps of coal are piled nearby, along with carts full of unrefined ore.  The waterwheel sits in a ten-foot-wide channel cut into the floor of the room, but the channel is dry.  Passages exit to the west, south, and east.  The empty channel exits to the north and east.//
 //More than a dozen withered corpses are scattered around the room.  These slain dwarves and orcs are still wearing the remnants of their armor.  Floating above them is a skull engulfed in green flame.//
 
 8 zombies with15 AC.  They pursue outside the room for 1 round.
@@ -173,7 +174,7 @@ The drow have 10GP and a Potion of Vitality
   The flameskull patrols areas 12 and 13.
 
 **Loot**
-3 of the flameskull's teeth are made of gold. (5GP each)
+3 of the flameskull's teeth are made of diamonds. (150GP each)
 
 **Developments**
 The flameskull reforms with half HP after 1 hour if not doused with holy water, or affected by dispel magic or remove curse.
@@ -196,9 +197,9 @@ Any character proficient in arcana can sense a subtle aura of magic in this cave
 
 ==== 14. Wizard's Quarters ====
 The doors are cracked, their iron hinges partially melted. DC15 strength to open.
-//Dust, ash, walls blackened by fire, and heaps of debris beneath the sagging ceiling show that this room was damaged by a destructive blast. The furnishings--tables, chairs, bookshelves, beds--are charred or splintered, but otherwise well preserved. A scorced iron chest stands near the foot of one of the beds.//
+//Dust, ash, walls blackened by fire, and heaps of debris beneath the sagging ceiling show that this room was damaged by a destructive blast. The furnishings--tables, chairs, bookshelves, beds--are charred or splintered, but otherwise well preserved. A scorched iron chest stands near the foot of one of the beds.//
 
-[[Mormesk]] the wraith rises up out of the floor with a living creature enters the room.
+[[Mormesk]] the wraith rises up out of the floor when a living creature enters the room.
   
 
 --------------------
@@ -209,7 +210,7 @@ The doors are cracked, their iron hinges partially melted. DC15 strength to open
 //Behind the brazier of green flame floats a spherical creature measuring roughly four feet in diameter. Four eyestalks protrude from its central mass, two on each side. In the center of the body is a large eye that stares at you.//
 //"Hello," says a thick, burbling voice inside your head.//
 
-Spectator named "four-eyes"
+Spectator named "Fiver"
   If blinded he planar shifts thinking he can no longer protect the forge.
   DC15 charisma check to convince him to leave.
   Otherwise the spectator is a LN guardian of the brazier.  he will let players use the [[Forge of Spells]] to temporarily enchant weapons and armor, but will not let them take the magic items in the room.

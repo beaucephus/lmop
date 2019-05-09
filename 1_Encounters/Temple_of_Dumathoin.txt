@@ -10,20 +10,15 @@ Created Sunday 21 April 2019
 
 Upon engaging, [[Lythrana Yril'Lysaen]] casts Greater Invisibility on herself and begins chanting what sounds like a religious rite in a mix of elvish and abyssal. The drow elite warrior casts darkness and/or LayOnHands on her if needed.
 //"Great Goddess, Mother of the Dark, grant me the blood of my enemies for drink and their living hearts for meat. Grant me the screams of their young for song, grant me the helplessness of their males for my satisfaction, grant me the wealth of their houses for my bed. By this unworthy sacrifice I honor you, Queen of Spiders, and beseech of you the strength to destroy my foes."//
-//A rip tears in the fabric of reality, growing wider every second.//
 
 Immediately before one of Lythrana's turns once the party gets the upper hand:  
-//The rip created earlier expands to the size of the room and with a loud bang reality warps.  All around you see two ethereal realities, as if one world were layered over the other, causing neither to appear physical. Layered on the room you were fighting in, you also see a large dark room dominated by a single inhabitant, a six-foot-tall, eight-tentacled blob of melted wax that continually emits a foul stench that reaches your nostrils even through the ethereal layering of the planes.//
-//The monster spits and gurgles at Lythrana.  (abyssal)"You are not one who is worthy of that rite, wizard! * rauckus gurgling laugh* Still, the Spider Queens will must be enacted."//
-//The monster's body morphs into a tall, dark-skinned, seemingly elven woman and snatches Lythrana by the hair, pulling her in close.//
-//She kisses Lythrana on the mouth and the ethereal layering of realities dissapates.//
-Back i//n the temple, now physical again, Lythrana's belly begins to distend and she screams in pain, clutching it with one hand.//
+//A chill wind blows out the campfire and A deep, gurlging voice echos through the chamber. (abyssal)"You are not one who is worthy of that rite, wizard! * rauckus gurgling laugh*"//
+//Lythrana gasps in a breath of excrutiating pain.  Her belly begins to distend and she cries out, clutching it with one hand.  Sweat bead on her forhead and her movements become jerky and frantic.//
 
-She looks fearful.
 Take Lythrana's (probably last) turn.
 
 Immediately before Lythrana's next turn:
-//Lythrana's belly distends to an unatural size and she lets out one last howl of pain before the distension collapses.  *pause* Millions of tiny, black baby spiders pour out from underneath Lythrana's armor.//
+//Lythrana's belly distends to an unatural size and she lets out one last howl of pain before her distended stomach collapses.  *pause* Millions of tiny, black baby spiders pour out from underneath Lythrana's armor.//
 
 if the party is facing a wipe:
   //The spiders begin to disperse throughout the temple crawling into whatever nooks and crannies they find. After a few moments, they all disappear out of sight.//
@@ -39,6 +34,6 @@ Spider Staff
 Iron key with head shaped like an anvil. unlocks the door to room 20
 Sack on the woden table contains 450GP worth of coins, small gemstones
 Dwarven ale mug made from hammered electrum (100GP)
-Notest and maps on the table detail Lythrana's efforts at exploring the mine.  They show that:
-  Lythrana and the drow came from their "home" by boat.
+Notes and maps on the table detail Lythrana's efforts at exploring the mine.  They show that:
+  Lythrana and the drow came from the north-east by boat.
   Lythrana is trying to decide how to get past the undead in area 12 and the fungus in area 8

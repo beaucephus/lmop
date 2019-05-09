@@ -26,5 +26,5 @@ Mormesk is a flowing incorporeal wisp of black smoke.  His face holds the distin
 The scorched chest is unlocked and contains:
 50GP
 3 diamonds worth 100GP each
-Glasses of Night.  Dark-lensed spectacles that grant +60 feet darkvision
+Glasses of Night.  Dark-lensed spectacles that grant +30 feet darkvision
 
