@@ -156,11 +156,13 @@ If the players listen at either door, DC10 perception, they hear silky, voices s
 //Old stone bunks line the walls of this barracks, which is lit and heated by a glowing iron brazier in the middle of the room.//
 If coming from the west: //Across the room is another door, this one blocked by a barricade made from the remains of a wooden table.//
 
-8 regular drow in this room.  They are unarmored AC12, but have short-swords by their bunks.  They shout battle-cries to [[Lolth the Spider Queen]] and attack.  Only the last attempts a surrender.
+8 regular drow in this room.  They are unarmored AC12, but have short-swords by their bunks.  
+They are fanatically devoted to [[Lolth the Spider Queen]], shouting battle-cries in her name and attacking.
+Only the last alive attempts a surrender.
 This room marks the front line in [[Lythrana Yril'Lysaen]] 's battle against the undead led by [[Mormesk]] the wraith.
 
 **Loot**
-The drow have 10GP and a Potion of Vitality
+The drow have 10GP and a [[Potion of Vitality]]
 
 
 --------------------
@@ -242,9 +244,10 @@ This passage was probably used by [[Lythrana Yril'Lysaen]] and her troops to ent
 ==== 18. Collapsed Cavern ====
 //A wide rift fills the eastern half of this cavern. A stream pours out of the west wall, then tumbles down into the rift and flows out again to the north. Several ropes are secured to iron stakes along the western edge of the rift, leading down to the chasm floor.//
 
+The chasm is 30 ft down. DC 17 climbing check to climb the walls in 1 round
 2 drow are searching for something in the rubble of the chasm.
 1 drow stands guard above the chasm.
-1 drow elite warrior, [[Vhalak]] patrols areas 18 and 19 and oversees the operation.
+1 drow elite warrior patrols areas 18 and 19 and oversees the operation.
 
 **Loot**
 DC20 investigation or perception to find a skeleton with a magic item in the rubble.
@@ -258,7 +261,9 @@ Any of the drow runs to warn [[Lythrana Yril'Lysaen]] if it seems like they are 
 //Six cracked marble pillars line the walls of this hall, at the north end of which stands a nine-foot-tall statue of a dwarf seated on a throne, a mighty stone warhammer across his lap. Large emeralds gleam in the statue's eyes.//
 //The dust and debris covering the floor has been swept to one side, and a campsite of sorts now spreads in front of the statue. Half a dozen bedrolls and packs are neatly arranged around a rough-built fire pit. A wooden table stands on the west side of the room between two pillars.//
 
-If enemies unaware of party: Two //drow stand by the table, one a heavily armored male, and another a female dressed in black leather armor and robes. She stands a foot taller than the male and wider at the shoulders as well. She clutches a black staff with a carved spider at the top and frowns as she sees you enter.//
+If enemies unaware of party: //Two drow stand by the table, one a heavily armored male, and another a female dressed in black leather armor and robes. She stands nearly a foot taller than the male and wider at the shoulders as well. She clutches a black staff with a carved spider at the top and scowls as she sees you enter.//
+
+If enemies are aware: //The unomoving body of a young dwarf sits leaned agains the base of the statue.  You hear a low, pain-filled moan coming from the dwarf.//
 
 [[1 Encounters:Temple of Dumathoin]]
 

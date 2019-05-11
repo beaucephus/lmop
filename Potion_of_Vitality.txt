@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-11T11:00:35-04:00
+
+====== Potion of Vitality ======
+Created Saturday 11 May 2019
+
+The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
+
+When you drink this potion, it removes any exhaustion you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend.
+

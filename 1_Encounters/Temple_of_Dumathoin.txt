@@ -5,19 +5,20 @@ Creation-Date: 2019-04-21T07:52:25-04:00
 ====== Temple of Dumathoin ======
 Created Sunday 21 April 2019
 
-4 giant spiders, 1 drow elite warrior(with a lay-on-hands style healing ability), and [[Lythrana Yril'Lysaen]] a drow mage.
-  If they get too hurt, Lythrana and the drow elite warrior both carry a Potion of Superior Healing(8d4 +8)
+2 giant spiders
+1 drow elite warrior(with a lay-on-hands style healing ability)
+[[Lythrana Yril'Lysaen]] a drow mage, no 5th level spells.
 
 Upon engaging, [[Lythrana Yril'Lysaen]] casts Greater Invisibility on herself and begins chanting what sounds like a religious rite in a mix of elvish and abyssal. The drow elite warrior casts darkness and/or LayOnHands on her if needed.
-//"Great Goddess, Mother of the Dark, grant me the blood of my enemies for drink and their living hearts for meat. Grant me the screams of their young for song, grant me the helplessness of their males for my satisfaction, grant me the wealth of their houses for my bed. By this unworthy sacrifice I honor you, Queen of Spiders, and beseech of you the strength to destroy my foes."//
+//"Great Goddess, Mother of the Dark, grant me the blood of my enemies for drink and their living hearts for meat. Grant me the screams of their young for song, grant me the helplessness of their males for my satisfaction, grant me the wealth of their houses for my bed. By this sacrifice I honor you, Queen of Spiders, and beseech of you the strength to destroy my foes."//
 
 Immediately before one of Lythrana's turns once the party gets the upper hand:  
-//A chill wind blows out the campfire and A deep, gurlging voice echos through the chamber. (abyssal)"You are not one who is worthy of that rite, wizard! * rauckus gurgling laugh*"//
+//A chill wind blows out the campfire and A gurgling voice echos through the chamber as if without source. (abyssal)"You are not one who is worthy of that rite, wizard! * rauckus gurgling laugh*"//
 //Lythrana gasps in a breath of excrutiating pain.  Her belly begins to distend and she cries out, clutching it with one hand.  Sweat bead on her forhead and her movements become jerky and frantic.//
 
 Take Lythrana's (probably last) turn.
 
-Immediately before Lythrana's next turn:
+Immediately before Lythrana's next turn, dead or alive:
 //Lythrana's belly distends to an unatural size and she lets out one last howl of pain before her distended stomach collapses.  *pause* Millions of tiny, black baby spiders pour out from underneath Lythrana's armor.//
 
 if the party is facing a wipe:
@@ -29,7 +30,6 @@ Final Form!!! Drider.
 Decide if she can still cast spells and weilds the Spider Staff based on how the party is doing.
 
 **Loot**
-2 Potions of Superior Healing
 Spider Staff
 Iron key with head shaped like an anvil. unlocks the door to room 20
 Sack on the woden table contains 450GP worth of coins, small gemstones
@@ -37,3 +37,6 @@ Dwarven ale mug made from hammered electrum (100GP)
 Notes and maps on the table detail Lythrana's efforts at exploring the mine.  They show that:
   Lythrana and the drow came from the north-east by boat.
   Lythrana is trying to decide how to get past the undead in area 12 and the fungus in area 8
+
+Large, well-crafted map depicting an enourmous body of water, many hundreds of sqaure-miles in area judging by the map's legend.
+The map of the sea is strewn with many small, dot-like islands and 1 larger island labelled [[:Vhudyn]] . 
