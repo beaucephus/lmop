@@ -15,15 +15,15 @@ Created Friday 08 February 2019
 [[H'ruck]]
 [[Biff Broadsteele]]
 
-===== Combat Difficulty (4-6 5th level players) =====
+===== Combat Difficulty (4 6th level players) =====
 Easy
-1000-1500
+1200
 
 Medium
-2000-3000
+2400
 
 Hard
-3000-4500
+3600
 
 Deadly
-4400-6600
+5600
