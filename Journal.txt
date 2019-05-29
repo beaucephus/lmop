@@ -171,6 +171,7 @@ In Phandalin
 	Ask for the group name, offer "Biff's Brigade"
   Lenore the previously kidnapped woman holding Leaf's horse
   New quest posted by [[Theodore Anthony Nugent]] : [[1 quests:WTB giant spider venom|WTB giant spider venom]]
+  New quest posted by [[Sildar Hallwinter]] : [[1 Quests:Orcs spotted near Wyvern Tor]]
 
 If the party takes the skiff in [[Wave Echo Cave]] out into the water
   ask for 10 minute break to prep
