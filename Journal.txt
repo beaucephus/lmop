@@ -172,6 +172,10 @@ In Phandalin
   Lenore the previously kidnapped woman holding Leaf's horse
   New quest posted by [[Theodore Anthony Nugent]] : [[1 quests:WTB giant spider venom|WTB giant spider venom]]
 
+If the party takes the skiff in [[Wave Echo Cave]] out into the water
+  ask for 10 minute break to prep
+  They quickly find a small island of deep gnomes (svirfneblin) fighting drow.
+
 Party has potential hooks to 
   [[Vhudyn]] the drow city in the underdark
   [[Thar]] desert where [[Hamun Kost]] invited them 
