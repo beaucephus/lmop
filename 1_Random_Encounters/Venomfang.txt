@@ -8,6 +8,16 @@ Created Wednesday 20 March 2019
 Venomfang finds the party and toys with them from the air.
 He swoops down and taunts them while breathing poison on them.
 
+If the party is in trouble of TPK, offer an old shack by the road.
+The food and water inside is poisoned and the farming family are all dead
+They seem to have died from inhaling poison.
+
+**Development**
+If any member of the party goes down, 
+  the dragon grabs them in its talons and flies off towards [[Ruins of Thundertree]]
+If the party finds a way to hide and avoid the dragon breath, 
+  it gets bored and flies back towards [[Ruins of Thundertree]]
+
 **ROLL TO RECHARGE AT THE END OF DRAGONS TURN!!!**
 
 {{.\young_green_dragon.jpg}}

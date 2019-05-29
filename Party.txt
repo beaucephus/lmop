@@ -6,14 +6,14 @@ Creation-Date: 2019-02-08T14:52:38-05:00
 Created Friday 08 February 2019
 
 ~~Jober~~
-[[Leaf in the Grass]]
+[[Leaf in the Grass]] 6
 ~~Ulric~~
-[[Arjun Prexajandlin]]
-[[Othard Drapier]]
+[[Arjun Prexajandlin]] 5
+[[Othard Drapier]] 6
 ~~Atan~~
-[[Fie]]
-[[H'ruck]]
-[[Biff Broadsteele]]
+[[Fie]] 6
+[[H'ruck]] 6
+[[Biff Broadsteele]] 5
 
 ===== Combat Difficulty (4 6th level players) =====
 Easy
