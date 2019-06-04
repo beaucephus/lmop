@@ -155,16 +155,20 @@ Pary entered [[Wave Echo Cave]] and cleared 1st room
 
 ===== Session 16 TBD =====
 Wave Echo Cave rooms 19,20,Lythrana loot
-Gundren is grateful and will hold up his end of the deal after Nundro is saved.
-  He tells the party to "Do something about the undead!"
-Mormesk is grateful to the party
-  Offers a deal to the party to provide protection and guidance if the party agrees to operate the [[Forge of Spells]]
-	Contract sealed with blood of 1 party member, rewarded with Magic Initiate-Wizard
-
 
 ===== Future... =====
-Party knows about Vincent and Mailus Drapier
+In Wave Echo Cave
+	Gundren is grateful and will hold up his end of the deal after Nundro is saved.
+	  He tells the party to "Do something about the undead!"
+	Mormesk is grateful to the party
+	  Offers a deal to the party to provide protection and guidance if the party agrees to operate the [[Forge of Spells]]
+		Contract sealed with blood of 1 party member, rewarded with Magic Initiate-Wizard
+
+In Neverwinter
   If the party decides to go to [[Neverwinter]] run [[1 Random Encounters:Venomfang]]
+  Allow players to visit shops,tavers,inns in Neverwinter
+  Eventually they receive a summons to visit [[Mailus Drapier]]
+  [[1 Encounters:Mailus Drapier's Summons]]
 
 In Phandalin
   Sildar and Harbin are grateful and offer a feast in the Player's honor.
