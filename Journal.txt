@@ -173,6 +173,7 @@ In Neverwinter
 In Phandalin
   Sildar and Harbin are grateful and offer a feast in the Player's honor.
 	Ask for the group name, offer "Biff's Brigade"
+	[[1 Encounters:Phandalin Feast]]
   Lenore the previously kidnapped woman holding Leaf's horse
   New quest posted by [[Theodore Anthony Nugent]] : [[1 quests:WTB giant spider venom|WTB giant spider venom]]
   New quest posted by [[Sildar Hallwinter]] : [[1 Quests:Orcs spotted near Wyvern Tor]]
