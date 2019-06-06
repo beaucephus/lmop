@@ -10,7 +10,7 @@ However about 30 years ago a clamity struck the village.
 [[Mount Hotenow]] to the north erupted and a plague of strange zombies swept over the village, driving out or killing all of its inhabitants.
 In the aftermath of the disaster, strange magic has mutated the plant life into new and dangerous forms.
 [[Mirna Dendrar]] was a young girl living in Thundertree when the disaster struck.  Her family owned a small herbal and alchemical shop in the village.  They fled leaving most of their belongings behind.
-{{..\thundertree.jpg}}
+
 
 //Gradually, the trail becomes and old, overgrown lane winding between dilapidated buildings choked in vines and brush.//
 //Ahead of you, in the middle of the settlement, rises a steep hill, upon which stands a stone tower with a partially collapsed roof and an adjoining cottage.//
@@ -31,7 +31,7 @@ Brush consists of large bushes that count as difficult terrain.
 //Cowering in the shadow of an old tree is a crumbled stone cottage with no roof.  Weeds are rampant here.//
 
 2 Twig Blights are inside trying to hide.
-They don't attack, but will come aid the Twig Blights in area 2.
+They don't attack, but will come aid the Blights in area 2.
 
 
 2. ==== Blighted Cottages ====

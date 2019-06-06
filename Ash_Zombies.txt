@@ -9,5 +9,5 @@ Ash zombies overran what is now the [[Ruins of Thundertree]] 30 years ago after 
 They linger in the town and are caked in strange magical ash.
 They are regular zombies with the following additional trait.
 
-Ash Puff. The first time the zombie takes damage, any living creature within 5 feet must succeed on a DC 10 CON save or be incapacitated for 1 minute.
+Ash Puff. When the zombie takes damage, any living creature within 5 feet must succeed on a DC 10 CON save or be incapacitated for 1 minute.
 Think pepper spray!
