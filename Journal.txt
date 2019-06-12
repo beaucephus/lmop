@@ -153,23 +153,19 @@ Pary entered [[Wave Echo Cave]] and cleared 1st room
   Killed Lythrana
 **Level 6!!!**
 
-===== Session 16 TBD =====
+===== Session 16 19/06/06 =====
 Wave Echo Cave rooms 19,20,Lythrana loot
+Found Basilisk Shield in Temple of Dumaton
+Found [[:Nundro Rockseeker]] and delivered him to Gundren.  Gundren took him back to [[Phandalin]] ahead of the group.
+Group went back into [[:Wave Echo Cave]] to deal with the undead, [[Leaf in the Grass]] made a pact with [[:Mormesk]] the wraith.
+  Offers a deal to the party to provide protection and guidance if the party agrees to operate the [[Forge of Spells]]
+		Contract sealed with blood of 1 party member, rewarded with Magic Initiate-Wizard
+Went to deal with the Xorn in area 2 of wave echo cave and found the xorn currently beatng up on some undead...
+
+===== Session 17 19/06/13 =====
+Pick up with fight with Xorn
 
 ===== Future... =====
-In Wave Echo Cave
-	Gundren is grateful and will hold up his end of the deal after Nundro is saved.
-	  He tells the party to "Do something about the undead!"
-	Mormesk is grateful to the party
-	  Offers a deal to the party to provide protection and guidance if the party agrees to operate the [[Forge of Spells]]
-		Contract sealed with blood of 1 party member, rewarded with Magic Initiate-Wizard
-
-In Neverwinter
-  If the party decides to go to [[Neverwinter]] run [[1 Random Encounters:Venomfang]]
-  Allow players to visit shops,tavers,inns in Neverwinter
-  Eventually they receive a summons to visit [[Mailus Drapier]]
-  [[1 Encounters:Mailus Drapier's Summons]]
-
 In Phandalin
   Sildar and Harbin are grateful and offer a feast in the Player's honor.
 	Ask for the group name, offer "Biff's Brigade"
@@ -177,6 +173,13 @@ In Phandalin
   Lenore the previously kidnapped woman holding Leaf's horse
   New quest posted by [[Theodore Anthony Nugent]] : [[1 quests:WTB giant spider venom|WTB giant spider venom]]
   New quest posted by [[Sildar Hallwinter]] : [[1 Quests:Orcs spotted near Wyvern Tor]]
+	Quest will end with a traveling caravan headed to the Thar region
+
+In Neverwinter
+  If the party decides to go to [[Neverwinter]] run [[1 Random Encounters:Venomfang]]
+  Allow players to visit shops,taverns,inns in Neverwinter
+  Eventually they receive a summons to visit [[Mailus Drapier]]
+  [[1 Encounters:Mailus Drapier's Summons]]
 
 If the party takes the skiff in [[Wave Echo Cave]] out into the water
   ask for 10 minute break to prep
