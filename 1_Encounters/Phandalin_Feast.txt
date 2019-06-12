@@ -9,6 +9,7 @@ Townspeople of [[Phandalin]] and [[:Sildar Hallwinter]] throw a feast for the pa
 
 Dinner and lots of "Thank you!"s
 Sildar prompts the party for a name or "Biff's Brigade"
+[[:Toblen Stonehill]] offers the players free food, drink and rooms at the [[:Stonehill Inn]] anytime they are in town.
 
 Sildar gives a toast "To our heros, the <group name>!!! and to Phandalin and the Rockseeker brothers!!!, and to the Lord's Alliance! (less cheering and a bit of a sour mood at the last one)
 
@@ -29,7 +30,7 @@ Drinking Game.
 Bows and Boards (Townsfold start laughing and running)
   2gp to ante in
   stand outside together
-  loose arrows straight up into the night (attack roll) (NAT1 looses arrow into crow)
+  loose arrows straight up into the night (attack roll) (NAT1 looses arrow into crowd and automatic loss)
   player is out if they don't catch an arrow with their shield. (DC15 perception to see arrow, DC10 Acrobatics to catch)
 	last player in wins
 	

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T18:54:37-04:00
+
+====== Neverwinter ======
+Created Wednesday 12 June 2019
+
+Neverwinter is divided into districts.
+	 The **City Core**, the central region of the city, where the ruling offices, and the main temples were located.[34]
+	The **Peninsula District**, that comprised the southwestern quadrant of the city.[34]
+	The **Docks District**, the main port.[34]
+	The **Blacklake District**, located in the northeastern quadrant.[34]
+	The **Beggar's Nest**, located in the southeast quadrant.[34]
+	The **Arcanist Quarter**, located in the southeast quadrant.[13] 
+
+===== Points of Interest =====
+[[:Terrific Clarinet]] Bar
+[[:Sickly Coin]] Inn
+
