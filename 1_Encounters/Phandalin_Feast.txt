@@ -10,6 +10,9 @@ Townspeople of [[Phandalin]] and [[:Sildar Hallwinter]] throw a feast for the pa
 Dinner and lots of "Thank you!"s
 Sildar prompts the party for a name or "Biff's Brigade"
 [[:Toblen Stonehill]] offers the players free food, drink and rooms at the [[:Stonehill Inn]] anytime they are in town.
+[[:Gundren Rockseeker]] approaches [[:Othard Drapier]] to work out the details of the mine and offers the party a better deal if they'll promise to help protect the mine from the drow in the future.
+A messenger from "Our lord" approaches [[:Fie]] and [[:H'ruck]] and bids them report to [[:Mailus Drapier]] who is __very interested in the status of Phandalin, the Redbrands, and the Rockseeker's mine.__
+
 
 Sildar gives a toast "To our heros, the <group name>!!! and to Phandalin and the Rockseeker brothers!!!, and to the Lord's Alliance! (less cheering and a bit of a sour mood at the last one)
 
