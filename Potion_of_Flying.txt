@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-19T17:27:54-04:00
+
+====== Potion of Flying ======
+Created Wednesday 19 June 2019
+
+__This potion's clear liquid floats at the top of its container and has cloudy white impurities drifting in it.__
+
+When you drink this potion, you gain a flying speed equal to your walking speed for 1 hour and can hover. 
+If you're in the air when the potion wears off, you fall unless you have some other means of staying aloft.

@@ -164,17 +164,26 @@ Went to deal with the Xorn in area 2 of wave echo cave and found the xorn curren
 
 ===== Session 17 19/06/13 =====
 Pick up with fight with Xorn
+  Defeated
+Went back to Phandalin
+Sildar and Harbin are grateful and offer a feast in the Player's honor.
+  [[1 Encounters:Phandalin Feast]]
+	The morning after the feast, the players overhear a group of merchants asking [[:Toblen Stonehill]] about protection for hire on the dangerous road through the eastern desert.
+Party convinces Gundren to work with the undead and gets 250gp per session for deal.
+[[:Leaf in the Grass]] convinces [[:Sildar Hallwinter]] to build a restaurant in the ruins of the [[:Tresendar Manor]] (1500gp total, 500gp down payment, taking their 250gp payment from gundren for the next 4 sessions)
+Leaf asked [[:Lenore Eventide]] to work in her restaurant.  Lenore will manage the establishment.
+Party set out for the [[:Ruins of Thundertree]] to complete [[:1 Quests:WTB giant spider venom]] and find [[:Mirna Dendrar]] 's family treasure.
+  On the road, they encountered [[:Venomfang]] in [[1 Random Encounters:Venomfang]]
+	[[:Fie]] was knocked unconscious and abducted by Venomfang.
+
+
+===== Session 18 19/06/19 =====
+[[:Ruins of Thundertree]]
+The party encounters [[:Valryk Orion]] outside the ruins
+Once the party defeats [[:Venomfang]] and saves [[:Fie]] run [[:1 Encounters:Fie's dream with Iyrmet]]
+
 
 ===== Future... =====
-In Phandalin
-  Sildar and Harbin are grateful and offer a feast in the Player's honor.
-	Ask for the group name, offer "Biff's Brigade"
-	[[1 Encounters:Phandalin Feast]]
-	The morning after the feast, the players overhear a group of merchants asking [[:Toblen Stonehill]] about protection for hire on the dangerous road through the eastern desert.
-	  Run [[1 Quests:Orcs spotted near Wyvern Tor]] on the way to [[:Thar]]
-  Lenore the previously kidnapped woman holding Leaf's horse
-  New quest posted by [[Theodore Anthony Nugent]] : [[1 quests:WTB giant spider venom|WTB giant spider venom]]
-
 In Neverwinter
   If the party decides to go to [[Neverwinter]] run [[1 Random Encounters:Venomfang]]
   Allow players to visit shops,taverns,inns in Neverwinter
@@ -188,11 +197,7 @@ If the party takes the skiff in [[Wave Echo Cave]] out into the water
 Party has potential hooks to 
   [[Vhudyn]] the drow city in the underdark
   [[Thar]] desert where [[Hamun Kost]] invited them 
-  [[:Ruins of Thundertree]] where Ted asked them to retrieve spider venom
   [[Neverwinter]] where the Drapier family is strengthening its hold on the army and other houses of the [[Lord's Council of Neverwinter]]
-
-Arjun owe your life to the priest who took me in when my parents dies
-Arjun gullible with people who profess faith in Bahamut
 
 
 

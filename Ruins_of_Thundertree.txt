@@ -12,12 +12,8 @@ In the aftermath of the disaster, strange magic has mutated the plant life into 
 [[Mirna Dendrar]] was a young girl living in Thundertree when the disaster struck.  Her family owned a small herbal and alchemical shop in the village.  They fled leaving most of their belongings behind.
 
 
-//Gradually, the trail becomes and old, overgrown lane winding between dilapidated buildings choked in vines and brush.//
-//Ahead of you, in the middle of the settlement, rises a steep hill, upon which stands a stone tower with a partially collapsed roof and an adjoining cottage.//
-//A dirt road hugs the base of the hill and winds its way between old stone houses, many of which are roofless ruins with interiors open to the weather.//
-//Other building appear more or less intact.  The whole place is eerily silent.//
-//A wooden sign is nailed to a post nearby. It reads://
-//  "DANGER! Plant monsters AND zombies! Turn back now!"//
+__Gradually, the trail becomes and old, overgrown lane winding between dilapidated buildings choked in vines and brush. Ahead of you, in the middle of the settlement, rises a steep hill, upon which stands a stone tower with a partially collapsed roof and an adjoining cottage. A dirt road hugs the base of the hill and winds its way between old stone houses, many of which are roofless ruins with interiors open to the weather. Other building appear more or less intact.  The whole place is eerily silent. A wooden sign is nailed to a post nearby. It reads:__
+__  "DANGER! Plant monsters AND zombies! Turn back now!"__
 
 ===== General Features =====
 The insides of ruined buildings is difficult terrain (half movement)
@@ -26,86 +22,124 @@ Trees average 30 to 40 ft tall and provide cover
 Brush consists of large bushes that count as difficult terrain.
 
 
-1. ==== Westernmost Cottage ====
+1. ===== Westernmost Cottage =====
 
-//Cowering in the shadow of an old tree is a crumbled stone cottage with no roof.  Weeds are rampant here.//
+__Cowering in the shadow of an old tree is a crumbled stone cottage with no roof.  Weeds and small shrubs are rampant here.__
 
-2 Twig Blights are inside trying to hide.
+6 **twig blights** are inside trying to hide.
 They don't attack, but will come aid the Blights in area 2.
 
+===== 2. Blighted Cottages =====
+__These ruined, side-by-side cottages look as though they might have been the homes of prosperous shopkeepers or well-off farmers in their time.  All that remains are collapsed walls and piles of debris among the shrubs and vines.  Several young trees have grown up in the midst of the ruins.__
 
-2. ==== Blighted Cottages ====
-
-//These ruined, side-by-side cottages look as though they might have been the homes of prosperous shopkeepers or well-off farmers in their time.  All that remains are collapsed walls and piles of debris.  Several young trees have grown up in the midst of the ruins.//
-
-6 hungy Twig Blights are in this area.  They close in on the players if the players enter either building
+2 hungy **vine blights** are in this area.  They close in on the players if the players enter either building
 One round after fighting erupts, the Twig Blights in area 1 show up.
 
 **Loot**
 A chest containing 120 gp lies under the broken flagstone floor, DC10 to find.
 
-
-3. ==== The Brown Horse ====
-
-//A weathered signboard by the door of this large building shows the faded image of a workhorse holding a flagon of ale.  The building is sagging and dilapidated, but it is more intact than the ruins across the road (area 2).//
+===== 3. The Brown Horse =====
+__A weathered signboard by the door of this large building shows the faded image of a workhorse holding a flagon of ale.  The building is sagging and dilapidated, but it is more intact than the ruins across the road (area 2).__
 
 There are 4 [[Ash Zombies]] in this building. They are all lying down on the floor or leaning against walls (counts as prone).  They attack when a character enters.
 
+**Loot**
+DC10 survival check to harvest 1 pinch of [[Ash Zombie Dust]] from each zombie.
 
-4. ==== Druid's Watch ====
-
-//This small house appears to be in better condition than the ruined and dilapidated structures nearby.//
-//The doors are reinforced with heavy iron bands, and thick shutters protect the windows.//
+===== 4. Druid's Watch =====
+__This small house appears to be in better condition than the ruined and dilapidated structures nearby. The doors are reinforced with heavy iron bands, and thick shutters protect the windows.__
 
 [[Reidoth the Druid]] is in this building
-Reidoth is a gaunt, white-haired old human man who doesn't use 2 words when 1 will do.
+__Reidoth is a gaunt, white-haired old human man__ who doesn't use 2 words when 1 will do.
 He brews psychadelic tea, same rules as alcohol.
 
 Reidoth warns the party and suggests that they leave Thundertree before they get themselves killed.
 He knows that plant monsters, zombies, and enormous spiders all infest the ruins.
 Even worse, just recently a green dragon flew into the tower and is occupying it.
-  Since the dragon came, some more shady folk have appeared
-	"folk in black masks and cloaks"
+  __Since the dragon came, some more shady folk have appeared__
+	__"folk in black masks and cloaks"__
 
 Reidoth knows the location of [[Cragmaw Castle]]
 He also knows the location of [[Wave Echo Cave]]
-  He offers to guide them there if the party is able to chase off the dragon ([[Venomfang]])
+He offers the party to __"come back if you slay the dragon. I can offer you something that will help you."__
+  He offers a hand-carved statuette of a unicorn ( [[:Reidoth's Unicorn]] ) with his initials on it if the party is able to chase off the dragon ([[Venomfang]])
+
+===== 5. Blighted Farmhouse =====
+__This ruin looks as if it might once have been a farmhouse. It is now half swallowed by a dense thicket, with trees growing up through its ruined foundations. The lane continues south a short distance past the ruin before ending in an overgrown field.__
+
+8 **twig blights** and 2 **vine blights** approach from the eastern side coming in the northern and southern doors, over 3 rounds, at any disturbance inside this cottage.
+
+===== 6. Ruined Store =====
+__At an interseciton near the middle of the village, a narrow lane winds up the steep hillside to the north. Directly to the south is a ruined building that might have been a store or workshop. Webs stretch across the lane, from the building to the trees on the north side of the road.__
+
+2 **giant spiders** hide on the inner walls of this building.
+Webs fill two squares north of the doorway and the doorway itself.
+  They are difficult terrain.
+  DC10 athletics check to move through them or be restrained. Same check to remove them
+  Webs have AC 10, 5HP
+
+**Loot**
+Corpse of an unfortunate adventerur is cocooned in spider silk.  28gp and a [[Potion of Healing]]
+
+===== 7. Dragon's Tower =====
+__At the top of the hill stands a round tower with a cottage attached. Both are in good condition, although half of the tower's roof is gone. A door leads into the cottage, and several arrow-slit windows are visible in the tower. You can't help but notice an eerie quiet in the area and a strange, acrid smell in the air.__
+__The corpses of two hideous giant spiders are sprawled near the edge of the pathway, apparently dragged there. Their bloated bodies are puckered and blistered, and appear to have been mauled by something big.__
+
+[[:Venomfang]] lives in the tower.
+Run [[1 Encounters:Venomfang's Lair]]
+
+Inside the Tower: __A single room with a 40-foot ceiling. A stiarcase circles the interior, rising to the now-opened rooftop. Heavy wooden beams and supports criss-cross the tower.__
+
+**Loot**
+An old wooden chest broken apart on the floor in the center of the tower contains:
+230gp
+4 silver goblets set with moonstones (60gp each)
+Scroll of Misty Step, Scroll of Lightning Bolt.
+[[:Blood-lust Potion]]
+
+===== 8. Old Smithy =====
+__A wide chimney and rotted piles of firewood jumbled outside thie walls of this sagging building suggest that it was a smithy in its day.__
+
+2 [[:Ash Zombie]] s lie prone in this building.
+
+**Loot**
+DC10 survival check to harvest 1 pinch of [[Ash Zombie Dust]] from each zombie.
+
+**Development**
+If fighting erupts here, the **venom troll** in area 12 comes to investigate.
+
+===== 9. Herbalist's Shop =====
+__This ruined shpo is cluttered with sagging storage shelves and broken furniture. Shards of glass and pieces of pottery glint in the weeds and rubble next to rotted books and casks.__
+
+This is the Dendrar family herbal shop. If [[:Mirna Dendrar]] told the party of her family's heirloom here, they automatically find the loot.
+
+**Loot**
+DC15 check to find a small jewelry box containing a gold necklace with a fine emerald pendant (200gp)
+
+===== 10. Town Square =====
+__On the east side of town, the lane opens up to form a small square. Several ruined buildings surround the south side of the square, but a larger, intact structure to the north looks like a barracks. One lane leads southeast, another heads southwest around the hill in the middle of the town, and a third way meanders north. In the middle of the square, leaning to one side ever so slightly, is a weathered wooden statue of a warrior cluthing a spear and shield.__
+
+DC15 History check to recognize the statue of an old hero of [[:Neverwinter]] named [[:Palien]]
+
+===== 11. Old Garrison =====
+__The barracks appears to have weathered the years better than most buildings in town. Its rooftop features a simple battlement, and arrow-slit windows confirm that it was built to serve as a small keep in times of emergency.__
+
+5 [[:Ash Zombie]] s clad in remnants of rusted mail and soldier's surcoats animate and attack if anything enters the building.
+
+**Loot**
+DC10 survival check to harvest 1 pinch of [[Ash Zombie Dust]] from each zombie.
+
+===== 12. Weaver's Cottage =====
+__Heaps of wreckage litter the interior of this ruin. In one corner stands a broken loom. A large humanoid figure crouches over the loom, its green skin pocked and its belly horrendously bloated. Cuts and sores all over its body leak yellow-brown fluid onto the rotted wood floor beneath which sizzles and burns. It turns with a sickening gurgle that seems to originate from its gut as you enter.__
+
+**venom troll** but acid damage
+
+===== 13. Dragon Cultists =====
+__This small farmhouse appears to be just another empty home at first glance. However, all the doors are shut and windows shuttered.__
+
+A group calling themselves __The Claw of the Dragon__ reside in this building
+Run [[1 Encounters:Claw of the Dragon in Thundertree]]
 
 
-5. ==== Blighted Farmhouse ====
 
-//This ruin looks as if it might once have been a farmhouse.//
-//It is now half swallowed by a dense thicket, with trees growing up through its ruined foundations.//
-//The lane continues south a short distance past the ruin before ending in an overgrown field.//
-
-
-6. ==== Ruined Store ====
-
-
-
-7. ==== Dragon's Tower ====
-
-
-
-8. ==== Old Smithy ====
-
-
-
-9. ==== Herbalist's Shop ====
-
-
-
-10. ==== Town Square ====
-
-
-
-11. ==== Old Garrison ====
-
-
-
-12. ==== Weaver's Cottage ====
-
-
-
-13. ==== Dragon Cultists ====
 

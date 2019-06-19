@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-19T17:17:33-04:00
+
+====== Favric ======
+Created Wednesday 19 June 2019
+
+Favric is a NE young human male.
+
+He is a member of the [[:Hand of the Dragon]]
+He hopes to rise through the ranks quickly by earning the allegiance of the green dragon [[:Venomfang]]

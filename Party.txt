@@ -5,6 +5,8 @@ Creation-Date: 2019-02-08T14:52:38-05:00
 ====== Party ======
 Created Friday 08 February 2019
 
+=== Slayers of the Spider Queen ===
+
 ~~Jober~~
 [[Leaf in the Grass]] 6
 ~~Ulric~~
@@ -27,3 +29,7 @@ Hard
 
 Deadly
 5600
+
+
+250gp income per session due to deal with [[:Gundren Rockseeker]]
+Sessions 18-21 gold will be payed directly to [[:Sildar Hallwinter]] for the construction of [[:Leaf in the Grass]] 's restaurant.

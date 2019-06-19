@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-19T15:45:29-04:00
+
+====== Ash Zombie Dust ======
+Created Wednesday 19 June 2019
+
+__A faintly glowing purple dust with a sweet scent.__
+
+DC10 medicine check to recognize that it might have restorative or transformational properties.
+
+If **inhaled**: When inhaled, it acts almost like a drug, allowing the user to feel weightless, worry-less, and fly as if under the effects of a Fly spell.  (No concentration required).
+
+If **Ingested**: Zombie dust makes anything taste AMAZING, it does not make everything edible however, (a rock is still a rock) but it does remove the poisonous properties of the material, therefore a poisonous mushroom may become edible.
+
+If **Injected**: Not possible but is sprinkled on a wound it knits the wound and any surrounding flesh together. also nullifying any poison (such as from a snakebite). Caution should be taken as it knits and binds ANY flesh together which can lead to complications if pressed onto the wound with a hand and not sprinkled.
+
+**Overdose**: If more than one dose is taken in a 24-hour period, the user takes 2d6 points of psychic damage. Using it more than three times in any 24-hour period deals 4d6 points of psychic damage and paralyzes the user for 2d4 hours.

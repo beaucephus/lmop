@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-19T15:30:42-04:00
+
+====== Reidoth's Unicorn ======
+Created Wednesday 19 June 2019
+
+A hand-carved statuette of a unicorn with [[:Reidoth the Druid]] 's initials on it.
+If presented, it grants advantage on any checks to interact with a member of the [[:Emerald Enclave]]
