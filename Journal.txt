@@ -42,10 +42,10 @@ Visited [[Daren Edermath]] and received payment for the [[old owl well]] quest.
   Daren is disturbed that the Necromancer is still at the well, and will go out to negotiate with him to leave.
 Got ambushed by Redbrands.
   Locked 2 of them up in the [[Townmaster's Hall]]
-	[[Walddi Wentonc]] , youth of the town from broken family, and [[Manwik Dintt]]  
+	[[Walddi Wentonc]] , youth of the town from broken family, and [[Manwik Dintt]]
   [[Townmaster Harbin Wester]] left and gave the keys to [[Ulric]]
 The party learned of the [[Redbrands]] hangout at the [[Sleeping Giant]]
-[[Sildar Hallwinter]] is missing from the Townhall. 
+[[Sildar Hallwinter]] is missing from the Townhall.
   Sildar's requests for reinforcements aren't getting to Neverwinter, they're being intercepted.
   Silder left for Neverwinter himself.
 
@@ -55,17 +55,17 @@ The party met with [[Sister Garaele]] and used her new divination spell to locat
   [[Othard Drapier]] stole back [[Arthindol's Spellbook]]
 The party met [[Atan]] who was being assaulted by 2 [[Redbrands]]
   They scared off the Redbrands and Atan joined the party to find the [[Forge of Spells]]
-The party went to [[old owl well]] 
+The party went to [[old owl well]]
   They retrieved the [[Sling of Critical Accuracy]] from the bottom of the well
   They exchanged [[Arthindol's Spellbook]] for [[Jober]] to learn a 2nd level version of Animate Dead.  Add Life Transference to his domain spell list at 5th level.
-The party set out to find [[Cragmaw Castle]] and instead found the [[1 random encounters:rickety tower|rickety tower]] 
-  The tower was full of kobolds and magical [[Quiver of Pristine Fletching]].  
+The party set out to find [[Cragmaw Castle]] and instead found the [[1 random encounters:rickety tower|rickety tower]]
+  The tower was full of kobolds and magical [[Quiver of Pristine Fletching]].
   The tunnel underneath leads to a [[1 random encounters:Kobold Lair|Kobold Lair]]
   2 Kobolds escaped into the tunnel to warn the others
-short rest!!! 
+short rest!!!
   [[Ulric]] attuned to the [[Sling of Critical Accuracy]]
   [[Leaf in the Grass]] attuned to the [[Quiver of Pristine Fletching]]
-  
+
 
 ===== Session 6 19/02/21 =====
 [[Jober]] left to go do something...
@@ -98,7 +98,7 @@ The PCs enter the [[Sleeping Giant]] tavern and find the secret entrance to the 
 They encounter a puzzling hall and defeat 2 gelatinous cubes.
 
 ===== Session 9 19/03/28 =====
-Infiltrated [[Redbrand Hideout]] 
+Infiltrated [[Redbrand Hideout]]
 Killed [[Grendel]] the nothic
 Cleared room 1 and took a short rest
 
@@ -117,7 +117,7 @@ During the night, the [[Redbrands]] raided [[Phandalin]] setting fires and steal
   The Redbrands set fires, and kidnap women and children of the town.
   They head south out of town and set up camp during the night foothils of the sword mountains.
 
-The redbrand hideout is emptied out. 
+The redbrand hideout is emptied out.
 Level 5!!!
 
 ===== Session 12 19/04/18 =====
@@ -140,7 +140,7 @@ Pary entered [[Wave Echo Cave]] and cleared 1st room
   killing [[Vyerith]] the drow spy
 
 ===== Session 14 19/05/09 =====
-[[Wave Echo Cave]] 
+[[Wave Echo Cave]]
   Cleared rooms 3,4,5,8,13.
   Spoke with [[Mormesk]] the Wraith and exchanged the mysterious key for safe passage.
   Spoke with [[Fiver]] the spectator who told them the drow are to the north and that the undead and drow are warring against each other.
@@ -163,13 +163,12 @@ Group went back into [[:Wave Echo Cave]] to deal with the undead, [[Leaf in the 
 Went to deal with the Xorn in area 2 of wave echo cave and found the xorn currently beatng up on some undead...
 
 ===== Session 17 19/06/13 =====
-Pick up with fight with Xorn
-  Defeated
 Went back to Phandalin
 Sildar and Harbin are grateful and offer a feast in the Player's honor.
   [[1 Encounters:Phandalin Feast]]
 	The morning after the feast, the players overhear a group of merchants asking [[:Toblen Stonehill]] about protection for hire on the dangerous road through the eastern desert.
 Party convinces Gundren to work with the undead and gets 250gp per session for deal.
+  Pary requests goggles of night from the [[:Forge of Spells]]
 [[:Leaf in the Grass]] convinces [[:Sildar Hallwinter]] to build a restaurant in the ruins of the [[:Tresendar Manor]] (1500gp total, 500gp down payment, taking their 250gp payment from gundren for the next 4 sessions)
 Leaf asked [[:Lenore Eventide]] to work in her restaurant.  Lenore will manage the establishment.
 Party set out for the [[:Ruins of Thundertree]] to complete [[:1 Quests:WTB giant spider venom]] and find [[:Mirna Dendrar]] 's family treasure.
@@ -194,9 +193,9 @@ If the party takes the skiff in [[Wave Echo Cave]] out into the water
   ask for 10 minute break to prep
   They quickly find a small island of deep gnomes (svirfneblin) fighting drow.
 
-Party has potential hooks to 
+Party has potential hooks to
   [[Vhudyn]] the drow city in the underdark
-  [[Thar]] desert where [[Hamun Kost]] invited them 
+  [[Thar]] desert where [[Hamun Kost]] invited them
   [[Neverwinter]] where the Drapier family is strengthening its hold on the army and other houses of the [[Lord's Council of Neverwinter]]
 
 

@@ -17,3 +17,7 @@ When properly manned and worked (requires a crew of trained arcanists), it grant
 	  to hit, damage, number of damage dice, spell save DC, AC, etc...
 	Magit items witout a quantitative effect have their effect boosted in some way at the DM's discretion
     
+Gundren currently oversees operation of the forge with help from [[:Mormesk]] the wraith.
+
+===== Party Commissions =====
+[[:Goggles of Night (SoP)]]

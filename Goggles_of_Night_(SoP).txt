@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-20T15:12:15-04:00
+
+====== Goggles of Night (SoP) ======
+Created Thursday 20 June 2019
+
+While wearing these dark lenses, you have Darkvision out to a range of 60 feet. If you already have Darkvision. wearing the goggles increases its range by 60 feet.
+
+In addition you can see through magical darkness as if it were normal darkness.
