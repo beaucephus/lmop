@@ -86,6 +86,7 @@ __At the top of the hill stands a round tower with a cottage attached. Both are 
 __The corpses of two hideous giant spiders are sprawled near the edge of the pathway, apparently dragged there. Their bloated bodies are puckered and blistered, and appear to have been mauled by something big.__
 
 [[:Venomfang]] lives in the tower.
+If the players make a lot of noise in the cottage, the dragon automatically knows they're coming.
 Run [[1 Encounters:Venomfang's Lair]]
 
 Inside the Tower: __A single room with a 40-foot ceiling. A stiarcase circles the interior, rising to the now-opened rooftop. Heavy wooden beams and supports criss-cross the tower.__
