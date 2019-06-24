@@ -179,8 +179,8 @@ Party set out for the [[:Ruins of Thundertree]] to complete [[:1 Quests:WTB gian
 ===== Session 18 19/06/19 =====
 [[:Ruins of Thundertree]]
 The party encounters [[:Valryk Orion]] outside the ruins
-Once the party defeats [[:Venomfang]] and saves [[:Fie]] run [[:1 Encounters:Fie's dream with Iyrmet]]
-
+Cleared up to Venomfang (area 7). Encountered Venomfang, long rest, then tracked Venomfang to her lair and slew her.
+Fie experience's [[:Iyrmet]] 's whisper and consumes Venomfang's essence, gaining **Waterbreathing**
 
 ===== Future... =====
 In Neverwinter
