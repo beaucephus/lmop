@@ -180,15 +180,15 @@ Party set out for the [[:Ruins of Thundertree]] to complete [[:1 Quests:WTB gian
 [[:Ruins of Thundertree]]
 The party encounters [[:Valryk Orion]] outside the ruins
 Cleared up to Venomfang (area 7). Encountered Venomfang, long rest, then tracked Venomfang to her lair and slew her.
-Fie experience's [[:Iyrmet]] 's whisper and consumes Venomfang's essence, gaining **Waterbreathing**
+[[:Fie]] experience's [[:Iyrmet]] 's whisper and consumes Venomfang's essence, gaining **Waterbreathing**
 
-===== Future... =====
-In Neverwinter
-  If the party decides to go to [[Neverwinter]] run [[1 Random Encounters:Venomfang]]
+===== Session 19 =====
+[[:Ruins of Thundertree]]
+[[:Neverwinter]]
   Allow players to visit shops,taverns,inns in Neverwinter
-  Eventually they receive a summons to visit [[Mailus Drapier]]
   [[1 Encounters:Mailus Drapier's Summons]]
 
+===== Future... =====
 If the party takes the skiff in [[Wave Echo Cave]] out into the water
   ask for 10 minute break to prep
   They quickly find a small island of deep gnomes (svirfneblin) fighting drow.
@@ -196,4 +196,3 @@ If the party takes the skiff in [[Wave Echo Cave]] out into the water
 Party has potential hooks to
   [[Vhudyn]] the drow city in the underdark
   [[Thar]] desert where [[Hamun Kost]] invited them
-  [[Neverwinter]] where the Drapier family is strengthening its hold on the army and other houses of the [[Lord's Council of Neverwinter]]
