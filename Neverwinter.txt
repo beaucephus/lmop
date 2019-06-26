@@ -5,15 +5,33 @@ Creation-Date: 2019-06-12T18:54:37-04:00
 ====== Neverwinter ======
 Created Wednesday 12 June 2019
 
-Neverwinter is divided into districts.
-	 The **City Core**, the central region of the city, where the ruling offices, and the main temples were located.[34]
-	The **Peninsula District**, that comprised the southwestern quadrant of the city.[34]
-	The **Docks District**, the main port.[34]
-	The **Blacklake District**, located in the northeastern quadrant.[34]
-	The **Beggar's Nest**, located in the southeast quadrant.[34]
-	The **Arcanist Quarter**, located in the southeast quadrant.[13] 
+__Once known as "The Jewel of the North", the city of Neverwinter was badly damaged when nearby Mount Hotenow erupted about 30 years ago. Now the "City of Skilled Hands" works furiously to rebuild itself. Neverwinter's reconstruction is far from complete, however. Some of its outer walls still ie in ruins, and several of its neighborhoods remain abandoned. Even so, the damage caused by the great eruption is being undone day-by-day, and that bodes well for Neverwinter's future.__
+
+Neverwinter is a member of the [[:Lord's Alliance]]
+[[:Mailus Drapier]] is the current [[:Lord Protector of Neverwinter]]
 
 ===== Points of Interest =====
-[[:Terrific Clarinet]] Bar
-[[:Sickly Coin]] Inn
+Neverwinter is divided into districts split though the middle by the [[:Neverwinter River]]
+The **Tower District**, north-eastern quadrant of the city
+  [[:Shard of the Moon]]
+  [[:Fallen Tower Tavern]]
+  [[:Cloak Tower]]
+The **Docks District,** western edge of the city
+  [[:Beached Leviathan]]
+  [[:Driftwood Tavern]]
+  [[:Moonstone Mask]]
+The **Bluelake District**, located in the northwestern quadrant
+  [[:Castle Never]]
+  [[:House Drapier]]
+  :[[Bluelake]]
+The **Protector's Enclave,** south-western quadrant.
+  [[:Sleeping Dragon Bridge]]
+  [[:Winged Wyvern Bridge]]
+  [[:Dolphin Bridge]]
+  [[:House of Knowledge]]
+  [[:Hall of Justice]]
+The **Beggar's Nest**, located in the southeast quadrant.
+  [[:Neverdeath Graveyard]]
+  [[:Misty Magic Cleaners]]
+
 

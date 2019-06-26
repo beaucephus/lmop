@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T15:17:12-04:00
+
+====== Fallen Tower Tavern ======
+Created Wednesday 26 June 2019
+
+Run and bartended by [[:Vagdru One-Ear]] , an orc.
+
+**History**
+The tower was once the home of a local wizard, Llomnauvel "Firehands" Oloadhin. His tower was invaded by members of the Arcane Brotherhood around 1337 DR, and while he was not able to defeat them all, his final spell destroyed the tower. The spell left behind a side effect: clear and solid-seeming phantom images of the mages as they were hurled down from the tower.[3]
+
+The Tower later became a popular tavern.[3] 

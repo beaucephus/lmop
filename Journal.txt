@@ -184,6 +184,7 @@ Cleared up to Venomfang (area 7). Encountered Venomfang, long rest, then tracked
 
 ===== Session 19 =====
 [[:Ruins of Thundertree]]
+  The dragon cultists will be leaving to follow the dragon.
 [[:Neverwinter]]
   Allow players to visit shops,taverns,inns in Neverwinter
   [[1 Encounters:Mailus Drapier's Summons]]

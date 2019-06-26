@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T15:51:44-04:00
+
+====== Fie ======
+Created Wednesday 26 June 2019
+
+Warlock of the Old One and Draconic bloodline sorcerer
+
+Patron is an immortal Astral Dragon, [[:Iyrmet]]
+
+Fie gains powers when consuming the essences of dragons she's slain.
+  Got **waterbreathing** from the young green dragon [[:Venomfang]]

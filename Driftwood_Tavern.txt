@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T15:25:20-04:00
+
+====== Driftwood Tavern ======
+Created Wednesday 26 June 2019
+
+The Driftwood Tavern is a fine inn and tavern, which also doubles as a museum
+Drinks, meals, and rooms are quite expensive in the Driftwood Tavern, catering to a richer clientele than other similar establishments in Neverwinter
+
+**History**
+The Driftwood Tavern was built years before 1385 DR, and it survived both the Spellplague and the eruption of Mount Hotenow nearly unscathed.

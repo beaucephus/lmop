@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T15:40:59-04:00
+
+====== Dolphin Bridge ======
+Created Wednesday 26 June 2019
+
+The bridge was carved in the likeness of a dolphin
+
+Connects the [[:Castle Never]] to the [[:House of Knowledge]]

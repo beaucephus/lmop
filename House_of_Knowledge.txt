@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T15:41:41-04:00
+
+====== House of Knowledge ======
+Created Wednesday 26 June 2019
+
+The House of Knowledge is a temple to Oghma in the city of Neverwinter.
+It is badly damaged and remains unused.
+
+**history**
+The House of Knowledge was considered one of the most impressive buildings in Neverwinter, whose fame spread throughout the Sword Coast. It was an impressively tall building with many windows and an arched roof.[1]
+
+After the eruption of Mount Hotenow in 1451 DR, the House of Knowledge was badly damaged, and, as it still stands in ruins.
