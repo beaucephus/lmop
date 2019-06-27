@@ -186,9 +186,9 @@ Cleared up to Venomfang (area 7). Encountered Venomfang, long rest, then tracked
 [[:Ruins of Thundertree]]
   The dragon cultists will be leaving to follow the dragon.
 [[:Neverwinter]]
-
 If the player enter [[:Castle Never]]
   [[Encounter:Mailus Drapier's Summons]]
+[[:Quest:Annis's Orphan]]
 
 ===== Future... =====
 If the party takes the skiff in [[Wave Echo Cave]] out into the water
