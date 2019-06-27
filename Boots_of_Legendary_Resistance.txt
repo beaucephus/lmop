@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T20:47:18-04:00
+
+====== Boots of Legendary Resistance ======
+Created Wednesday 26 June 2019
+
+Once per day, when you fail a saving throw, you can choose to pass instead.
+
+If you use this ability, roll a d20.  On a 1, the boots disentigrate into dust.

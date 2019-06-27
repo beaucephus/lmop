@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T20:29:31-04:00
+
+====== Wight Cloak ======
+Created Wednesday 26 June 2019
+
+Creates the illusion that the wearer is a wight.

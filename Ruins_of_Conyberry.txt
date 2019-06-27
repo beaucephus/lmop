@@ -9,4 +9,4 @@ Long ruined town of a few dozen buildings.  It was overrun during the orc invasi
 
 A large group of Ankhegs burrow in the southern end.
 
-The players defeated the [[1 random encounters:ankheg]] here.
+The players defeated the [[PopEncounter:ankheg]] here.

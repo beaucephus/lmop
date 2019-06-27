@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T19:29:58-04:00
+
+====== Phandalin Feast ======
+Created Wednesday 05 June 2019
+
+Townspeople of [[Phandalin]] and [[:Sildar Hallwinter]] throw a feast for the party in honor of their success in liberating the town from the [[:Redbrands]] and finding the entrance to the long [[:Lost Mine of Phandelver]]
+
+Dinner and lots of "Thank you!"s
+Sildar prompts the party for a name or "Biff's Brigade"
+[[:Toblen Stonehill]] offers the players free food, drink and rooms at the [[:Stonehill Inn]] anytime they are in town.
+[[:Gundren Rockseeker]] approaches [[:Othard Drapier]] to work out the details of the mine and offers the party a better deal if they'll promise to help protect the mine from the drow in the future.
+A messenger from "Our lord" approaches [[:Fie]] and [[:H'ruck]] and bids them report to [[:Mailus Drapier]] who is __very interested in the status of Phandalin, the Redbrands, and the Rockseeker's mine.__
+
+
+Sildar gives a toast "To our heros, the <group name>!!! and to Phandalin and the Rockseeker brothers!!!, and to the Lord's Alliance! (less cheering and a bit of a sour mood at the last one)
+
+Dragon's Hoard (dice game)
+  1gp to ante in
+  each player rolls 3d6 (hidden)
+  betting (all players must match the highest wager to continue)
+  dealer rolls 1d6. all matching numbers no longer count
+  bet again
+  reveal dice, highest total wins the pot
+
+Drinking Game.
+  gold to ante in
+  Roll CON saves against each other for each drink.
+  Failed save = poisoned
+  3 failed saves = passed out for 1 hour
+ 
+Bows and Boards (Townsfold start laughing and running)
+  2gp to ante in
+  stand outside together
+  loose arrows straight up into the night (attack roll) (NAT1 looses arrow into crowd and automatic loss)
+  player is out if they don't catch an arrow with their shield. (DC15 perception to see arrow, DC10 Acrobatics to catch)
+	last player in wins
+	
+	Current champion is [[:Daren Edermath]]
+
+
+
+  

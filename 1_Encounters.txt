@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-04-14T15:47:38-04:00
-
-====== 1 Encounters ======
-Created Sunday 14 April 2019
-

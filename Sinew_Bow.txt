@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T20:41:17-04:00
+
+====== Sinew Bow ======
+Created Wednesday 26 June 2019
+
+
+Bow of Sinew
+
+It's current form is a green vial of liquid that pinches to a sharp point on the top, covered with sheepskin. A solitary worm, with a spiked mouth and ridges lashes about inside. Upon stabbing the point into your forearm, the worm and fluid flow into your arm. The next time you attempt to draw a ranged weapon, you take 2d6 damage and your bow arm explodes outwards rearranging muscle, bone, and sinew into a longbow. Drawing your other hand near the bow causes an thin bone arrow fletched with cartilage to extrude from your wrist. The bow accelerates arrows by flexing muscles in your new arm, dealing an additional 2d10 necrotic damage on a hit. Upon exiting combat, your arm rearranges back into its normal form, with hairline cracks where the skin reconnects. You can now undergo the same transformation at will.

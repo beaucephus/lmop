@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-20T16:27:44-04:00
+
+====== Venomfang's Lair ======
+Created Thursday 20 June 2019
+
+__The large green dragon sits in a depression near the center of the room dripping a viscous yellow liquid from the tips of its talons into the open mouth of the not-moving body of Marcus.__
+
+Venomfang has 115 HP
+
+[[:Venomfang]] protects her lair and treasure, but won't risk death for either.
+She offers to treat with the party, requesting magic items for her horde in exchange for [[:Fie]] 's life.
+
+If the party offers to trade sufficient magic items
+  Venomfang will return [[:Fie]] who will recover after a long rest.
+  Venomfang keeps Fie's magic items and relocates her lair as soon as the party leaves.
+Else
+  Venomfang gives a warning
+	__You would forfeit your friend's life over some inconsequential trinkets? Leave, now, or he dies!__
+
+If the players leave
+  Venomfang immediately carries off most of her horde to a new lair, leaving Fie behind.
+
+If combat is imminent
+  Venomfang bluffs DC15 insight to recognize
+	__This one has drank my poison...for hours now...__
+	__I am the only one who can restore him.__
+	__Slay me and your friend will die with me. *cackles*__
+
+
+
+If the players and Venomfang are still at a stand-off
+  Venomfang finally offers a truce as __This is going nowhere__
+  She offers to release Fie from the poison if the group promises not to slay her and leave.

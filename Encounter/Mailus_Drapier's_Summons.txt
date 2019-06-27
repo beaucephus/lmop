@@ -9,10 +9,11 @@ Created Tuesday 04 June 2019
 
 He congratulates [[:Fie]] and [[:H'ruck]] for __cleaning up the Redbrand dogs__
 He asks if the [[:Redbrands]] leader ( [[:Iarno Albrek aka Glasstaff]] ) is dead
-  If not, he immediately gives the players a quest to find and kill him for __double the usually price__. (500gp) 
+  If not, he asks his butler, Alfred to issue a bounty for his head. (1000gp) 
 
 He expresses his pride in [[:Othard Drapier]] at helping __extend the family's influence.  You're finally starting to show promise like your brother!__
 
 **Developments**
-Mailus offers the players a quest in the city 
-If Mailus learns that the party suspects him of being the mastermind behind the Redbrands, he determines they are too dangerous to be left alive and sends Othard's brother [[:Vincent Drapier]] and a hit squad to kill them all except Othard
+Mailus offers the players a quest in the city. Alfred handles the details.
+  [[Quest:Frame Lord Ulthein]]
+

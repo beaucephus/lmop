@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T18:48:39-04:00
+
+====== Frame Lord Ulthein ======
+Created Wednesday 26 June 2019
+
+__Lord Ulthein has spoken out against the Lord Protector on several occassions and dissent is beginning to take root in the Lord's Council.  Lord Ulthein must be removed.__
+
+Lord Protector [[:Mailus Drapier]] wants the players to forge a treasonous letter and plant it in [[:Lord Ulthein]] 's private office somewhere he won't find it, then report back to Alfred once it's done.
+The letter needs to be in the Lord's handwriting and with his signature.  It needs to implicate him in a treasonous affair worthy of life imprisonment.
+
+**loot**
+__Your usual fee.__ (250gp)

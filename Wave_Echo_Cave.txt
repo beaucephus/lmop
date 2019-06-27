@@ -265,7 +265,7 @@ If enemies unaware of party: //Two drow stand by the table, one a heavily armore
 
 If enemies are aware: //The unomoving body of a young dwarf sits leaned agains the base of the statue.  You hear a low, pain-filled moan coming from the dwarf.//
 
-[[1 Encounters:Temple of Dumathoin]]
+[[Encounter:Temple of Dumathoin]]
 
 The emeralds
   DC15 investigation to recognize they are just colored glass.
