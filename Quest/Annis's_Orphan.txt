@@ -9,6 +9,6 @@ A young girl dressed in dirty rags stops the party in the street and pleads with
   She says they were playing a dare game and she dared him to make it all the way to the top of the tower.
   The young girl is being corrupted by an Annis Hag
   There is no brother.
-  If the players exit the tower, she runs.
+  She's gone when the players exit the tower.
 
-If the players catch her, they notice a strange iron pendant in the shape of a serrated tooth.
+If the players find and catch her, they notice a strange iron pendant in the shape of a serrated tooth.

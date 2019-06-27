@@ -7,6 +7,8 @@ Created Wednesday 26 June 2019
 
 Fate's Grip
 
-(Dagger) Gains thrown property 30/120 ft. This obsidian weapon is decorated with a beautiful spiral leather grip that wraps around the hilt with engraved the words "Forever bound..." in abyssal. Upon attuning with the weapon, the grip unravels with the end fading into the etherealness, and reappearing to wrap around your forearm. The words "...In fate's grip" appear engraved on the wielder's arm. While attuned to this item, thrown attacks with this weapon will deal 2d6 additional damage, and the weapon returns to you after it is thrown.
+(Dagger) This obsidian weapon is decorated with a beautiful spiral leather grip that wraps around the hilt with engraved the words "Forever bound..." in abyssal. While attuned to this item, thrown attacks with this weapon deal 2d6 additional damage, and the weapon returns to you after it is thrown.
+
+Upon attuning with the weapon, the grip unravels with the end fading into the etherealness, and reappearing to wrap around your forearm. The words "...In fate's grip" appear engraved on the wielder's arm. While attuned to this item, thrown attacks with this weapon will deal 2d6 additional damage, and the weapon returns to you after it is thrown.
 
 This weapon is cursed: upon attuning with the weapon, you attack with disadvantage when using any other weapon. On a missed thrown attack, the weapon is no where to be found. Upon losing the weapon (by throwing it or destroying it) the weapon inexplicably appears close at hand when you next roll initiative. This curse ends once you choose not to pick up the weapon when it appears nearby.

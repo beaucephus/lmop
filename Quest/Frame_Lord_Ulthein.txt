@@ -7,8 +7,10 @@ Created Wednesday 26 June 2019
 
 __Lord Ulthein has spoken out against the Lord Protector on several occassions and dissent is beginning to take root in the Lord's Council.  Lord Ulthein must be removed.__
 
-Lord Protector [[:Mailus Drapier]] wants the players to forge a treasonous letter and plant it in [[:Lord Ulthein]] 's private office somewhere he won't find it, then report back to Alfred once it's done.
+Lord Protector [[:Mailus Drapier]] wants the players to forge a treasonous letter and plant it in [[:Lord Ulthein]] 's private office somewhere he won't find it, then report back to Alfredo once it's done.
 The letter needs to be in the Lord's handwriting and with his signature.  It needs to implicate him in a treasonous affair worthy of life imprisonment.
+
+Alfredo urges them to take their time and make sure the deed cannot be traced back to the Lord Protector.
 
 [[:Dungeon:House Ulthein]]
 

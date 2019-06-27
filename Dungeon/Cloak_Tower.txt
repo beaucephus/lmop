@@ -19,20 +19,34 @@ __50 feet up the winding staircase the carpet around you rips up and tears to li
 rugs of smothering
 
 ===== 3. Library =====
-__Row upon row of dusty books line the walls of this room. There is no staircase in sight.__
+__Row upon row of dusty books line the walls of this room.__
 
 swarms of animated books
 
+__There is no staircase in sight. A rusty trombone and a sheet music stand sit on the far side of the room opposite the stairs leading down.__
+
+The stand contains one page of sheet music, it's the music to an old fairy tale.
+Must play the music on the trombone to open the secret door to the next level.
 
 
 ===== 4. Workshop =====
+__This room seems to have been an arcane workshop.  Tools and contraptions line the walls.  A large metallic construct dominates the room and stands next to a cluttered work bench.__
+__Another, ornate bronze staircase leads up to the next room.__
 
 shield guardian
 pitfall traps to the bottom of the tower, 70 foot drop (DC15 dex save or take 7d6, half on save).  More carpet rips up into rugs of smothering
 
-[[:Hanz's Circlet]] sits on a wooden bench amid several tools of the arcane persuasion.
+[[:Hanz's Circlet]] sits on the work bench amid tools and notes.
 
 ===== 5. Bedroom =====
-
+__This bedroom chamber is lavishly furnished though it is covered in a think layer of dust.  A huge bearskin rug covers most of the floor and several coat cupboards line the walls.__
 
 [[:Empty Cloak]]
+The bearskin run is a huge **rug of smothering**
+  It rolls double dice for damage and can grapple 2 ppl. per turn  
+
+**loot**
+[[:Wight Cloak]]
+Scroll of Fireshield
+An ornately bound and caligraphed treatise discussing spell-enhancing diagrams that work on the principle of ‘arcane resonance.’ A DC 15 Knowledge (arcana) check reveals it as completely fraudulent.
+
