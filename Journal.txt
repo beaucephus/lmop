@@ -182,14 +182,20 @@ The party encounters [[:Valryk Orion]] outside the ruins
 Cleared up to Venomfang (area 7). Encountered Venomfang, long rest, then tracked Venomfang to her lair and slew her.
 [[:Fie]] experience's [[:Iyrmet]] 's whisper and consumes Venomfang's essence, gaining **Waterbreathing**
 
-===== Session 19 =====
-Roll for weather, turning to fall
+===== Session 19 19/06/28 =====
+Seasons turning to fall
 [[:Ruins of Thundertree]]
-  The dragon cultists will be leaving to follow the dragon.
-  Leaf died
+  The dragon cultists leave to follow the dragon.
+  Leaf died vs a **venom troll**
   Reidoth raises her
-  Gives her the Unicorn and tells her of Azura Brey at the Driftwood Tavern
-  Leaf in the Pot resaurant
+  Gives her the Unicorn and tells her of [[Azura Brey]] at the [[Driftwood Tavern]]
+  Leaf in the Pot resaurant (knock off 2 sessions for downtime, restaurant will open session 21.
+	125lbs of dragon meat
+	Plant Growth
+	Deal with Sildar's men to keep the peach for 50% discount
+  Othard planted a forged letter implicating Barthen in thevery and collusion with goblins to ruin the Lionshield Coster.
+
+===== Session 20 =====
 [[:Neverwinter]]
 If the players enter [[:Castle Never]]
   [[Encounter:Mailus Drapier's Summons]]
