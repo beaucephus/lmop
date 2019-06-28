@@ -13,3 +13,5 @@ djinni
 
 
 Magic Items:
+quiver of pristine fletching
+gauntlets of ogre power

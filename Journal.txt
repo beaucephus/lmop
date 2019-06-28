@@ -186,6 +186,10 @@ Cleared up to Venomfang (area 7). Encountered Venomfang, long rest, then tracked
 Roll for weather, turning to fall
 [[:Ruins of Thundertree]]
   The dragon cultists will be leaving to follow the dragon.
+  Leaf died
+  Reidoth raises her
+  Gives her the Unicorn and tells her of Azura Brey at the Driftwood Tavern
+  Leaf in the Pot resaurant
 [[:Neverwinter]]
 If the players enter [[:Castle Never]]
   [[Encounter:Mailus Drapier's Summons]]
