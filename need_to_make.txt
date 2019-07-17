@@ -1,17 +1,7 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Tokens: 1 venom troll
 
-annis hag
-night hag
-flying sword
-animated armor
-rug of smothering
-huge rug of smothering
-swarm of animated books
-shield guardian
-djinni
-
+Tokens:
 
 Magic Items:
 quiver of pristine fletching
@@ -19,4 +9,3 @@ gauntlets of ogre power
 
 Prepare:
 [[:Dungeon:House Ulthein]]
-
