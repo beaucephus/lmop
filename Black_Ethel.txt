@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-17T15:10:15-04:00
+
+====== Black Ethel ======
+Created Wednesday 17 July 2019
+
+A **night hag** in the [[:Beggar's Nest Coven]] of [[:Neverwinter]]
+
+Black Ethel "prepares" the children of the [[:Little Miracles Orphan Home]] for consumption.
+This involves giving them nightmares and corrupting them into depraved, evil souls.
+
+run [[:Dungeon:Beggar's Nest Coven Lair]]

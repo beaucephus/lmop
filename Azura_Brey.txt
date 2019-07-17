@@ -6,3 +6,8 @@ Creation-Date: 2019-06-28T08:41:46-04:00
 Created Friday 28 June 2019
 
 Owns and operates the [[:Driftwood Tavern]]
+
+Azura is a member of the [[:Emerald Enclave]]
+If they party mentions [[:Reidoth the Druid]] or presents [[:Reidoth's Unicorn]]
+	Azura offers to help the party with discounted rooms and offers information on the city [[:Neverwinter]]
+

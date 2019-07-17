@@ -17,18 +17,18 @@ Created Friday 08 February 2019
 [[H'ruck]] 6
 [[Biff Broadsteele]] 5
 
-===== Combat Difficulty (4 6th level players) =====
+===== Combat Difficulty (4 7th level players) =====
 Easy
-1200
+TODO
 
 Medium
-2400
+TODO
 
 Hard
-3600
+TODO
 
 Deadly
-5600
+TODO
 
 
 250gp income per session due to deal with [[:Gundren Rockseeker]]

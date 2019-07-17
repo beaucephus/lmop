@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-17T16:08:13-04:00
+
+====== Amulet of Health(FoS) ======
+Created Wednesday 17 July 2019
+
+Adventuring Gear (Neck)
+Rare
+
+Requires Attunement
+
+While you wear this swirling, sparkling ruby amulet, your Constitution score is increased by 6 (to a maximum of 22).

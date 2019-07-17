@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-17T15:43:27-04:00
+
+====== Begger's Nest ======
+Created Wednesday 17 July 2019
+
+Poort area in the southeast of [[:Neverwinter]]
+
+It's currently inhabited by the [[:Beggar's Nest Coven]]
+
+Potential regional effects due to the coven while in the Beggar's Nest.
+	Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.
+	Beasts that have an Intelligence score of 2 or lower are charmed by the hag and directed to be aggressive toward intruders in the area.
+	The gravel stones on a safe-looking path, road, or trails occasionally become sharp for 100-foot intervals. Walking on these areas is like walking on caltrops.
+	Trees transform into awakened trees and attack when hostile intruders are near.
+	Shadows seem abnormally gaunt and sometimes move on their own as though alive.
+	Intelligent creatures see hallucinations of dead friends, family members, and even themselves litter- ing the hag's realm. Any attempt to interact with a hallucinatory image causes it to disappear.
+	
+Specifically the hags have enchanted packs of city dogs who patrol the Beggar's Nest and report going's on to the coven.

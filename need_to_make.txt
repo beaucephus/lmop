@@ -1,6 +1,7 @@
-Tokens:
-1 venom troll
-green hag
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Tokens: 1 venom troll
+
 annis hag
 night hag
 flying sword
@@ -15,3 +16,7 @@ djinni
 Magic Items:
 quiver of pristine fletching
 gauntlets of ogre power
+
+Prepare:
+[[:Dungeon:House Ulthein]]
+

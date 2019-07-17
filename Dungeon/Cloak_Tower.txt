@@ -30,11 +30,11 @@ Must play the music on the trombone to open the secret door to the next level.
 
 
 ===== 4. Workshop =====
-__This room seems to have been an arcane workshop.  Tools and contraptions line the walls.  A large metallic construct dominates the room and stands next to a cluttered work bench.__
+__This room seems to have been an arcane workshop.  Tools and contraptions line the walls.  A large metallic humanoid construct dominates the room and stands next to a cluttered work bench.__
 __Another, ornate bronze staircase leads up to the next room.__
 
 shield guardian
-pitfall traps to the bottom of the tower, 70 foot drop (DC15 dex save or take 7d6, half on save).  More carpet rips up into rugs of smothering
+Rugs of Smothering cover pitfall traps to the bottom of the tower, 50 foot drop (DC15 dex save or take 5d6, half on save).
 
 [[:Hanz's Circlet]] sits on the work bench amid tools and notes.
 

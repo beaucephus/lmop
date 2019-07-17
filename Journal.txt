@@ -7,7 +7,7 @@ Created Thursday 10 January 2019
 
 ===== Session 0/1 2018 =====
 Arrived in [[Phandalin]].
-Level 2!
+**Level 2!**
 
 ===== Session 2 19/01/10 =====
 Learned of [[Theodore Anthony Nugent]] the town physician/undertaker.
@@ -33,7 +33,7 @@ Saved the [[Owlbear of Neverwinter Wood]]
 Visited [[Agatha the Banshee]]
 Got [[Arthindol's Spellbook]]
 Travelled back to [[Phandalin]]
-Levelled up to level 3!!!
+**Levelled up to level 3!!!**
 
 ===== Session 4 19/01/31 =====
 Gave spellbook to [[Sister Garaele]]
@@ -82,7 +82,7 @@ short rest!!!
 Temporary alliance with [[Targor Bloodsword]]
 Cleared [[Cragmaw Castle]] saved [[Gundren Rockseeker]] but didn't save the map.
 The map to wave echo cave wase taken by [[Vyerith]] the drow spy.
-Level 4!!!
+**Level 4!!!**
 
 ===== Session 8 19/03/21 =====
 Sildar is back in Phandalin with a group of 5 guards to establish a constabulary.
@@ -118,7 +118,7 @@ During the night, the [[Redbrands]] raided [[Phandalin]] setting fires and steal
   They head south out of town and set up camp during the night foothils of the sword mountains.
 
 The redbrand hideout is emptied out.
-Level 5!!!
+**Level 5!!!**
 
 ===== Session 12 19/04/18 =====
 [[Encounter:Redbrand's Last Stand]] during the night
@@ -189,11 +189,14 @@ Seasons turning to fall
   Leaf died vs a **venom troll**
   Reidoth raises her
   Gives her the Unicorn and tells her of [[Azura Brey]] at the [[Driftwood Tavern]]
-  Leaf in the Pot resaurant (knock off 2 sessions for downtime, restaurant will open session 21.
-	125lbs of dragon meat
-	Plant Growth
-	Deal with Sildar's men to keep the peach for 50% discount
-  Othard planted a forged letter implicating Barthen in thevery and collusion with goblins to ruin the Lionshield Coster.
+Downtime in Phanalin
+	Leaf in the Pot resaurant (knock off 2 sessions for downtime, restaurant will open session 21.
+		125lbs of dragon meat
+		Plant Growth
+		Deal with Sildar's men to keep the peace for 50% discount
+	Othard planted a forged letter implicating Barthen in thievery and collusion with goblins to ruin the Lionshield Coster.
+	Party Requested [[:Amulet of Health(FoS)]] from [[:Forge of Spells]] (1 month to craft)
+**Level 7!!!**
 
 ===== Session 20 =====
 [[:Neverwinter]]
@@ -202,6 +205,23 @@ If the players enter [[:Castle Never]]
 [[:Quest:Annis's Orphan]]
 
 ===== Future... =====
+In Neverwinter
+	Drapier quests
+		remove rival
+		slay someone good, maybe brother [[:Vincent Drapier]]
+		military takeover (Finale)
+	Hags
+		annis hag
+		night hag
+		green hag
+		
+In Phandalin
+	[[:Leaf in the Pot]] restaurant is doing 3x well due to Leaf's efforts.
+	Magic Items from [[:Forge of Spells]] , [[:Amulet of Health(FoS)]]
+	Othard's letter will be found by Sildar
+		Investigation into the [[:cragmaw hideout]] reveals the letter could be true. Goods to be returned to the [[:Lionshield Coster]] . 
+		Word has gotten around town.  Barthen under duress to leave [[Phandalin]] .
+
 If the party takes the skiff in [[Wave Echo Cave]] out into the water
   ask for 10 minute break to prep
   They quickly find a small island of deep gnomes (svirfneblin) fighting drow.

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-17T15:00:17-04:00
+
+====== Big Agnes ======
+Created Wednesday 17 July 2019
+
+**Annis hag** in the [[:Beggar's Nest Coven]] in [[:Neverwinter]]
+
+She corrupts young children in town by giving them pendants of her teeth.
+Through her psychic link, she corrupts the children until they either run away or are cast away.
+Once the children are forsaken [[:Auntie Hilda]] accepts them into her orphanage 
+
+
+Agnes lives in the woods near [[:Neverwinter]]
+
+run [[:Dungeon:Auntie Agnes' Lair]]

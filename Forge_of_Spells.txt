@@ -20,4 +20,5 @@ When properly manned and worked (requires a crew of trained arcanists), it grant
 Gundren currently oversees operation of the forge with help from [[:Mormesk]] the wraith.
 
 ===== Party Commissions =====
-[[:Goggles of Night (SoP)]]
+[[:Goggles of Night (FoS)]]
+[[:Amulet of Health(FoS)]]

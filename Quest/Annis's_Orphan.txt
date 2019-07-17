@@ -6,9 +6,11 @@ Creation-Date: 2019-06-26T21:15:38-04:00
 Created Wednesday 26 June 2019
 
 A young girl dressed in dirty rags stops the party in the street and pleads with them save her brother who went into the cloak tower. [[Dungeon:Cloak Tower]]
-  She says they were playing a dare game and she dared him to make it all the way to the top of the tower.
-  The young girl is being corrupted by an Annis Hag
+  She says __the boys were playing a dare game and the other boys dared him to make it all the way to the top of the tower.__
+  The young girl is being corrupted by an Annis Hag whom she refers to as [[:Big Agnes]]
   There is no brother.
   She's gone when the players exit the tower.
 
-If the players find and catch her, they notice a strange iron pendant in the shape of a serrated tooth.
+If the players find and catch her, they notice a strange iron pendant on her necklace.  Its shaped like a large molar, but made completely of iron.
+
+It was given to her by the **annis hag** [[:Big Agnes]]
