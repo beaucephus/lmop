@@ -207,7 +207,7 @@ If the players enter [[:Castle Never]]
 ===== Future... =====
 In Neverwinter
 	Drapier quests
-		remove rival
+		remove rival [[:Dungeon:House Ulthein]]
 		slay someone good, maybe brother [[:Vincent Drapier]]
 		military takeover (Finale)
 	Hags
