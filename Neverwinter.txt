@@ -34,6 +34,7 @@ The **Protector's Enclave,** south-western quadrant.
 The **Beggar's Nest**, located in the southeast quadrant.
   [[:Neverdeath Graveyar]][[:Neverdeath Graveyard|d]]
   [[:Misty Magic Cleaners]]
+  [[:Little Miracles Orphan Home]]
 
 **quests, dungeons, and encounters**
 [[Dungeon:Cloak Tower]]
