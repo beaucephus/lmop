@@ -208,7 +208,10 @@ If the players enter [[:Castle Never]]
 ===== Future... =====
 In Neverwinter
 	Drapier quests
+		4 corners: Mailus, Vincent, Othard, Fie/H'ruck
 		remove rival [[:Dungeon:House Ulthein]]
+			Leaf, H'ruck, or Fie gets made
+			Trial
 		slay someone good, maybe brother [[:Vincent Drapier]]
 		military takeover (Finale)
 	Hags
