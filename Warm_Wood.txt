@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-05T13:20:41-04:00
+
+====== Warm Wood ======
+Created Monday 05 August 2019
+
+A dense, temperate rain forest running along the Sword Coast just south of [[:Neverwinter]] 
+
+It has natural terrain consisting of towering cliffs and caves formed from ancient underwater coral and is full of coral and sea shells

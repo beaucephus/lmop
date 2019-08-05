@@ -182,7 +182,7 @@ The party encounters [[:Valryk Orion]] outside the ruins
 Cleared up to Venomfang (area 7). Encountered Venomfang, long rest, then tracked Venomfang to her lair and slew her.
 [[:Fie]] experience's [[:Iyrmet]] 's whisper and consumes Venomfang's essence, gaining **Waterbreathing**
 
-===== Session 19 19/06/28 =====
+===== Session 19 19/06/27 =====
 Seasons turning to fall
 [[:Ruins of Thundertree]]
   The dragon cultists leave to follow the dragon.
@@ -198,12 +198,20 @@ Downtime in Phanalin
 	Party Requested [[:Amulet of Health(FoS)]] from [[:Forge of Spells]] (1 month to craft)
 **Level 7!!!**
 
-===== Session 20 =====
+===== Session 20 19/07/18 =====
 Remember inspiration!!!
 [[:Neverwinter]]
-If the players enter [[:Castle Never]]
+Players enter [[:Castle Never]]
   [[Encounter:Mailus Drapier's Summons]]
 [[:Quest:Annis's Orphan]]
+
+===== Session 21 =====
+Finish [[:Dungeon:Cloak Tower]]
+	Players in top floor
+	Orphan gonna try to escape, if the party catches, she explains about [[:Big Agnes]]
+[[:Dungeon:Big Agnes' Cave]]
+[[Quest:Frame Lord Ulthein]]
+
 
 ===== Future... =====
 In Neverwinter

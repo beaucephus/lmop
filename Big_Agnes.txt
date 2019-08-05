@@ -12,6 +12,6 @@ Through her psychic link, she corrupts the children until they either run away o
 Once the children are forsaken [[:Auntie Hilda]] accepts them into her orphanage 
 
 
-Agnes lives in the woods near [[:Neverwinter]]
+Agnes lives in the [[:Warm Wood|Warm Wood]] near [[:Neverwinter]]
 
 run [[:Dungeon:Auntie Agnes' Lair]]
