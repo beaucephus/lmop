@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T15:09:04-04:00
+
+====== Guards outside Cloak Tower ======
+Created Tuesday 06 August 2019
+
+The guards are standing around outside the cloak tower after the players exit.
+They are shocked that her brother wasn't actually in the tower.
+They personally know [[:Mary Sue]] the little girl.
+They offer directions to her house if the players wish to tell her parents. __Her parents will want to hear about this!__
+
+If the players go to her house, run [[:Encounter:Father Sue and Mary Sue at home]]

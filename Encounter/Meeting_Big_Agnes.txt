@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T15:32:29-04:00
+
+====== Meeting Big Agnes ======
+Created Tuesday 06 August 2019
+
+[[:Big Agnes]] knows the adventurers are coming due to the yeth hounds baying.
+
+She bargains with the players, wishing to pit the party against her sisters
+	She tells the players that she's not the only Hag operating in [[:Neverwinter]]
+	She tells the players that her schemes are nothing compared to the other 2
+	She offers to stop tormenting the children and parents of [[:Neverwinter]] if the party agrees to kill her 2 compatriots. tell the players the whereabouts of the other 2 hags.
+		Obviously this is a trap.
+		
+If combat erupts
+	Agnes is an **annis hag** with the below enhancements
+	
+	She is immune to damage while near her cauldron.  __The cauldron simmers with a thick red liquid not unlike blood.  Every time Agnes takes damage, the blood inside the cauldron spurts and boils loudly.__
+	
+	Lair actions (initiative 20)
+		move through walls (She will use this to escape)
+		summon 20-foot-radius sphere of caustic black smoke (heavily obscures). Any creature that enters or starts their turn in the smoke takes 10 acid damage
+		
+	Geas (once) __She pulls out a spell scroll, eats the scroll and spits the contents back out at you.__ 
+

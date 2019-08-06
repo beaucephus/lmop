@@ -208,8 +208,9 @@ Players enter [[:Castle Never]]
 ===== Session 21 =====
 Finish [[:Dungeon:Cloak Tower]]
 	Players in top floor
-	Orphan gonna try to escape, if the party catches, she explains about [[:Big Agnes]]
-[[:Dungeon:Big Agnes' Cave]]
+	Orphan gone, guards outside. [[Encounter:Guards outside Cloak Tower]]
+
+
 [[Quest:Frame Lord Ulthein]]
 
 

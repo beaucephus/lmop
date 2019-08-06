@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T14:39:37-04:00
+
+====== Big Agnes' Cave ======
+Created Tuesday 06 August 2019
+
+A cave network in the [[:Warm Wood]] run [[:Encounter:Bone Naga in Warm Wood]] on the way.
+
+This natural cave network is made up of the same limestone and fossil-laden rock of the local area.
+ 
+While within 1 mile of the cave network the follow regional effects can occur
+	The stone underfoot becomes sharp and jagged like caltrops.
+	Rocks fall.
+	Small cairns appear along the road.
+	
+[[../annis_hag_lair.png]] but with stone caves instead of thorns
+
+**Corpse flower** at the entrance.  __Large bulbous fern-like plant with the rotting and decomposing bodies of several humnaoids. 2 goblins, an orc, and a human.  All seem to be children.__
+
+2-4 **yeth hounds** wander the network and chase down any indruders that linger too long
+	The party hears a __ghastly baying sound ike that of a wounded dog or maybe a wailing man.__
+	The baying gets progressively louder, until the pack bounds around a corner and pounces on the party.
+	__The hounds stand 5-feet tall at the shoulder and must weigh 500lbs. __Characters without darkvision or light only see the glowing red of the eyes against the night-black fur. __The head has a human face, held up by a flexible horse-like neck connecting to the body of an abnormally large dog.__
+
+[[:Encounter:Meeting Big Agnes]]
+	
+
+

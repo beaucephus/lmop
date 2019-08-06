@@ -1,11 +1,13 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-
-Tokens:
+Tokens: bone naga (2)
 
 Magic Items:
-quiver of pristine fletching
-gauntlets of ogre power
+
+Tokens:
+corpse flower
+bone naga (2)
+yeth hound (4)
 
 Prepare:
 [[:Dungeon:House Ulthein]]

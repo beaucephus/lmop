@@ -14,4 +14,3 @@ Once the children are forsaken [[:Auntie Hilda]] accepts them into her orphanage
 
 Agnes lives in the [[:Warm Wood|Warm Wood]] near [[:Neverwinter]]
 
-run [[:Dungeon:Auntie Agnes' Lair]]
