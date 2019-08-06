@@ -9,5 +9,8 @@ corpse flower
 bone naga (2)
 yeth hound (4)
 
+Statblocks:
+bone naga, corpse flower, yeth hound
+annis hag
+
 Prepare:
-[[:Dungeon:House Ulthein]]

@@ -208,25 +208,19 @@ Players enter [[:Castle Never]]
 ===== Session 21 =====
 Finish [[:Dungeon:Cloak Tower]]
 	Players in top floor
-	Orphan gone, guards outside. [[Encounter:Guards outside Cloak Tower]]
+	Orphan gone, guards outside.
+	
+[[:Arcs:Beggar's Nest Coven]]
+	[[:Encounter:Guards outside Cloak Tower]]
 
-
-[[Quest:Frame Lord Ulthein]]
+[[Arcs:Neverwinter Power Struggle]]
+	[[Quest:Frame Lord Ulthein]]
 
 
 ===== Future... =====
 In Neverwinter
 	Drapier quests
-		4 corners: Mailus, Vincent, Othard, Fie/H'ruck
-		remove rival [[:Dungeon:House Ulthein]]
-			Leaf, H'ruck, or Fie gets made
-			Trial
-		slay someone good, maybe brother [[:Vincent Drapier]]
-		military takeover (Finale)
-	Hags
-		annis hag
-		night hag
-		green hag
+
 		
 In Phandalin
 	[[:Leaf in the Pot]] restaurant is doing 3x well due to Leaf's efforts.

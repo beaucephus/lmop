@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T18:56:58-04:00
+
+====== Glasstaff's Bounty ======
+Created Tuesday 06 August 2019
+
+[[:Mailus Drapier]] has put a 1000gp bounty on [[:Iarno Albrek aka Glasstaff]] 's head.

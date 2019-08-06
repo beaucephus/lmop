@@ -1,0 +1,63 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T19:29:59-04:00
+
+====== House Ulthein ======
+Created Tuesday 06 August 2019
+
+M1. The Hedge and Front Gate
+Ulthein’s estate is mostly bordered by an 8-foot tall hedge, enough to keep out the casual burglar while still appearing attractive. The front gate is guarded by two human guards, 24 hours a day. Servants and workmen enter through the rear gate (M20) instead of this one, but during the day, a servant stands here with an appointment book. He consults this book when visitors arrive to determine who has a legitimate appointment to see Ulthein and who does not. If there is a conflict or confusion about a possible appointment, he often sets up a potential appointment several hours hence and then confirm with Ulthein before the visitors’ return.
+
+M2. Vestibule
+This vestibule has a cloakroom and two lavatories. Doors are typically locked at night, but are unlocked during the day.
+
+M3: The Great Hall
+This domed room is a full 90 feet across, and has a balcony circling it 20 feet off the ground. The floor is polished marble tile, and beautiful paintings and statues ring the room. This is the room used for grand balls and parties. During the day, the room usually has only a paucity of furniture in it.
+
+M4. Porch
+This outside porch overlooks the gardens, and has comfortable chairs and small tables.
+
+M5. Tea Room
+The area where Ulthein takes tea looks out onto well tended gardens and features a table large enough to sit several guests. Windows line the walls, and a discreet lavatory stands at one corner of the room.
+
+M6. Parlor
+The parlor is where musicians typically play during teatime. This room has formal furniture, a portrait of Ulthein over the fireplace, and a wall of books about many different religions that have probably never been read.
+
+M7. Portrait Gallery
+This portrait gallery ostensibly has portraits of several generations of Ulthein’s family, both male and female relatives of all ages.
+
+M8. Library
+The library is a comfortable room with stained glass on the upper windows. The walls are lined with bookcases. Most of the books are on either stained glass manufacture or the history of Neverwinter. Other subjects include architecture, mining, books about good manners, racial customs, and more.
+
+M9. Reading Room
+This reading room has a small bar, several very comfortable chairs, and a small table.
+
+M10. Pennel’s Office
+This is the office for Ulthein’s secretary and bodyguard, Pennel. The door to the office is locked. The desk is piled with paperwork detailing the various expenses and purchases that the estate makes. A DC 21 Streetwise check reveals that the estate burns through a truly impressive amount of money each month. A DC 21 Insight check reveals that Ulthein seems to be losing badly, in excess, at the gambling hall. In addition, a DC 21 Perception check reveals a key to Ulthein’s office in the top drawer of Pennel’s desk.
+
+M11. Pennel’s Bedroom
+This is Pennel’s bedroom. The door is unlocked. He lives very sparsely; little in this room shows any sort of personality. Compared to the rest of the house, the room seems bare. In reality, Pennel is a bodyguard in addition to being a top-notch secretary. He keeps spare cash locked in a small chest within his wardrobe (DC 23 Thievery to pick).
+
+M12. Ulthein’s Bedroom
+Ulthein’s bedroom is just as richly decorated as the rest of his house. Ulthein’s bedroom is mostly filled with an extravagantly large bed and wardrobes full of fine clothing.
+
+M14. Ulthein’s Office
+This is Ulthein’s office and sitting room, where he often sits to discuss business with associates. The door to the room is locked (Thievery DC 23 to pick the lock unless the PCs have the key from Pennel’s office). The windows are yellow stained glass that let in the sun, and his wide desk is clear of most paper. A small tray on his desk holds attractive shards of stained glass.
+
+M15. Workshop
+This is Ulthein’s workshop for making stained glass. He has raw materials, dyes, and a small furnace here.
+
+M16. Storage
+This storage area holds furniture and paraphernalia often used for parties.
+
+M17. Kitchen
+This kitchen has a pantry and store-room attached to it.
+
+M18. Servant Quarters
+These houses provide shared lodging for the mansion’s staff. Between cooks, maids, and butlers, Ulthein employs eight servants.
+
+M19. Stable
+This stable holds Ulthein’s carriages and horses.
+
+M20. Rear Gate
+This rear gate is where workers, craftsmen, and deliveries come each day. It is less strictly guarded than the front gate, and the guard who is always supposed to be stationed here often takes short breaks to chat with the local help. The gate is typically locked (DC 21 Thievery to open). 
