@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T20:08:46-04:00
+
+====== Meeting Lord Ulthein at the Casino Boat ======
+Created Tuesday 06 August 2019
+
+[[:Lord Ulthein]] is at the casino boat gambling.
+
+He wants to oust [[:Mailus Drapier]] who he believes is corrupt and take any opportunity to further that ambition.
+
+He knows they could go to [[:Misty Magic Cleaners]] to get dirt on [[:Mailus Drapier]]

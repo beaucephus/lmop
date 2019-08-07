@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T20:16:15-04:00
+
+====== Mailus Debriefing and Vincent's Return ======
+Created Tuesday 06 August 2019
+
+Mailus seems stressed. He gets the debriefing from the party and suggests they lay low for a while.
+
+Vincent returns and is shocked at what Alfredo has told him his father has done.
+	Mailus tasks him with infiltrating the politacl opposition and being a spy for the family.
+		Vincent detests the idea.
+
+Eventually the party will get a letter from Mailus with a new task [[:Quest:Assasinate the High Priest of Tyr]]

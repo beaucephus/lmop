@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T20:03:18-04:00
+
+====== Beggar's Nest Feral Dog Pack ======
+Created Tuesday 06 August 2019
+
+A pack of 30 street dogs ( **wolves** with 1 HP ) attacks the party in plain sight in the [[:Beggar's Nest]]
+
+The dog's behavior seems abnormally aggresive and is the result of the regional effects of the [[:Beggar's Nest Coven]]
+
+The dogs are seen playing with a group of children in the play-yard of an orphanage.
+Once the dogs see the party, they go rabid and attack.
+
+**Developments**
+Potentially could lead to an interation between the players and the Hags running the orphanage.

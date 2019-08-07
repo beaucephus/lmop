@@ -28,4 +28,7 @@ Specifically the hags have enchanted packs of city dogs who patrol the Beggar's 
 [[:Quest:Annis's Orphan]]
 	[[:Dungeon:Cloak Tower]]
 [[:Encounter:Guards outside Cloak Tower]]
+[[Encounter:Father Sue and Mary Sue at home]]
+	[[:Warm Wood]]  and  [[:Dungeon:Big Agnes' Cave]]
+	
 

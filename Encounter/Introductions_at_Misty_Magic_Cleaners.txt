@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-06T19:57:14-04:00
+
+====== Introductions at Misty Magic Cleaners ======
+Created Tuesday 06 August 2019
+
+Takes place the first time players enter [[:Misty Magic Cleaners]]
+
+This run-down shop is half-destroyed from the volcanic eruption almost 3 decades ago.
+
+A customer approaches Othard and begins speaking to him like a long-lost friend (This is theive's cant.)
+
+If Othard wants dirt on [[:Lord Ulthein]] the customer communicates to him that the Lord is fairly clean except for a gambling problem.
+He can be found most nights at the [[:Beached Leviathan]] casino and tavern, gambling his father's fortunes away.
+
+More information can be given, like guard rotation times for his house, guard bribing, even keys, but those will cost $$$.
