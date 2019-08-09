@@ -190,7 +190,7 @@ Seasons turning to fall
   Reidoth raises her
   Gives her the Unicorn and tells her of [[Azura Brey]] at the [[Driftwood Tavern]]
 Downtime in Phanalin
-	Leaf in the Pot resaurant (knock off 2 sessions for downtime, restaurant will open session 21.
+	[[:Leaf in the Pot]] resaurant (knock off 2 sessions for downtime, restaurant will open session 21.
 		125lbs of dragon meat
 		Plant Growth
 		Deal with Sildar's men to keep the peace for 50% discount
@@ -212,10 +212,17 @@ Finish [[:Dungeon:Cloak Tower]]
 	
 [[:Arcs:Beggar's Nest Coven]]
 	[[:Encounter:Guards outside Cloak Tower]]
+	Party knows where [[:Mary Sue]] 's family lives.
 
 [[Arcs:Neverwinter Power Struggle]]
 	[[Quest:Frame Lord Ulthein]]
 
+[[:Umbermoor Fineries and Gems]]
+Party buys 5 Potions of Healing
+Party journeys to Warm Wood
+  Naga Encounter
+  Corpse Flower and long rest
+  
 
 ===== Future... =====
 In Neverwinter
