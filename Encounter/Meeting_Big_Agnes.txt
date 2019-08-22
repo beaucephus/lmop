@@ -5,7 +5,7 @@ Creation-Date: 2019-08-06T15:32:29-04:00
 ====== Meeting Big Agnes ======
 Created Tuesday 06 August 2019
 
-[[:Big Agnes]] knows the adventurers are coming due to the yeth hounds baying. She disguises herself and pretends to be a early-middle-aged sorceror.
+[[:Big Agnes]] knows the adventurers are coming due to the yeth hounds baying. She disguises herself and pretends to be an attractive white-haired elf wizard.
 
 Agnes can scry for dirt on anybody.
 If the party mentions Lord Ulthein or Mailus Drapier, the hag offers to tell the party a secret about them, for a price (they must kill the 2 hags in neverwinter)
@@ -19,6 +19,8 @@ She bargains with the players, wishing to pit the party against her sisters
 If combat erupts
 	Agnes is an **annis hag** with the below enhancements
 	
+	DC 25 Sanctuary Spell
+	She can counterspell
 	She is immune to damage while near her cauldron.  __The cauldron simmers with a thick red liquid not unlike blood.  Every time Agnes takes damage, the blood inside the cauldron spurts and boils loudly.__
 	
 	Lair actions (initiative 20)
