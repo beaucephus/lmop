@@ -222,6 +222,11 @@ Party buys 5 Potions of Healing
 Party journeys to Warm Wood
   Naga Encounter
   Corpse Flower and long rest
+
+===== Session 22 =====
+Pick up [[:Arcs:Beggar's Nest Coven]] with [[:Dungeon:Big Agnes' Cave]]
+
+
   
 
 ===== Future... =====
