@@ -5,11 +5,7 @@ Creation-Date: 2019-08-06T18:56:21-04:00
 ====== Neverwinter Power Struggle ======
 Created Tuesday 06 August 2019
 
-4 corners: Mailus, Vincent, Othard, Fie/H'ruck
 remove rival [[:Dungeon:House Ulthein]]
-
-slay someone good, maybe brother [[:Vincent Drapier]]
-military takeover (Finale)
 
 [[:Quest:Glasstaff's Bounty]]
 [[:Quest:Frame Lord Ulthein]]

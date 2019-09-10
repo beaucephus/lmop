@@ -210,12 +210,9 @@ Finish [[:Dungeon:Cloak Tower]]
 	Players in top floor
 	Orphan gone, guards outside.
 	
-[[:Arcs:Beggar's Nest Coven]]
+[[:Beggar's Nest Coven]]
 	[[:Encounter:Guards outside Cloak Tower]]
 	Party knows where [[:Mary Sue]] 's family lives.
-
-[[Arcs:Neverwinter Power Struggle]]
-	[[Quest:Frame Lord Ulthein]]
 
 [[:Umbermoor Fineries and Gems]]
 Party buys 5 Potions of Healing
@@ -223,17 +220,17 @@ Party journeys to Warm Wood
   Naga Encounter
   Corpse Flower and long rest
 
-===== Session 22 =====
-Pick up [[:Arcs:Beggar's Nest Coven]] with [[:Dungeon:Big Agnes' Cave]]
+===== Session 22 19/09/05 =====
+Pick up [[:Beggar's Nest Coven]] with [[:Dungeon:Big Agnes' Cave]]
+Marcus inspiration
 
+[[Arcs:Neverwinter Power Struggle]]
+	[[Quest:Frame Lord Ulthein]]
+	
+Meeting with Vincent and Mailus day after tomorrow
 
-  
 
 ===== Future... =====
-[[:Arcs:Beggar's Nest Coven]]
-[[:Arcs:Neverwinter Power Struggle]]
-
-		
 In Phandalin
 	[[:Leaf in the Pot]] restaurant is doing 3x well due to Leaf's efforts.
 	Magic Items from [[:Forge of Spells]] , [[:Amulet of Health(FoS)]]

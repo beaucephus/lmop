@@ -9,8 +9,10 @@ Created Tuesday 06 August 2019
 
 Agnes can scry for dirt on anybody.
 If the party mentions Lord Ulthein or Mailus Drapier, the hag offers to tell the party a secret about them, for a price (they must kill the 2 hags in neverwinter)
+	Lord Ulthein is a gambler and has gambled away most of his fortune.
+	Mailus is in commune with a secret society that worships [[:Slarkrethel]]
 
-She bargains with the players, wishing to pit the party against her sisters
+If the party sees through her disquise, she bargains with the players, wishing to pit the party against her sisters
 	She tells the players that she's not the only Hag operating in [[:Neverwinter]]
 	She tells the players that her schemes are nothing compared to the other 2
 	She offers to stop tormenting the children and parents of [[:Neverwinter]] if the party agrees to kill her 2 compatriots. tell the players the whereabouts of the other 2 hags.
@@ -21,7 +23,7 @@ If combat erupts
 	
 	DC 25 Sanctuary Spell
 	She can counterspell
-	She is immune to damage while near her cauldron.  __The cauldron simmers with a thick red liquid not unlike blood.  Every time Agnes takes damage, the blood inside the cauldron spurts and boils loudly.__
+	She heals to full HP at the start of her  while near her cauldron.  __The cauldron simmers with a thick red liquid not unlike blood.  Every time Agnes takes damage, the blood inside the cauldron spurts and boils loudly.__
 	
 	Lair actions (initiative 20)
 		move through walls (She will use this to escape)
