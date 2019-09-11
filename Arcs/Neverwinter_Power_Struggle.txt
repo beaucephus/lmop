@@ -17,5 +17,5 @@ remove rival [[:Dungeon:House Ulthein]]
 Rallies in the city, Drapier is nervous.  He is becoming more stressed and desparate.
 
 [[:Encounter:Mailus Debriefing and Vincent's Return]]
-[[:Quest:Assasinate the High Priest of Tyr]]
+[[:Quest:Disrupt the oppositions meeting]]
 

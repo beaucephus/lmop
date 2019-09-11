@@ -7,7 +7,12 @@ Created Tuesday 06 August 2019
 
 [[../house_ulthein.jpg]]
 
-Somehow, one of the players is gonna get seen or captured!!!!
+__Guards are at the hedge gates__
+__Ulthein family arrives midway through the excursion__
+__Guards patrol periodically__
+__Paintings and furniture are missing in spots where there were obvious paintings and furniture before.__
+	Lord Ulthein is selling paintings and other things to pay for his gambling addiction and an alliance with the storm giants of [[:Maelstrom]]
+		He plans to use the giants might to overthrow [[:Mailus Drapier]] if Mailus dissolves the lord's council.
 
 M1. The Hedge and Front Gate
 Ulthein’s estate is mostly bordered by an 8-foot tall hedge, enough to keep out the casual burglar while still appearing attractive. The front gate is guarded by two human guards, 24 hours a day. Servants and workmen enter through the rear gate (M20) instead of this one, but during the day, a servant stands here with an appointment book. He consults this book when visitors arrive to determine who has a legitimate appointment to see Ulthein and who does not. If there is a conflict or confusion about a possible appointment, he often sets up a potential appointment several hours hence and then confirm with Ulthein before the visitors’ return.
@@ -37,7 +42,7 @@ M9. Reading Room
 This reading room has a small bar, several very comfortable chairs, and a small table.
 
 M10. Pennel’s Office
-This is the office for Ulthein’s secretary and bodyguard, Pennel. The door to the office is locked. The desk is piled with paperwork detailing the various expenses and purchases that the estate makes. A DC 21 Streetwise check reveals that the estate burns through a truly impressive amount of money each month. A DC 21 Insight check reveals that Ulthein seems to be losing badly, in excess, at the gambling hall. In addition, a DC 21 Perception check reveals a key to Ulthein’s office in the top drawer of Pennel’s desk.
+This is the office for Ulthein’s secretary and bodyguard, Pennel. The door to the office is locked. The desk is piled with paperwork detailing the various expenses and purchases that the estate makes. A DC 21 Streetwise check reveals that the estate burns through a truly impressive amount of money each month. Any player that reads the ledgers learns that Ulthein seems to be losing badly, in excess, at the gambling hall. In addition, there are several outgoing transactions marked as __Gifts for King Hekaton__ DC15 History to realize Hekaton is a giant king based in the Trackless Sea.
 
 M11. Pennel’s Bedroom
 This is Pennel’s bedroom. The door is unlocked. He lives very sparsely; little in this room shows any sort of personality. Compared to the rest of the house, the room seems bare. In reality, Pennel is a bodyguard in addition to being a top-notch secretary. He keeps spare cash locked in a small chest within his wardrobe (DC 23 Thievery to pick).

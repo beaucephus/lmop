@@ -8,15 +8,27 @@ Created Tuesday 10 September 2019
 [[..\orphanage_hag_lair.jpg]]
 
 ===== 1. Entrance and Hound Area =====
-2-3 Yeth Hounds guard this area that is laden with straw mattresses
+2-3 Yeth Hounds guard this area that is laden with straw mattresses.
+They are recently fed, and sleepily laze about
+DC 5 stealth to sneak by unless they make a lot of noise.
 
-===== 2 laskdjf =====
+===== 2 Removed from map =====
 
-===== 3 alsdkjf =====
+===== 3 Trash hole =====
+This hallway leads in a downward slant towards a gaping 10 foot hole in the floor. The hole reeks of rot and decomposition.
+Any character who approaches the hole to investigate must succed on a DC10 CON save or become incapacitated until they leave the hallway.
 
 ===== 4 Flesh mound's rounds =====
-An animated round mound of flesh and bone rolls a never-ending circle around this rectangular shaped corridor.
-Any character who runs this gauntlent must make an acrobatics check DC10 or fall prone and be bludgeoned by the meat-ball. 2d6 damage.
+An animated round mound, 5 feet across, of flesh, muscle, and bone rolls a never-ending loop around this rectangular shaped corridor.
+150 HP
+A sleek line of blood, mucous, and pus slimes off the mound's round form as it rolls.
+	Slippery terrain (Full-speed movement requires DC10 acrobatics check or fall prone)
+The meatball attacks as a "overrun" attack. 
+  2d6+4 damage and fall prone
+Slashing damage causes the meatball to split in half like an ooze (each half gets half hp)
+
+Any creature that falls prone in the area must succeed on a DC10 CON save or be incapacitated for the turn.
+
 
 ===== 5 Night Hag's Room =====
 This room is decorated in dark blue and purple curtains, dotted with thousands of small sequins.
@@ -26,10 +38,11 @@ The room is otherwise plainly furnished with a bed, table, a small hearth, fire,
 The bed is draped on all 4 sides with the same style curtains that line the walls.
 On the table sits a large, wood-bounded book.
   The language is abyssal
-  It documents the hag's operations in Neverwinter and discloses the password to the door to area 6.
+  It documents the hag coven's operations in Neverwinter  [[:Beggar's Nest Coven]] and discloses the password to the door to area 6.
 
 **Loot**
 Black Ethel the night-hag lives here and keeps a small lock-box underneath her bed.
+1 hag magic item
 
 ===== 6 Ritual Chamber =====
 The hallway leading to this room is blocked by a heavy iron door with an intricate mechanical lock. An **Arcane Lock** spell has been cast on the door.
@@ -37,6 +50,17 @@ DC30 to open with arcane lock, DC20 otherwise. DC30 to force open.
 
 The password can be found in area 5 if any player takes a moment to read Black Ethel's notes.
 
+1 round after the players enter, [[:Auntie Hilda]] teleports into the room.
+She summons the other hag sisters, have them show up at a balance-appropriate time.
+
+Once all 3 are together, they toss around 2 magic totems that shields 2 of them.
+The 2 that are holding the totem are restricted to casting cantrips, but are completely immune to damage.
+__Their skin turns black and shiny like metal.__ Attacks and magical effects simply bounce off.
+The totems must be attuned by a hag.
+
 ===== 7 Ritual Store House =====
 This room is lined floor to ceiling with shelves.
-The shelves are a mess with weird looking trinkets and 
+The shelves are a mess with weird looking trinkets, torturous implements, sealed jars, and used bowls.
+
+**Loot**
+pick some hag-appropriate magic items

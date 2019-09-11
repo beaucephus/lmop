@@ -224,6 +224,7 @@ Party journeys to Warm Wood
 Pick up [[:Beggar's Nest Coven]] with [[:Dungeon:Big Agnes' Cave]]
 Party left Agnes and went back to Neverwinter, long rest, hruk scoped out [[:Little Miracles Orphan Home]]
 
+===== Session 23 =====
 [[:Dungeon:Beggar's Nest Coven Lair]]
 
 [[Arcs:Neverwinter Power Struggle]]
