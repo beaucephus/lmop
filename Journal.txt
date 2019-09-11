@@ -222,12 +222,15 @@ Party journeys to Warm Wood
 
 ===== Session 22 19/09/05 =====
 Pick up [[:Beggar's Nest Coven]] with [[:Dungeon:Big Agnes' Cave]]
-Marcus inspiration
+Party left Agnes and went back to Neverwinter, long rest, hruk scoped out [[:Little Miracles Orphan Home]]
+
+[[:Dungeon:Beggar's Nest Coven Lair]]
 
 [[Arcs:Neverwinter Power Struggle]]
 	[[Quest:Frame Lord Ulthein]]
 	
 Meeting with Vincent and Mailus day after tomorrow
+	[[Encounter:Mailus Debriefing and Vincent's Return]]
 
 
 ===== Future... =====
