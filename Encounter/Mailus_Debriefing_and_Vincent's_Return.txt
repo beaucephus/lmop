@@ -16,4 +16,4 @@ Vincent returns and acts as the voice of reason.
 		__Why do we need all this, can't we just be a family?__
 			Mailus responds, __Unfortunately, no. There are more important things than family.__
 
-After some downtime, the party will get a letter from Mailus with a new task [[:Quest:Disrupt the oppositions meeting]]
+ [[:Quest:Disrupt the oppositions meeting]]

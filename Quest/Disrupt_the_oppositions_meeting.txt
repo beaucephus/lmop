@@ -13,7 +13,7 @@ Mailus has intelligence that he will be meeting an emmissary from another nation
 
 
 The party is tasked to lead a contingent of 20 men to disrupt the meeting.
-	Unbeknowst to them, the men have orders to kill all the participants.
+	Unbeknowst to them, the men have orders to kill all the participants, and [[:Slarkrethel]] has sent an aboleth to make sure all the giants die.
 	
 [[:Encounter:Meeting With Giants]]
 
