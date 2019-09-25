@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-25T19:06:36-04:00
+
+====== Mating Triceratops ======
+Created Wednesday 25 September 2019
+
+The party hears sounds of a large animal in distress.
+
+Upon approaching a clearing they see 2 triceratops mating.
+Both attack the party if the party is noticed.
+
+
+{{..\statblocks\triceratops.png}}

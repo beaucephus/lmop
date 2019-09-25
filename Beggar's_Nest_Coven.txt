@@ -8,10 +8,13 @@ Created Wednesday 17 July 2019
 Hag coven in the Beggar's Nest ward of [[:Neverwinter]]
 
 The **annis hag, **[[:Big Agnes]] lives in the [[:Warm Wood]] and has given an **Iron Token** to a local child, Mary Sue.  Mary Sue tries to trick the party to climb the [[:Dungeon:Cloak Tower]] in [[:Quest:Annis's Orphan]]
-
 The **night hag** [[:Black Ethel]] works at the orphanage [[:Little Miracles Orphan Home]] and uses her **Nightmare Haunting** ability on a party member if the annis hag is killed.
-
 The **green hag** [[:Auntie Hilda]]  runs the orphanage.
+
+The **green hag** [[:Auntie Hilda]] runs an orphanage in the Beggar's Nest district of [[:Neverwinter]] called [[:Little Miracles Orphan Home]]
+The **Annis hag** [[:Big Agnes]] corrupts the children until they are exiled or run away from their homes.
+Then Auntie Hilda takes them into the orphanage.
+There the children are prepared by the **night hag **[[:Black Ethel]] to be prepared and eventually consumed by one of the 3 hags.
 
 
 Regional effects while in [[Begger's Nest]] due to the coven.

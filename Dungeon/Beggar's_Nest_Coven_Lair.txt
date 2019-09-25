@@ -8,7 +8,7 @@ Created Tuesday 10 September 2019
 [[..\orphanage_hag_lair.jpg]]
 
 ===== 1. Entrance and Hound Area =====
-2-3 Yeth Hounds guard this area that is laden with straw mattresses.
+3 Yeth Hounds guard this area that is laden with straw mattresses.
 They are recently fed, and sleepily laze about
 DC 5 stealth to sneak by unless they make a lot of noise.
 

@@ -9,9 +9,4 @@ __This ramshackle, but large house has several holes in the roof and floors whic
 
 The home is run by 2 hags in disguise Hilda and Ethel.  Hilda oversees the business while Ethel cares for the children.
 
-The **green hag** [[:Auntie Hilda]] runs an orphanage in the Beggar's Nest district of [[:Neverwinter]] called [[:Little Miracles Orphan Home]]
-The **Annis hag** [[:Big Agnes]] corrupts the children until they are exiled or run away from their homes.
-Then Auntie Hilda takes them into the orphanage.
-There the children are prepared by the **night hag **[[:Black Ethel]] to be prepared and eventually consumed by one of the 3 hags.
-
 run [[:Dungeon:Beggar's Nest Coven Lair]]

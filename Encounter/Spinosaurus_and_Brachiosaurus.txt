@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-25T19:10:27-04:00
+
+====== Spinosaurus and Brachiosaurus ======
+Created Wednesday 25 September 2019
+
+Brachiosaurus wading out into deep pond.
+Spinosaurus lying in ambush.
+
+Roll a d20 to determine the winner.
+
+Spinosaurus is a Trex with a claw attack as a 3rd attack
+Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (2d8 + 7) slashing damage. 
+
+{{..\statblocks\trex.png}}{{..\statblocks\brachiosaurus.jpg}}

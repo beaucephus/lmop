@@ -13,7 +13,15 @@ Mailus has intelligence that he will be meeting an emmissary from another nation
 
 
 The party is tasked to lead a contingent of 20 men to stop the meeting.
+	The men have orders to sabotage the ships.
+	The party has orders to stop the meeting.
 	Unbeknowst to them, the men have orders to kill all the participants, and [[:Slarkrethel]] has sent an aboleth, [[:K'oth the Slither]] , to make sure all the giants die.
 	
+
+===== On Isla Nublar =====
+Its a huge jungle island with dinosars, thing Jurassic Park
+[[:Encounter:Mating Triceratops]]
+[[:Encounter:Spinosaurus and Brachiosaurus]]
+
 [[:Encounter:Meeting With Giants]]
 
