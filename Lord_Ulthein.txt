@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-19T09:32:18-04:00
+
+====== Lord Ulthein ======
+Created Thursday 19 September 2019
+
+Typicl royal knight.
+Think Dmitri from FE: Three houses meets Isaac Newton.
+
+He is a member of the [[:Lord's Alliance]]
