@@ -231,15 +231,19 @@ Bought 3 Scrolls of Dispel Magic and 1 Scroll of Silence
 Houses Anlow, Falken, Vanan, Ulthein, Drapier are the royal houses of Neverwinter
 Fie and H'ruk met with Lord Ulthein and convinced him to buy a Potion of Bloodlust in 2 weeks time.
 
-
-
-[[:Dungeon:Beggar's Nest Coven Lair]]
-
-[[Arcs:Neverwinter Power Struggle]]
-	[[Quest:Frame Lord Ulthein]]
-	
-Meeting with Vincent and Mailus day after tomorrow
+===== Session 24 19/09/19 =====
+Meeting with Vincent and Mailus
 	[[Encounter:Mailus Debriefing and Vincent's Return]]
+
+Started [[:Dungeon:Beggar's Nest Coven Lair]]
+	Killed [[:Auntie Hilda]] and [[:Black Ethel]]
+	Ended session with door to basement swung wide open, letting yeth hounds out.
+	
+
+===== Session 25 =====
+Start with [[:Dungeon:Beggar's Nest Coven Lair]]
+
+[[:Quest:Disrupt the oppositions meeting]]
 
 
 ===== Future... =====
