@@ -5,15 +5,15 @@ Creation-Date: 2019-08-06T20:19:50-04:00
 ====== Disrupt the oppositions meeting ======
 Created Tuesday 06 August 2019
 
-Lord Ulthein or some other Lord is an outspoken activist gaining popularity among the people of [[:Neverwinter]]
+Lord Ulthein is an outspoken activist gaining popularity among the people of [[:Neverwinter]]
 
-He's already staged several rally's that have almost ended in riots. He is dangerous and represents a threat to the safety and security of Neverwinter.
+He's already staged several rallies that have almost ended in riots. He is dangerous and represents a threat to the safety and security of Neverwinter.
 
 Mailus has intelligence that he will be meeting an emmissary from another nation to discuss the forceful overthrowing of Mailus' regime should Mailus dissolve the Lord's Council.
 
 
-The party is tasked to lead a contingent of 20 men to disrupt the meeting.
-	Unbeknowst to them, the men have orders to kill all the participants, and [[:Slarkrethel]] has sent an aboleth to make sure all the giants die.
+The party is tasked to lead a contingent of 20 men to stop the meeting.
+	Unbeknowst to them, the men have orders to kill all the participants, and [[:Slarkrethel]] has sent an aboleth, [[:K'oth the Slither]] , to make sure all the giants die.
 	
 [[:Encounter:Meeting With Giants]]
 

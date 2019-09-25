@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-19T10:11:53-04:00
+
+====== Queen Neri ======
+Created Thursday 19 September 2019
+
+Queen of the Storm Giants of [[:Maelstrom]] , wife to [[:King Hekaton]]
+
+{{../neri.png}}
