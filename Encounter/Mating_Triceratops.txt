@@ -11,4 +11,4 @@ Upon approaching a clearing they see 2 triceratops mating.
 Both attack the party if the party is noticed.
 
 
-{{..\statblocks\triceratops.png}}
+[[..\statblocks\triceratops.png]]

@@ -13,4 +13,8 @@ Roll a d20 to determine the winner.
 Spinosaurus is a Trex with a claw attack as a 3rd attack
 Claw. Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 16 (2d8 + 7) slashing damage. 
 
-{{..\statblocks\trex.png}}{{..\statblocks\brachiosaurus.jpg}}
+[[..\statblocks\brachiosaurus.jpg]]
+[[..\statblocks\trex.png]]
+
+DC10 perception to realize the spinosaurus is being ridden by a grung.
+[[:Grung of Isla Nublar]]
