@@ -241,6 +241,7 @@ Started [[:Dungeon:Beggar's Nest Coven Lair]]
 
 ===== Session 25 =====
 Start with [[:Dungeon:Beggar's Nest Coven Lair]]
+Party found [[:Fate's Grip]] Broom of Flying and Sanctified Bones
 
 [[:Quest:Disrupt the oppositions meeting]]
 
