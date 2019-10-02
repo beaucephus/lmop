@@ -12,14 +12,12 @@ He's already staged several rallies that have almost ended in riots. He is dange
 Mailus has intelligence that he will be meeting an emmissary from another nation to discuss the forceful overthrowing of Mailus' regime should Mailus dissolve the Lord's Council.
 
 
-The party is tasked to lead a contingent of 20 men to stop the meeting.
-	The men have orders to sabotage the ships.
-	The party has orders to stop the meeting.
-	Unbeknowst to them, the men have orders to kill all the participants, and [[:Slarkrethel]] has sent an aboleth, [[:K'oth the Slither]] , to make sure all the giants die.
+The party is tasked to stop the meeting and leave no-one alive.
+Unbeknowst to the party, [[:Slarkrethel]] has sent an aboleth, [[:K'oth the Slither]] , and the local Kuo-toans to make sure all the giants die.
 	
 
 ===== On Isla Nublar =====
-Its a huge jungle island with dinosars, thing Jurassic Park
+Its a huge jungle island with dinosars, think Jurassic Park
 [[:Encounter:Mating Triceratops]]
 [[:Encounter:Spinosaurus and Brachiosaurus]]
 

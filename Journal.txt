@@ -218,6 +218,7 @@ Party buys 5 Potions of Healing
 Party journeys to Warm Wood
   Naga Encounter
   Corpse Flower and long rest
+**Arjun Level 5!!!**
 
 ===== Session 22 19/09/05 =====
 Pick up [[:Beggar's Nest Coven]] with [[:Dungeon:Big Agnes' Cave]]
@@ -238,12 +239,13 @@ Started [[:Dungeon:Beggar's Nest Coven Lair]]
 	Killed [[:Auntie Hilda]] and [[:Black Ethel]]
 	Ended session with door to basement swung wide open, letting yeth hounds out.
 
+
 ===== Session 25 19/09/26 =====
 Start with [[:Dungeon:Beggar's Nest Coven Lair]]
 Party found [[:Fate's Grip]] , Broom of Flying, and Sanctified Bones
 Leaf arranged for orphans to be transported to Phandalin. There, Toblin Stonehill and Sildar Hallwinter work together to build them a new house.
 Sildar oversees the orphanage and hires some local girls to care for the children.
-**Level 8!!!**
+**Leaf, H'ruk, Othard, Marcus/Fie Level 8!!!**
 
 ===== Session 26 =====
 [[:Quest:Disrupt the oppositions meeting]]

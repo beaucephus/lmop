@@ -8,27 +8,14 @@ Created Friday 08 February 2019
 === Slayers of the Spider Queen ===
 
 ~~Jober~~
-[[Leaf in the Grass]] 7
+[[Leaf in the Grass]] 8
 ~~Ulric~~
 [[Arjun Prexajandlin]] 5
-[[Othard Drapier]] 7
+[[Othard Drapier]] 8
 ~~Atan~~
-[[Fie]] 7
-[[H'ruck]] 7
+[[Fie]] 8
+[[H'ruck]] 8
 [[Biff Broadsteele]] 5
-
-===== Combat Difficulty (4 7th level players) =====
-Easy
-350 x 4 = 1500
-
-Medium
-750 x 4 = 3000
-
-Hard
-1100 x 4 = 4400
-
-Deadly
-1700 x 4 = 6800
 
 
 250gp income per session due to deal with [[:Gundren Rockseeker]]
