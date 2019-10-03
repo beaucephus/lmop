@@ -248,6 +248,8 @@ Sildar oversees the orphanage and hires some local girls to care for the childre
 **Leaf, H'ruk, Othard, Marcus/Fie Level 8!!!**
 
 ===== Session 26 =====
+Start party with monologue of boat travel to Isla Nublar
+	Captain Rustbeard
 [[:Quest:Disrupt the oppositions meeting]]
 
 

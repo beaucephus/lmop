@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-09-19T09:26:34-04:00
-
-====== K'oth the Slither ======
-Created Thursday 19 September 2019
-**Aboleth** under [[:Slarkrethel]]

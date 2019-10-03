@@ -13,13 +13,14 @@ Mailus has intelligence that he will be meeting an emmissary from another nation
 
 
 The party is tasked to stop the meeting and leave no-one alive.
-Unbeknowst to the party, [[:Slarkrethel]] has sent an aboleth, [[:K'oth the Slither]] , and the local Kuo-toans to make sure all the giants die.
+Unbeknowst to the party, [[:Slarkrethel]] , [[:Iymrith]] , and a **sahuagin** army all under Slarkrethel's command come to make sure all the giants die.
 	
 
 ===== On Isla Nublar =====
 Its a huge jungle island with dinosars, think Jurassic Park
 [[:Encounter:Mating Triceratops]]
-[[:Encounter:Spinosaurus and Brachiosaurus]]
 
 [[:Encounter:Meeting With Giants]]
+
+[[:Encounter:Spinosaurus and Brachiosaurus]] on the way back to the ship
 
