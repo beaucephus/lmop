@@ -18,7 +18,7 @@ Unbeknowst to the party, [[:Slarkrethel]] , [[:Iymrith]] , and a **sahuagin** ar
 
 ===== On Isla Nublar =====
 Its a huge jungle island with dinosars, think Jurassic Park
-[[:Encounter:Mating Triceratops]]
+[[:Encounters:Mating Triceratops]]
 
 [[:Encounter:Spinosaurus and Brachiosaurus]] maybe
 

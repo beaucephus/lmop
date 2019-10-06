@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-06T11:01:54-04:00
+
+====== Unrest at the docks ======
+Created Sunday 06 October 2019
+
+The citizens, sailors, and dock workers at the [[:Neverwinter]] docks district are rioting, striking, and picketing.
+
+They are demonstrating because of new edicts issued by the Lord Protector that prohibit what can be traded at the docks.
+Shipments of anything that can be used as a weapon and several shipments of raw materials are being seized.

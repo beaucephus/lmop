@@ -5,7 +5,7 @@ Creation-Date: 2019-08-06T14:39:37-04:00
 ====== Big Agnes' Cave ======
 Created Tuesday 06 August 2019
 
-A cave network in the [[:Warm Wood]] run [[:Encounter:Bone Naga in Warm Wood]] on the way.
+A cave network in the [[:Warm Wood]] run [[:Encounters:Bone Naga in Warm Wood]] on the way.
 
 This natural cave network is made up of the same limestone and fossil-laden rock of the local area.
  

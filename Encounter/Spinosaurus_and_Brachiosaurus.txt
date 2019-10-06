@@ -20,5 +20,4 @@ DC10 perception to realize the spinosaurus is being ridden by a grung.
 	She tries to subdue the Brachiosaurus
 	Both dinosaurs become temporarily uncontrollable if they see the party.
 		The spinosaurus attacks and the brachiosaurus tries to trample them as it flees over their heads.
-[[:Ja'Hen Zoog Slur'Mog Lurt Rahn]]
-[[:Grung of Isla Nublar]]
+

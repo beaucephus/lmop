@@ -15,5 +15,5 @@ He expresses his pride in [[:Othard Drapier]] at helping __extend the family's i
 
 **Developments**
 Mailus offers the players a quest in the city. Alfredo, Lord Drapier's half-elf (french accent) butler, handles the details.
-  [[Quest:Frame Lord Ulthein]]
+  [[:Quests:Frame Lord Ulthein]]
 

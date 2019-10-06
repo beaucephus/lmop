@@ -7,15 +7,15 @@ Created Tuesday 06 August 2019
 
 remove rival [[:Dungeon:House Ulthein]]
 
-[[:Quest:Glasstaff's Bounty]]
-[[:Quest:Frame Lord Ulthein]]
+[[:Quests:Glasstaff's Bounty]]
+[[:Quests:Frame Lord Ulthein]]
 	Players might look in [[:Begger's Nest]] for a place to find dirt on [[:Lord Ulthein]]
-		Run [[:Encounter:Beggar's Nest Feral Dog Pack]]
-		Have theive's cant lead them to [[:Encounter:Introductions at Misty Magic Cleaners]]
+		Run [[:Encounters:Beggar's Nest Feral Dog Pack]]
+		Have theive's cant lead them to [[:Encounters:Introductions at Misty Magic Cleaners]]
 [[Encounter:Meeting Lord Ulthein at the Casino Boat]]
 
 Rallies in the city, Drapier is nervous.  He is becoming more stressed and desparate.
 
-[[:Encounter:Mailus Debriefing and Vincent's Return]]
-[[:Quest:Disrupt the oppositions meeting]]
+[[:Encounters:Mailus Debriefing and Vincent's Return]]
+[[:Quests:Disrupt the oppositions meeting]]
 

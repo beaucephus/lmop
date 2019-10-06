@@ -39,6 +39,6 @@ The **Beggar's Nest**, located in the southeast quadrant.
 **quests, dungeons, and encounters**
 [[Dungeon:Cloak Tower]]
 [[:Beggar's Nest Coven]]
-[[:Quest:Lucky Halfling]]
+[[:Quests:Lucky Halfling]]
 [[:Encounter:Mailus Drapier's Summons]]
-  [[:Quest:Frame Lord Ulthein]]
+  [[:Quests:Frame Lord Ulthein]]

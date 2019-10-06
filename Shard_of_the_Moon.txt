@@ -9,4 +9,4 @@ __This opalescent tower of alabaster stone floats above a cluster of apartments 
 
 Temple to Selune
 
-[[Quest:Lucky Halfling]]
+[[:Quests:Lucky Halfling]]

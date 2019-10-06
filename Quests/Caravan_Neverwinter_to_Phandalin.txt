@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-06T11:13:38-04:00
+
+====== Caravan Neverwinter to Phandalin ======
+Created Sunday 06 October 2019
+
+There is a general mood of unrest and distrust towards the Lord's Council as of late.
+
+A caravan of wealthy citizens is heading south on the high road, some of the people are heading towards [[:Phandalin]]
+The caravaners have pooled their resources and packed hastily. The caravan is protected only by a handful of family stewards and guards.
+The caravaners will pool their gold to hire the party for protection.
+
+
+A raiding party of **frost giants** attacks the caravan as it travels south on the High Road
+They attempt to sling giant nets around entire caravan wagons, sling them over their backs, and retreat with the wagons.
+They retreat if one giant is slain.
+
+The caravan pools together 50gp to pay the party for protection on their travel to Phandalin

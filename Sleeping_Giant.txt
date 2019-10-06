@@ -19,5 +19,5 @@ The barmaid is a surly Dwarven woman named Grista, she hides behind the bar.
 If they begin to lose in the bar, they run out the back door and towards the secret entrance to the [[Redbrand Hideout]] under [[Tresendar Manor]]
 
 **Developments**
-If the players capture a redbrand thug, [[Townmaster Harbin Wester]] refuses to lock them in the [[Townmaster's Hall]] jail. He is afraid of the [[Redbrands]]
+If the players capture a redbrand thug, [[Harbin Wester]] refuses to lock them in the [[Townmaster's Hall]] jail. He is afraid of the [[Redbrands]]
 Most of the townspeople are grateful, and might semi-jokingly point them toward [[Tresendar Manor]] to "finish them off"

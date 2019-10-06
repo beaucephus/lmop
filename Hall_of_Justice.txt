@@ -8,4 +8,4 @@ Created Wednesday 26 June 2019
 Temple to Tyr
 Located on a cliff overlooking the Sea of Swords on the north bank of the Neverwinter River near its mouth.[1] It was directly across the Sleeping Dragon Bridge from Castle Never.[5]
 
-[[Quest:Lucky Halfling]]
+[[:Quests:Lucky Halfling]]

@@ -11,4 +11,4 @@ It has natural terrain consisting of towering cliffs and caves formed from ancie
 
 An old gravel and dirt road of a long-long empire's construction wanders through the woods staying clear even against the effects of nature..
 
-[[:Encounter:Bone Naga in Warm Wood]]
+[[:Encounters:Bone Naga in Warm Wood]]

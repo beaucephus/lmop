@@ -12,7 +12,7 @@ Arrived in [[Phandalin]].
 Learned of [[Theodore Anthony Nugent]] the town physician/undertaker.
 
 Found [[Daren Edermath]]'s quest
-Found [[Townmaster Harbin Wester]]'s quest
+Found [[Harbin Wester]]'s quest
 
 Visited Townmaster and [[Sildar Hallwinter]] at [[Townmaster's Hall]]
 
@@ -26,7 +26,7 @@ Party exp: 500 each
 
 ===== Session 3 19/01/24 =====
 Fought an ankheg in the [[Ruins of Conyberry]]
-Traveled north to [[Quest:agatha's hut]]
+Traveled north to [[Quests:agatha's hut]]
 Fought some stirges
 Saved the [[Owlbear of Neverwinter Wood]]
 Visited [[Agatha the Banshee]]
@@ -42,7 +42,7 @@ Visited [[Daren Edermath]] and received payment for the [[old owl well]] quest.
 Got ambushed by Redbrands.
   Locked 2 of them up in the [[Townmaster's Hall]]
 	[[Walddi Wentonc]] , youth of the town from broken family, and [[Manwik Dintt]]
-  [[Townmaster Harbin Wester]] left and gave the keys to [[Ulric]]
+  [[Harbin Wester]] left and gave the keys to [[Ulric]]
 The party learned of the [[Redbrands]] hangout at the [[Sleeping Giant]]
 [[Sildar Hallwinter]] is missing from the Townhall.
   Sildar's requests for reinforcements aren't getting to Neverwinter, they're being intercepted.
@@ -57,9 +57,9 @@ The party met [[Atan]] who was being assaulted by 2 [[Redbrands]]
 The party went to [[old owl well]]
   They retrieved the [[Sling of Critical Accuracy]] from the bottom of the well
   They exchanged [[Arthindol's Spellbook]] for [[Jober]] to learn a 2nd level version of Animate Dead.  Add Life Transference to his domain spell list at 5th level.
-The party set out to find [[Cragmaw Castle]] and instead found the [[PopEncounter:rickety tower|rickety tower]]
+The party set out to find [[Cragmaw Castle]] and instead found the [[Encounters:rickety tower|rickety tower]]
   The tower was full of kobolds and magical [[Quiver of Pristine Fletching]].
-  The tunnel underneath leads to a [[PopEncounter:Kobold Lair|Kobold Lair]]
+  The tunnel underneath leads to a [[Encounters:Kobold Lair|Kobold Lair]]
   2 Kobolds escaped into the tunnel to warn the others
 short rest!!!
   [[Ulric]] attuned to the [[Sling of Critical Accuracy]]
@@ -132,8 +132,8 @@ Party meets [[Undil MountainRiver]] on their way out of town
   He is selling Giant spider venom to [[Theodore Anthony Nugent]]
   Ted uses it to make healing potions.
   Ted is currently out, but Undil has gear - see his page
-  Ted mentions his quest [[Quest:WTB giant spider venom]]
-[[PopEncounter:Stone Defenders]] party avoided the stone defenders
+  Ted mentions his quest [[Quests:WTB giant spider venom]]
+[[Encounters:Stone Defenders]] party avoided the stone defenders
 Pary entered [[Wave Echo Cave]] and cleared 1st room
   finding Tharden's dead body
   killing [[Vyerith]] the drow spy
@@ -170,8 +170,8 @@ Party convinces Gundren to work with the undead and gets 250gp per session for d
   Pary requests goggles of night from the [[:Forge of Spells]]
 [[:Leaf in the Grass]] convinces [[:Sildar Hallwinter]] to build a restaurant in the ruins of the [[:Tresendar Manor]] (1800gp total, 300gp down payment, taking their 250gp payment from gundren for the next 6 sessions(18-23)
 Leaf asked [[:Lenore Eventide]] to work in her restaurant.  Lenore will manage the establishment.
-Party set out for the [[:Ruins of Thundertree]] to complete [[:Quest:WTB giant spider venom]] and find [[:Mirna Dendrar]] 's family treasure.
-  On the road, they encountered [[:Venomfang]] in [[PopEncounter:Venomfang]]
+Party set out for the [[:Ruins of Thundertree]] to complete [[:Quests:WTB giant spider venom]] and find [[:Mirna Dendrar]] 's family treasure.
+  On the road, they encountered [[:Venomfang]] in [[Encounters:Venomfang]]
 	[[:Fie]] was knocked unconscious and abducted by Venomfang.
 
 
@@ -202,7 +202,7 @@ Remember inspiration!!!
 [[:Neverwinter]]
 Players enter [[:Castle Never]]
   [[Encounter:Mailus Drapier's Summons]]
-[[:Quest:Annis's Orphan]]
+[[:Quests:Annis's Orphan]]
 
 ===== Session 21 =====
 Finish [[:Dungeon:Cloak Tower]]
@@ -233,7 +233,7 @@ Fie and H'ruk met with Lord Ulthein and convinced him to buy a Potion of Bloodlu
 
 ===== Session 24 19/09/19 =====
 Meeting with Vincent and Mailus
-	[[Encounter:Mailus Debriefing and Vincent's Return]]
+	[[Encounters:Mailus Debriefing and Vincent's Return]]
 
 Started [[:Dungeon:Beggar's Nest Coven Lair]]
 	Killed [[:Auntie Hilda]] and [[:Black Ethel]]
@@ -247,22 +247,31 @@ Leaf arranged for orphans to be transported to Phandalin. There, Toblin Stonehil
 Sildar oversees the orphanage and hires some local girls to care for the children.
 **Leaf, H'ruk, Othard, Marcus/Fie Level 8!!!**
 
-===== Session 26 =====
+===== Session 26 19/10/03 =====
 Start party with monologue of boat travel to Isla Nublar
 	Captain Rustbeard
 	45gp for chicken dragon armor
 Saints bones in the bag of holding.
-[[:Quest:Disrupt the oppositions meeting]]
-Hruk finds letter from Lord Ulthein to King Hekaton
+[[:Quests:Disrupt the oppositions meeting]]
+	Party slays all the giants and humans including [[:Lord Ulthein]] and [[:Queen Neri]]
+	Party finds 3000gp in coins and gems in a small chest carried by one of the storm giant guards
+	Hruk finds [[Lord Ulthein's plea for help]] on Queen Neri
+	
 
+===== Session 27 =====
+Party starts on [[:Isla Nublar]] and they need to be on the southern end of the island by noon. It's still just barely dawn.
+[[:Encounters:Meeting the Grung Queen on Isla Nublar]] if the party searches the island.
+
+Once the party makes it back to Neverwinter...
+[[:Encounters:Unrest at the docks]]
+
+[[:Quests:Caravan Neverwinter to Phandalin]]
+[[:Encounters:Return to Phandalin]]
+
+[[:Encounters:Giants Siege of Neverwinter]]
 
 ===== Future... =====
-In Phandalin
-	[[:Leaf in the Pot]] restaurant is doing 3x well due to Leaf's efforts.
-	Magic Items from [[:Forge of Spells]] , [[:Amulet of Health(FoS)]]
-	Othard's letter will be found by Sildar
-		Investigation into the [[:cragmaw hideout]] reveals the letter could be true. Goods to be returned to the [[:Lionshield Coster]] . 
-		Word has gotten around town.  Barthen under duress to leave [[Phandalin]] .
+
 
 If the party takes the skiff in [[Wave Echo Cave]] out into the water
   ask for 10 minute break to prep
@@ -270,4 +279,4 @@ If the party takes the skiff in [[Wave Echo Cave]] out into the water
 
 Party has potential hooks to
   [[Vhudyn]] the drow city in the underdark
-  [[Thar]] desert where [[Hamun Kost]] invited them
+  [[Aunurach Desert]] desert where [[Hamun Kost]] invited them

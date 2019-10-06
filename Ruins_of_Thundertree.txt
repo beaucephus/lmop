@@ -87,7 +87,7 @@ __The corpses of two hideous giant spiders are sprawled near the edge of the pat
 
 [[:Venomfang]] lives in the tower.
 If the players make a lot of noise in the cottage, the dragon automatically knows they're coming.
-Run [[Encounter:Venomfang's Lair]]
+Run [[Encounters:Venomfang's Lair]]
 
 Inside the Tower: __A single room with a 40-foot ceiling. A stiarcase circles the interior, rising to the now-opened rooftop. Heavy wooden beams and supports criss-cross the tower.__
 
@@ -139,7 +139,7 @@ __Heaps of wreckage litter the interior of this ruin. In one corner stands a bro
 __This small farmhouse appears to be just another empty home at first glance. However, all the doors are shut and windows shuttered.__
 
 A group calling themselves __The Claw of the Dragon__ reside in this building
-Run [[Encounter:Claw of the Dragon in Thundertree]]
+Run [[Encounters:Claw of the Dragon in Thundertree]]
 
 
 

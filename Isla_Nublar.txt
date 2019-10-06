@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-06T10:55:39-04:00
+
+====== Isla Nublar ======
+Created Sunday 06 October 2019
+
+Isla Nublar is a small island atoll, 5 miles wide and 15 miles long, north-to-south. It is covered in dense forested jungle on the western side and open grassy plains on the eastern side.
+
+It is home to a small colony of grung.
+The Grung have a small (<50 members) village on Isla Nublar.
+They subsist by enslaving dinosaurs and are at war the ever-encroaching Shuagins of the surrounding sea.
+There are no red or yellow (higher castes) grung on the island.
+Only green, blue, and purple (lower castes)
+They are led by [[:Ja'Hen Zoog Slur'Mog Lurt Rahn]] , the only orange grung.
+
+[[:Encounters:Mating Triceratops]]
+[[:Encounter:Spinosaurus and Brachiosaurus]]
+[[:Encounters:Meeting the Grung Queen on Isla Nublar]]
