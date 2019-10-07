@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-06T20:22:50-04:00
+
+====== Giants ======
+Created Sunday 06 October 2019
+
+===== Cloud Giants =====
+**Wind Aura.** A magical aura of wind surrounds the giant.
+10-foot radius sphere that the giant must concentrate on.
++2 to AC. +2 to DEX saves
+Enemies must make a DC20 STR save or be pushed to the edge of the sphere and be knocked prone.
+
+===== Fire Giants =====
+**Siege Monster.** Fire giants do double damage to objects and structures.
+
+===== Frost Giants =====
+**Weighted Net.** Ranged Weapon Attack: +5 to hit, range 20/60ft., one large or smaller creature.
+Hit: The target is restrained until it escapes the net.
+DC17 STR check to escape.
+The net has AC 12 and 15HP, Immune to piercing and bludgeoning damage.
+
+===== Stone Giants =====
+**Rolling Rock.** The giant sends a rock tubling along the ground in a 30-foot line that is 5-foot wide.
+DC17 DEX save or take 4d10 bludgeoning damage and be knocked prone.
+
+===== Storm Giants =====
+**Thunderous Stomp (Recharge 6).** The storm giant stomps the ground, triggering a thunderclap.
+All creature within 15 feet make DC17 CON save or take 6d10 thunder damage and be deafened for 10 minutes.
+Half damage and no deafening on a successful save.
+The thunderclap can be heard for half a mile.
+
+===== All giants have the below abilities in addition to their normal statblocks. =====
+
+**Kick.** Replaces 1 attack. The giant tries to punt a small or medium creature within 10 feet of it.
+DC20 Dex save or be hurled 1d6 x 10 feet horizontally and land prone.
+1d8 bludgeoning damage for every 10 feet thrown.
+
+**Restrain and Bite.** Whenever a giant grapples, the target is restrained in addition to being grappled.
+On the next turn after grappling an enemy, the giant can attempt to bite the target. Bite deals half the giant's hit dice in damage and recieves a lingering injury.
+
+{{..\lingering_injuries.png}}
