@@ -21,4 +21,4 @@ Gundren currently oversees operation of the forge with help from [[:Mormesk]] th
 
 ===== Party Commissions =====
 [[:Goggles of Night (FoS)]]
-[[:Amulet of Health(FoS)]]
+[[:Items:Amulet of Health(FoS)]]

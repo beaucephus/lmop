@@ -194,7 +194,7 @@ Downtime in Phanalin
 		Plant Growth
 		Deal with Sildar's men to keep the peace for 50% discount
 	Othard planted a forged letter implicating Barthen in thievery and collusion with goblins to ruin the Lionshield Coster.
-	Party Requested [[:Amulet of Health(FoS)]] from [[:Forge of Spells]] (1 month to craft)
+	Party Requested [[:Items:Amulet of Health(FoS)]] from [[:Forge of Spells]] (1 month to craft)
 **Level 7!!!**
 
 ===== Session 20 19/07/18 =====
