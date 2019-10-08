@@ -218,7 +218,7 @@ Party buys 5 Potions of Healing
 Party journeys to Warm Wood
   Naga Encounter
   Corpse Flower and long rest
-**Arjun Level 5!!!**
+**Arjun Level 6!!!**
 
 ===== Session 22 19/09/05 =====
 Pick up [[:Beggar's Nest Coven]] with [[:Dungeon:Big Agnes' Cave]]
@@ -256,6 +256,7 @@ Saints bones in the bag of holding.
 	Party slays all the giants and humans including [[:Lord Ulthein]] and [[:Queen Neri]]
 	Party finds 3000gp in coins and gems in a small chest carried by one of the storm giant guards
 	Hruk finds [[Lord Ulthein's plea for help]] on Queen Neri
+
 
 ===== Session 27 =====
 Party starts on [[:Isla Nublar]] and they need to be on the southern end of the island by noon. It's still just barely dawn.
