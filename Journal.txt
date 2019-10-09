@@ -263,9 +263,15 @@ Party starts on [[:Isla Nublar]] and they need to be on the southern end of the 
 [[:Encounters:Meeting the Grung Queen on Isla Nublar]] if the party searches the island.
 
 Once the party makes it back to Neverwinter...
-[[:Encounters:Unrest at the docks]]
+[[:Encounters:Unrest at the docks]] Arjun and Justin's character are there, possibly arguing.
 
-[[:Quests:Caravan Neverwinter to Phandalin]]
+[[:Dungeon:Big Agnes' Cave]] if the party goes after Big Agnes
+Agnes is growing a new corpse flower, but it's still small an poses no threat to the party.
+Agnes keeps her 4 yeth hounds close to her since she knows the party is onto her.
+Agnes might offer to parley information for her life check [[:Encounter:Meeting Big Agnes]] to see what she can scry.
+Check [[:Encounter:Meeting Big Agnes]] for her combat abilities
+
+[[:Quests:Caravan Neverwinter to Phandalin]] if needed to get the party back to Phandalin
 [[:Encounters:Return to Phandalin]]
 
 [[:Encounters:Giants Siege of Neverwinter]]

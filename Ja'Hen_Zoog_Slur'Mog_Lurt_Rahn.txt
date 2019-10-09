@@ -15,10 +15,25 @@ She leads the grung on the island.
 I believe the best should rule, and I am the best!
 
 **Bond**
-I will lead my people until another grung bests me.
+I will lead my people against the sharkmen until another grung bests me.
 
 **Flaw**
 I never back down from a challenge with another grung.
 
+
+She's a lvl 8 barbarian
+ 79 HP
+ 14AC
+  rage
+  2 attacks, 3 when raging (3rd as a bonus action)
+ +8 to hit
+  1d8+5 damage (+ an additional 2 when raging)
+
+  Pocket Chili Powder!!!
+  Constitution save DC 15 or be blinded for 1 minute and incapacitated for 1 round
+  Grung have disadvantage on the save.
+  Can be washed away in water
+ 
+ 
 
 
