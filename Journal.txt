@@ -260,12 +260,12 @@ Saints bones in the bag of holding.
 
 ===== Session 27 =====
 Party starts on [[:Isla Nublar]] and they need to be on the southern end of the island by noon. It's still just barely dawn.
-Hope the party forgets about Queen Neri being alive.
+Have Arjun and Justin's character swim ashore. They were on the boat.
   [[:Encounter:Queen Neri on Isla Nublar]] if the party doesn't slay Queen Neri
 [[:Encounters:Meeting the Grung Queen on Isla Nublar]] if the party searches the island.
 
 Once the party makes it back to Neverwinter...
-[[:Encounters:Unrest at the docks]] Arjun and Justin's character are there, possibly arguing.
+[[:Encounters:Unrest at the docks]] 
 
 [[:Dungeon:Big Agnes' Cave]] if the party goes after Big Agnes
 Agnes is growing a new corpse flower, but it's still small an poses no threat to the party.
