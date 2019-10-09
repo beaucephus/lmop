@@ -253,13 +253,15 @@ Start party with monologue of boat travel to Isla Nublar
 	45gp for chicken dragon armor
 Saints bones in the bag of holding.
 [[:Quests:Disrupt the oppositions meeting]]
-	Party slays all the giants and humans including [[:Lord Ulthein]] and [[:Queen Neri]]
-	Party finds 3000gp in coins and gems in a small chest carried by one of the storm giant guards
+	Party slays all the giants and humans including [[:Lord Ulthein]] and [[:Queen Neri]] .Queen Neri left unconcious
+	Party finds books, writing impliments, and other miscellaneous desk tools in a small chest carried by one of the storm giant guards.
 	Hruk finds [[Lord Ulthein's plea for help]] on Queen Neri
 
 
 ===== Session 27 =====
 Party starts on [[:Isla Nublar]] and they need to be on the southern end of the island by noon. It's still just barely dawn.
+Hope the party forgets about Queen Neri being alive.
+  [[:Encounter:Queen Neri on Isla Nublar]] if the party doesn't slay Queen Neri
 [[:Encounters:Meeting the Grung Queen on Isla Nublar]] if the party searches the island.
 
 Once the party makes it back to Neverwinter...

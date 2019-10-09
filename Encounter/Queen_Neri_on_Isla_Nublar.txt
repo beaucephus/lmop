@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-09T08:57:10-04:00
+
+====== Queen Neri on Isla Nublar ======
+Created Wednesday 09 October 2019
+
+[[:Queen Neri]] is badly injured.
+She is reluctant to speak with the party, considering them her __"captors"__
+
+**Knowledge**
+She knows the kraken that is called [[:Slarkrethel]] and knows that he is on a quest to dominate the coastal cities of men.  The local Sahuagina are under his control.
+  She guesses at Slarkrethel's intentions in this sabotage.  She guesses that __The beast of the deep may already hold sway over Neverwinter, and wishes to maintain his power.__
+She knows that Lord Ulthein was planning a Coup.
+  She was offering him aid in exchange for smallfolk goods and knowledge.
+  She planned to bring the books, writing tools, etc... back to her beloved daughter, [[:Serissa]] who __loves to learn of the smallfolk and their adventures.__
+
+**Developments**
+She attempts to convince the party to let her go saying she __must return to Maelstrom to inform her husband what has transpired here.__
+  She appeals to the good nature of the party.
+She attempts to escape into the sea at the earliest convinience if they don't let her go.
+She will be captured and slain by Slarkrethel's minions.
