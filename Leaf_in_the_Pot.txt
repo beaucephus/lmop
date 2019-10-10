@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-10T14:49:39-04:00
+
+====== Leaf in the Pot ======
+Created Thursday 10 October 2019
+
+Add 1 to roll for every day Leaf spends tending the shop
+Add 10 for small effects.
+Add 20 for big effects.
+
+	Add 50 to next roll due to the effects leaf did.
+		125lbs of dragon meat
+		Plant Growth
+		Deal with Sildar's men to keep the peace for 50% discount
+
+Maintenance costs 5gp per session since last visit. Last visit was session 17
+
+{{../running_a_business.png}}

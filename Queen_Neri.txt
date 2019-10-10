@@ -11,7 +11,7 @@ She speaks with a cordial air and nods a lot.
 **Ideal**
 __I want the giantfolk and smallfolk to live together in harmony.__
 **Bond**
-__I love my dear daughter,__ [[:Serissa]] __with all my hear.__
+__I love my dear daughter,__ [[:Serissa]] __with all my hearT.__
 **Flaw**
 __Although I am insightful when interacting with giantfolk, I often fail to perceive deception and malice in smallfolk.__
 

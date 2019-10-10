@@ -259,6 +259,8 @@ Saints bones in the bag of holding.
 
 
 ===== Session 27 =====
+	Party finds books, writing impliments, and other miscellaneous desk tools in a small chest carried by one of the storm giant guards.
+	Hruk finds [[Lord Ulthein's plea for help]] on Queen Neri
 Party starts on [[:Isla Nublar]] and they need to be on the southern end of the island by noon. It's still just barely dawn.
 Have Arjun and Justin's character swim ashore. They were on the boat.
   [[:Encounter:Queen Neri on Isla Nublar]] if the party doesn't slay Queen Neri
