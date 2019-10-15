@@ -281,7 +281,6 @@ Check [[:Encounter:Meeting Big Agnes]] for her combat abilities
 
 ===== Session 28 =====
 
-[[:Quests:Caravan Neverwinter to Phandalin]] if needed to get the party back to Phandalin
 [[:Encounters:Return to Phandalin]]
 
 [[:Encounters:Giants Siege of Neverwinter]]
@@ -290,6 +289,7 @@ Check [[:Encounter:Meeting Big Agnes]] for her combat abilities
 
 ===== Future... =====
 
+[[:Quests:Caravan Neverwinter to Phandalin]] if needed to get the party back to Phandalin
 
 If the party takes the skiff in [[Wave Echo Cave]] out into the water
   ask for 10 minute break to prep
