@@ -5,11 +5,11 @@ Creation-Date: 2019-10-06T11:34:13-04:00
 ====== Return to Phandalin ======
 Created Sunday 06 October 2019
 
-__The small town of Phandalin is bustling with people moving, building, and trading. Makeshift stands line the main thoroughfaire selling all manor of goods.  Several new constructions dot the offshooting streets. Many new faces including those of dwarves, elves, gnomes, and halflings move about the streets, hustling and bustling. The old familiar store front of Barthen's Provisions greets you as you enter the main thoroughfair, except the newly painted-over sign reads "Greywind Armorer and Supplies".__
+__The small town of Phandalin is bustling with people moving, building, and trading. Many colorful and makeshift stands line the main thoroughfaire selling all manor of goods.  Several new constructions dot the offshooting streets. Many new faces including those of dwarves, elves, gnomes, and halflings move about the streets, hustling and bustling. The old familiar store front of Barthen's Provisions greets you as you enter the main thoroughfair, except the newly painted-over sign reads "Greywind's Guard".__
 
 Othard's letter was found by Sildar. An investigation followed including the arrest and trial of [[:Elmar Barthen]]
 The goods in [[:cragmaw hideout]] were recovered and delivered to [[:Linene Greywind]] who bought [[:Barthen's Provisions]] after it was forclosed upon.
-Linene runs the [[:Greywind Armorer and Supplies]] store along with 2 orphans from Neverwinter whom she has taken on as apprentices in her blacksmithery.
+Linene runs the [[:Greywind's Guard]] store along with 2 orphans from Neverwinter whom she has taken on as apprentices in her blacksmithery.
 
 Barthen can be found in the newly constructed jail, a small building attached to the barracks built by Sildar.
 	If the party visits Barthen, he screams like a madman, claiming that Othard did this to him.
@@ -18,7 +18,4 @@ Barthen can be found in the newly constructed jail, a small building attached to
 
 [[:Leaf in the Pot]] restaurant is doing well due to Leaf's efforts.
 	
-Magic Items from [[:Forge of Spells]] , [[:Items:Amulet of Health(FoS)]]
-
-
-
+Magic Items from [[:Forge of Spells]] , [[:Items:Amulet of Health(FoS)]] 

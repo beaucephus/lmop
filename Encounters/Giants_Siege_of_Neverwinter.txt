@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-15T20:05:38-04:00
+
+====== Giants Siege of Neverwinter ======
+Created Tuesday 15 October 2019
+
+===== On approach at dusk =====
+__A dim halo of light and a low fog obscures your view of Neverwinter. As you get closer, you begin to make out people, small dots at this distance, moving quicly back and forth along the walls, while larger dots, caravans of horses, carts, and people, all streaming out of the south gate and into the surrounding countryside.__
+__A round plume of orange light billows up into the sky from somewhere in the center of the city, and a murky, black cloud follows it, high into the night sky.__
+__The city of Neverwinter is alight with roaring flame.__
+
+===== The Beggar's Nest =====
+__Most of the beggar's nest is a raging inferno. People flee in droves towards the city walls in a panic, holding their cloaks over their mouths and carrying what they can.__
+__As you make your way into the city proper moving against the now thinned stream of people running and screaming for their lives and the lives of their loved ones, a 25 foot tall giant clad in full, black plate catches sight of you.__
+__She turns towards you and stares with glowing red eyes and hair. She lifts her weapon in your direction, calling out (in giant), and several smaller figures emerge from the nearby rubble and carnage. Half orc, half ogre, Orogs clutching great axes stained red/black with blood and soot stride your way in tight formation. Small, goblin-like, creatures with skin of molten lava bound down off nearby rooftops, leaving seared dirt wherever they step. They surround you, closing in step by step with the giant behind them.__
+
+1 fire giant
+4 orogs
+6 magmins
+they surround the party. The magmins rush in while the orogs form a perimeter, hurling javelins. The giant hurls flaming chunks of debris.
+
+**Developments**
+If the players escape, the giant calls off the orogs, the magmins chase
+The giant knows the details of the attack
+
+===== The Three Bridges =====
+__Three great bridges span the more than 100 foot wide Neverwinter River as it winds a semicircle around Castle Never. Giant guards stand watch at the __[[:Winged Wyvern Bridge]] and [[Sleeping Dragon Bridge]]
+__The__ [[:Dolphin Bridge]] __is unguarded.__
+
+There are 2-3 hill giants stationed at each guarded bridge.
+These typically slow and lumbering giants are on alert and primed for action (DC20 to sneak past)
+
+The dolphin bridge has been mgically trapped by cloud giants.
+Several glyphs of warding (DC16 to notice) are set along the bridge.
+Any creature walking across the middle of the bridge triggers all the glyphs which explode in quick succession from the center towards each bank, dealing 5d8 thunder damage (DC16 dex save for half)
+
+
+===== Castle Never =====
+
+
+===== Giant details of the attack =====
+[[:King Hekaton]] of [[:Maelstrom]] has ordered an attack on [[:Neverwinter]]
+All giant kinds attack the city from different angles.
+Their goal is to purge the city.
+A squad of storm giants is to storm Castle Never and slay all members of the Lords Alliance.

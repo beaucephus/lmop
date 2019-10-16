@@ -2,15 +2,14 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Tokens: bone naga (2)
 
-Magic Items:
+**Magic Items:**
 
-Tokens:
-corpse flower
-bone naga (2)
-yeth hound (4)
+**Tokens:**
+3 magmins
 
-Statblocks:
-bone naga, corpse flower, yeth hound
-annis hag
 
-Prepare:
+**Statblocks:**
+fire giant, orog, magmin
+
+
+**Prepare:**
