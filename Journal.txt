@@ -279,7 +279,8 @@ Once the party makes it back to Neverwinter...
 
 [[:Encounters:Return to Phandalin]]
 
-Get party a summons to Neverwinter from Mailus
+Marcus receives a telepathic summons in Mailus Drapier's voice.
+__Our master has work for us. Return to me.__
 
 [[:Encounters:Giants Siege of Neverwinter]]
 	need to prepare
