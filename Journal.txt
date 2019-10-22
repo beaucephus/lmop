@@ -275,15 +275,22 @@ Once the party makes it back to Neverwinter...
 	The party slew Big Agnes
 **Arjun and Jural level 7!!!**
 
-===== Session 28 =====
-
+===== Session 28 2019/10/17 =====
 [[:Encounters:Return to Phandalin]]
+Little spider at [[:Theodore Anthony Nugent]] 's is a jeuvenile giant spider now.
+Party orders ring of spell storing
+Leaf buys souveneirs for children
 
+Once party begins to finish up in Phandalin
 Marcus receives a telepathic summons in Mailus Drapier's voice.
 __Our master has work for us. Return to me.__
 
 [[:Encounters:Giants Siege of Neverwinter]]
-	need to prepare
+Killed the giants in Beggar's Nest
+
+===== Session 29 2019/10/24 =====
+[[:Encounters:Giants Siege of Neverwinter]]
+
 
 
 ===== Future... =====

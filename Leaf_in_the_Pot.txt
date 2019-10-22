@@ -14,6 +14,8 @@ Add 20 for big effects.
 		Plant Growth
 		Deal with Sildar's men to keep the peace for 50% discount
 
+Add 10 for Lenore's wages
+
 Maintenance costs 5gp per session since last visit. Last visit was session 17
 
 {{../running_a_business.png}}

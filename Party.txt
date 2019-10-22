@@ -7,16 +7,47 @@ Created Friday 08 February 2019
 
 === Slayers of the Spider Queen ===
 
-~~Jober~~
-[[Leaf in the Grass]] 8
+[[Leaf in the Grass]] bard 8
+HP
+AC
+PP
+PI
+
+[[Othard Drapier]] rogue 8
+HP 58
+AC 17
+PP 18
+PI 15
+
+[[Fie]] warlock/sorceror 8
+HP 58
+AC 17
+PP 10
+PI 13
+
+[[H'ruck]] monk 8
+HP 75
+AC 20
+PP 19
+PI 15
+
+[[Jural]] paladin 7
+HP 67
+AC 20
+PP 9
+PI
+
+[[Arjun Prexajandlin]] cleric 7
+HP 66
+AC 19
+PP 13
+PI
+
 ~~Ulric~~
-[[Arjun Prexajandlin]] 6
-[[Othard Drapier]] 8
+~~Jober~~
 ~~Atan~~
-[[Fie]] 8
-[[H'ruck]] 8
-[[Biff Broadsteele]] 5
+~~Biff Broadsteele~~
 
 
 250gp income per session due to deal with [[:Gundren Rockseeker]]
-Sessions 18-21 gold will be payed directly to [[:Sildar Hallwinter]] for the construction of [[:Leaf in the Grass]] 's restaurant.
+Income for [[:Leaf in the Pot]] restaurant every time they visit

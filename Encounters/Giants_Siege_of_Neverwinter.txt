@@ -5,6 +5,8 @@ Creation-Date: 2019-10-15T20:05:38-04:00
 ====== Giants Siege of Neverwinter ======
 Created Tuesday 15 October 2019
 
+**All perception and investigation checks made at disadvantage due to the smoke, soot, and fire.**
+
 ===== On approach at dusk =====
 __In the distance, a dim halo of light and a low fog obscures your view of Neverwinter. __
 
@@ -37,17 +39,65 @@ The hill giants will laugh at what __Tasty things the others gets to eats in the
 __Yeah, we only gets to eats the little ones that tries to cross HA HA__
 
 The dolphin bridge has been mgically trapped by cloud giants.
-Several glyphs of warding (DC16 to notice) are set along the bridge.
+Several glyphs of warding (DC16 to notice) are set along the bridge. **-5 to passive perception due to the smoke**
 Any creature walking across the middle of the bridge triggers all the glyphs which explode in quick succession from the center towards each bank, dealing 5d8 thunder damage (DC16 dex save for half)
-Any creature on the bridge when it explodes falls into the river. DC12 athletics to swim straight across, otherwise get swept downstream.
+Any creature on the bridge when it explodes falls into the river. DC12 athletics to swim straight across, otherwise get swept downstream. (Puts them behind a few rounds in next combat)
 
+This should lead straight into combat once across the bridges.
 
-===== Castle Never =====
+===== Castle Never Attack =====
 __As you approach the castle, you hear sounds of battle from the coutyard out in front of the main entrance__
 
-__Mailus, Alfredo, and a handful of city guards stand out in the castle courtyard. Drenched in sweat and some smattering of blood and soot, their eyes fall on you with looks of surprise and relief.__
-2-3 __ storm giants stand surrounding them. Each winds back for a swing with his 15 foot long great sword.__
-__Some of the guards turn to run, some cry out.__
+__Mailus, Alfredo, Vincent, and a handful of city guards stand out in the distant castle courtyard, 200 feet from you.__
+__3 giants and 2 smaller white-furred beasts surround them. One particularly tall giant reaches up towards the sky and calls down a lightningbolt which explodes on the guards position, killing the remaining guards.__
+What do you do?
+
+Upon approaching the npc
+	__The Drapiers and Alfredo stand back to back to back, drenched in sweat and some smattering of blood and soot. Their eyes fall in your direction with looks of surprise and relief as you approach.__
+
+a **storm giant** leading 2 **frost giants** each with a **winter wolf** pet are attacking the castle.
+
+Put the party 200 feet from the giants and npcs
+The storm giant orders the **frost giants** to intercept the party (in giant) __while I slay this murderous cur!__
+He then focuses all attacks on Mailus. Alfredo attempts to block for Mailus
+
+The frost giants and winter wolves move to intercept anybody they can. The frost giants throw restraining nets around vulnerable enemies and attept to spear them with 30 foot long tree trunks fashioned into great spears (greataxe attack)
+
+While the battle rages, the storm giant goads at Mailus 
+__You Lord's Alliance cowards brought this on yourselves.__ 
+__You slew our Queen. Queen Neri will be avenged! If war with giant-kind is what you want, then you'll have it!__
+__You've allied yourself with that monstrous creature. Slarkrethel will devour you all and turn you into monsters like him!__
+
+**Developments**
+The storm giant will flee if the party deals with the other giants or reduces him below 150 HP.
+	__You fight valiantly for your leader, small folk. It is a shame you fight for warmongers such as this one.__ (Hops on his flying manta ray and begins to flee flying at 100 feet per round) 
+	__I will not give you the pleasure of slaying another member of the royal court this day.__
+	__I am Uthor, Imperator of Maelstrom, and I swear, in time, I shall have your treacherous head!!!__
+Alfredo is slain depending on how quickly the party forced the storm giant to flee.
+
+===== Vincent confronts Mailus =====
+Vincent confronts Mailus about Uthor's goading.
+__What did you do to the giant's queen?__
+__Who is Slarkrethel?__
+__What happened to Lord Ulthein?__
+
+To all questions, Mailus answers with a patronizing __You are still young. You will understand in time.__
+Vincent will appeal to Othard
+	__Othard, What happened to Lord Ulthein?__
+
+If none of the players takes the initiative
+	Vincent will challenge Mailus to a duel
+	Alfredo stays out of it (if he's not incapacitated or dead) __I cannot assist in interfamilial disputes. I serve the Drapier family in its entirety, not only Mailus Drapier.__
+	They duel and Mailus' arm transforms into a tentacle armed with gnarly, serrated hooks
+	Vincent and Mailus mortally wound each other.
+	Each appeals to the party for help.
+
+Vincent wants to remove his father from power at w/e cost
+	Lord Ulthein was a close mentor and he can never forgive Mailus for ordering his assasination
+	Vincent fights to the death for what he believes in.
+
+Mailus wants turn Neverwinter into an empire by force.
+	If he fails, he will attempt to escape with a Scroll of Teleport.
 
 
 ===== Giant details of the attack =====
