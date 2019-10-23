@@ -77,7 +77,7 @@ Alfredo is slain depending on how quickly the party forced the storm giant to fl
 
 ===== Vincent confronts Mailus =====
 Vincent confronts Mailus about Uthor's goading.
-__What did you do to the giant's queen?__
+__Did you slay their queen?__
 __Who is Slarkrethel?__
 __What happened to Lord Ulthein?__
 
@@ -85,12 +85,17 @@ To all questions, Mailus answers with a patronizing __You are still young. You w
 Vincent will appeal to Othard
 	__Othard, What happened to Lord Ulthein?__
 
-If none of the players takes the initiative
-	Vincent will challenge Mailus to a duel
-	Alfredo stays out of it (if he's not incapacitated or dead) __I cannot assist in interfamilial disputes. I serve the Drapier family in its entirety, not only Mailus Drapier.__
-	They duel and Mailus' arm transforms into a tentacle armed with gnarly, serrated hooks
-	Vincent and Mailus mortally wound each other.
-	Each appeals to the party for help.
+**If none of the players takes the initiative**
+Vincent will challenge Mailus to a duel
+	Mailus appeals to Alfredo __Apprehend my traitorous progeny.__
+		Alfredo stays out of it (if he's not incapacitated or dead) __I will not! The young Lord Drapier has issued a rightful challenge.__
+	Mailus appeals to the Party __Slayers of the Spider Queen, apprehend both these traitors and throw them in the castle dungeon.__
+		Othard will resist arrest and Alfredo will assist him. They fight to the death for their beliefs.
+
+**If the party sides with Vincent or doesn't intervene**
+They duel and Mailus' arm transforms into a tentacle armed with gnarly, serrated hooks
+Vincent and Mailus mortally wound each other.
+Each appeals to the party for help.
 
 Vincent wants to remove his father from power at w/e cost
 	Lord Ulthein was a close mentor and he can never forgive Mailus for ordering his assasination
