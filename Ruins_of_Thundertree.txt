@@ -120,7 +120,7 @@ DC15 check to find a small jewelry box containing a gold necklace with a fine em
 ===== 10. Town Square =====
 __On the east side of town, the lane opens up to form a small square. Several ruined buildings surround the south side of the square, but a larger, intact structure to the north looks like a barracks. One lane leads southeast, another heads southwest around the hill in the middle of the town, and a third way meanders north. In the middle of the square, leaning to one side ever so slightly, is a weathered wooden statue of a warrior cluthing a spear and shield.__
 
-DC15 History check to recognize the statue of an old hero of [[:Neverwinter]] named [[:Palien]]
+DC15 History check to recognize the statue of an old hero of [[:Neverwinter]] named Palien
 
 ===== 11. Old Garrison =====
 __The barracks appears to have weathered the years better than most buildings in town. Its rooftop features a simple battlement, and arrow-slit windows confirm that it was built to serve as a small keep in times of emergency.__
