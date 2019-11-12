@@ -86,11 +86,11 @@ Vincent will appeal to Othard
 	__Othard, What happened to Lord Ulthein?__
 
 **If none of the players takes the initiative**
-Vincent will challenge Mailus to a duel
-	Mailus appeals to Alfredo __Apprehend my traitorous progeny.__
+Vincent will challenge Mailus to duel
+	Mailus appeals to Alfredo __Execute my traitorous progeny.__
 		Alfredo stays out of it (if he's not incapacitated or dead) __I will not! The young Lord Drapier has issued a rightful challenge.__
-	Mailus appeals to the Party __Slayers of the Spider Queen, apprehend both these traitors and throw them in the castle dungeon.__
-		Othard will resist arrest and Alfredo will assist him. They fight to the death for their beliefs.
+	Mailus appeals to the Party __Slayers of the Spider Queen, execute both these traitors.__
+		 will resist arrest and Alfredo will assist him. They fight to the death for their beliefs.
 
 **If the party sides with Vincent or doesn't intervene**
 They duel and Mailus' arm transforms into a tentacle armed with gnarly, serrated hooks
@@ -102,7 +102,7 @@ Vincent wants to remove his father from power at w/e cost
 	Vincent fights to the death for what he believes in.
 
 Mailus wants turn Neverwinter into an empire by force.
-	If he fails, he will attempt to escape with a Scroll of Teleport.
+	If he fails and is captured, he will attempt to escape prison with help from Slarkrethel's minions.
 
 
 ===== Giant details of the attack =====
