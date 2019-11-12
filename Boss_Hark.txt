@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-05T11:03:18-04:00
+
+====== Boss Hark ======
+Created Friday 05 July 2019
+
+Leader of the goblins in [[:Dripping Caves]]
+
+See also [[:Dungeon:Dripping Caves]]

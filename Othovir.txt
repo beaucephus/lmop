@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-10T12:02:11-04:00
+
+====== Othovir ======
+Created Saturday 10 August 2019
+
+Othovir is a gifted harness-maker who doesn't talk about his family or where he came from.
+He cares about his business, his clients, and his good name.
+
+Othovir belongs to [[:House Margaster]] though he has cut all ties to his family because they secretly worship the arch-devil [[:Asmodeus]] and Othivir wants nothing to do with them.
+
+**ideal** Find what you do well, and do it to the best of your ability.
+**bond** I won't allow my name to be tarnished.
+**flaw** I get angry when others pry into my private life.
+
+
+===== Quest =====
+Othovir expresses his gratitude to the party by sharing a secret with them.
+He knows the location of a stash of magic items that the Margaster family keeps locked away for emergencies. (Othovir is a Margaster)
+The family owns a three-story tower in [[:Silverymoon]] that has a detached carriage house on the property, and it is here that the characters must travel.
+Othovir knows:
+	The carriage house is a 30-foot square stone building with 2 floors.
+	There are guards that stay in the second floor.
+	The carriage is on the ground floor.
+	The door to the carriage house is protected by a magic spell.
+	The items are stored in a secret compartment somewhere inside the carriage. (DC18 investigation to find quickly)
+	The carriage has 2 horses harnessed to it at all times, ready to go at a moments notice.
+	
+Othovir doesn't know:
+	The guards are actually **cambions**.
+	The spell guarding the door is Arcane Lock.
+	There is a silent Alarm spell on the carriage itself.
+		The Alarm spell alerts the 2 **cambion** guards and A Margaster **mage** in the tower proper.
+
+**Loot**
+Potion of Superior Healing
+4 quivers respectively containing
+	20 +2 arrows
+	20 +2 crossbow bolts
+	30 +2 sling pellets
+	[[:Item:Immovable Rod]] and 3 [[:Item:Arrow of Dragon Slaying]] 

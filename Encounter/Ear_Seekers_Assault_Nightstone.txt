@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T19:19:01-04:00
+
+====== Ear Seekers Assault Nightstone ======
+Created Friday 31 May 2019
+
+A horde of [[:Ear Seeker Orcs]] almost 2 dozen strong emerge from the [[:Ardeep Forest]]
+__They seem to be hagard and look desperate.__
+Upon noticing the obviously fortified village, they change course and head for the west gate.
+
+20 **orcs**
+1 **orc Eye of Gruumsh** named [[:Norgra One-Eye]]
+1 **orc war chief** named [[:Gurrash]]
+
+They try to fight their way into the city.
+If they can't get in, eventually they figure out they can get in through the southern bridge.
+
+If the Seven Snakes are still alive, they dont risk their lives, but they do assist in the defense.
+If the guards are still alive, they fire arrows from the high perch on the roof of the keep.
+If the characters get into trouble, a group of wood elves emerge from the [[:Ardeep Forest]] , routing the orcs.
+  They are lead by a daring wood elf ( [[:Rond Arrowhome]] ) who shouts "You're welcome" with an almost snarling gring as they leave.
+

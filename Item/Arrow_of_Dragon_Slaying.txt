@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T09:09:39-04:00
+
+====== Arrow of Dragon Slaying ======
+Created Monday 02 September 2019
+
+If this arrow hits a dragon, the dragon must make a DC 17 Constitution saving throw, taking an extra 6d10 piercing damage on a failed save, or half as much extra damage on a successful one.
+
+Once the arrow deals its extra damage to a creature, it becomes a nonmagical arrow.

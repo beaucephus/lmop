@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-04T22:10:51-04:00
+
+====== Snail ======
+Created Thursday 04 July 2019
+
+The Snail aka [[:Nelkin Danniker]] is a plump weasel of a halfling.
+
+He's known to his associates as the Snail because of his slow, deliberate way of talking.
+He relaxes at the [[:River Shining Tavern and Inn]] in [[:Daggerford]] , watched over by 6 **thugs** posing as patrons.

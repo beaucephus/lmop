@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-30T15:51:46-04:00
+
+====== Taela Summerhawk's Locket ======
+Created Thursday 30 May 2019
+
+Silver locket shaped like a fish.
+Belongs to [[:Taela Summerhawk]] .
+It contains the picture of [[Larlow Summerhawk]] , a rosy-cheeked male halfling.
+25gp

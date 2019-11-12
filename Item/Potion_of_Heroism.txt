@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-30T17:28:56-04:00
+
+====== Potion of Heroism ======
+Created Thursday 30 May 2019
+
+This blue potion bubbles and steams as if boiling.
+
+Upon drinking you gain 10 Temporary Hit Points that last for 1 hour. For the same Duration, you are under the effect of the bless spell (no Concentration required).

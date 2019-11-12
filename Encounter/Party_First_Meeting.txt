@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-25T12:30:07-04:00
+
+====== Party First Meeting ======
+Created Saturday 25 May 2019
+@encounter
+
+'''
+You received a letter from your friend, Morak Ur'gray bidding you to come visit him in Nightstone.  
+He tells you he has a goblin problem and the local lord is a member of the court at Waterdeep and is paying a bounty for every goblin ear. 
+Whether for fame, fortune, or simply to do a favor for a friend, you decide to set out and begin the journey to Nightstone, so named for the giant obsidian megolith centered in the village square.
+You join the company of several other travelers on the same road, and even a small horse-drawn wagon carting supplies bound for Nightstone.
+As you near the trail to Nightstone, the wagon rolls over a well-concealed stone in the road.
+The axle makes a nasty crunching sound and the wagon slows to a halt.
+The driver has just enough time to spit a curse at the gods before
+
+THUNK, THUNK
+
+You look up to see 2 crude arrows dug into the driver's chest.
+One of the travelers on foot shouts "Goblins, from the woods!!!", before being hit himself.
+You turn towards the woods just in time to ready yourself as a horde of goblins, yipping, and yelping, screeching in joyous glee at the smell of fresh-spilled blood, come barelling out of the woods towards you!
+I need you all to roll initiative.
+
+'''
+Run [[Encounter:Goblin Ambush]] and have the players describe their characters in their first turns.
+
+After,
+Let them meet and banter for a few moments before saying
+
+'''
+Farther down the road You spot a wooden signpost next to a crossroads where the High Road meets with other winding trails.
+Nailed to the post are three arrow-shaped signs. The two marked "Waterdeep" and "Daggerford" point towards opposite ends of the High Road.
+The third, marked "Nightstone," beckons you to follow the trail leading north-east.
+'''
+
+
+

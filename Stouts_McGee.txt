@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-11T09:05:20-04:00
+
+====== Stouts McGee ======
+Created Thursday 11 July 2019
+
+A Halfling cage fighter in [[:Waterdeep]]
+
+Holds a friendly rivalry with [[:Stella Smashface]] after she defeated him in a cage fight.

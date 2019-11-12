@@ -1,0 +1,63 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-07T21:15:21-04:00
+
+====== Attack on Triboar ======
+Created Wednesday 07 August 2019
+
+[[:Okssort]] and [[Ildmane]] , a pair of mated **fire giants** loyal to [[:Duke Zalto]] , have used a [[:Item:Rod of the Vonindod]] to locate the [[:Vonindod]] fragment burried underneath [[:Triboar]]
+
+''Around noon, the town is shaken from its peacefulness by the screams of women and children, followed by a man yelling, "Giants! Run!" Perplexed residents and shopkeepers emerge from their domiciles in time to see a large rock fall from the sky and crash onto an old cart, splintering the cart and killing the carter. As a cloud of dust erupts from the wreckage, a second rock hits the ground, tumbles through a fence, and slams against the wall of a building, startling a pair of mules tethered to a post nearby. All around you, people begin to shriek and scatter.''
+
+
+===== The Attack =====
+
+==== Wave 1 ====
+Okssort and Ildmane hurl boulers at the town from range while 5 **orogs**, 6 **orcs** riding **axebeaks**, and 12 **magmins** (split into 2 gangs of 6) assault the town and clear a path from the northeast to the campgrounds.
+Orogs.
+
+==== Wave 2 ====
+The giants approach the campground hurling boulders along the way while their entourage spreads throughout the town.
+The orcs and magmins galavant in groups, looting, killing, and setting fires. They attempt to draw attention away from the giants in the campground.
+
+==== Wave 3 ====
+The giants excavate the [[:Vonindod Fragment]] and leave, while ordering the remaining entourage to cover their retreat.
+
+
+===== Defense =====
+After receiving reports of orcs attacking ranches to the southeast, Lord Protector [[:Darathra Shendrel]] sends the Twelve to acertain the extent of the danger and aid the ranchers.
+These attacks were merely distractions, and while the Twelve are way, Triboar has no substantial defense other than a few armed guards in the central keep and the villagers themselves.
+
+Each player can choose an NPC to play during this encounter: [[..\triboar_npc_handout.pdf]]
+[[:Darathra Shendrel]]
+[[:Darz Helgar]]
+[[:Narth Tezrin]]
+[[:Urgala Meltimer]]
+[[:Othovir]]
+[[:Ghelryn Foehammer]]
+Hand out the stat blocks.
+''Each of the NPC represents a potential quest and reward. ''
+''For each NPC that survives the Attack on Triboar, the players will receive a quest with very rare rewards!''
+
+
+===== Giants Defeat =====
+If defeated, the giants retreat to the [[:Surbrin Hills]] where they roust 4 **hill giants**, returning to Triboar in a week's time.
+The local militia will be assembled and can easily defend the settlement. The gianst fight to the death in the battle.
+
+===== Giants Victory =====
+If victorious, the giants obtain the Vonindod fragment and leave town, making the long trek back to [[:Ironslag]] with their prize, avoiding roads and settlements.
+
+
+===== Treasure =====
+Okssort carries a [[:Item:Giant Bag of Holding]] containing
+  giant-sized skin drum
+  giant-sized drinking horn
+  haunch of meat
+  giant-sized waterskin(full) 100pounds
+
+Ildmane wears a ruby pendant necklace (750gp)
+1d20gp per orog killed
+One of the NPCs will offer the party a [[:Item:Alabaster Figurine of Find Familiar (Hunting Dog)]] in thanks for surely saving the town.
+If the players obtain the [[:Vonindod Fragment]] or [[:Item:Rod of the Vonindod]] both [[:Alaestra Ulgar]] and [[:Urlam Stockspool]] each offer to buy it for 5,000gp (paid in 500gp gemstones), though its actual value is 3 times as much.
+
+

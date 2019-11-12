@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-27T10:10:30-04:00
+
+====== Cloud Giant Floating Castle ======
+Created Monday 27 May 2019
+
+Probably will lead to an encounter where the party attempts to recover the [[Nightstone Megalith]]

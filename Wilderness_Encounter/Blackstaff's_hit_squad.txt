@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-13T16:50:45-04:00
+
+====== Blackstaff's hit squad ======
+Created Tuesday 13 August 2019
+
+The party destroyed [[:Blackstaff]] 's clone in [[:Rassalantar]] and he is angry.
+Blackstaff sends a hit squad of rogues, fighters and bards after the party.
+Have them track the party and ambush when advantageous. __Blackstaff sends his most generous regards.__
+
++7 to hit
++4 to damage
+
+Rogues
+multiattack (rapier, dagger)
+sneak attack (3d6)
+cunning action
+uncanny dodge
+
+Fighters
+multiattack (great weapons)
+second wind
+action surge
+crit on 19
+
+Bards
+
+

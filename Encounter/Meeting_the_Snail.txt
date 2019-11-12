@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-04T22:14:39-04:00
+
+====== Meeting the Snail ======
+Created Thursday 04 July 2019
+
+If the party visits [[:Daggerford]] , the [[:Snail]] who has heard of them brokers a meeting.
+
+In exchange for signing a written agreement stating that they won't interfere in the [[:Black Network]] 's operation in [[:Daggerford]] or accept any quests or special commissions from the Duchess ( [[:Morwen Daggerford]] )
+The Snail offers the party
+ * Free room and board at the [[:River Shining Tavern and Inn]] , paid for by the [[:Zhentarim]]
+ * One riding horse or pony for each party member, with stable fees in [[:Daggerford]] paid for by the [[:Zhentarim]]
+ * Ownership of a fortified tower in "fair condition" that overlooks the [[:Delimbiyr River]] west of [[:Orlbar]] (recently abandoned by the Zhents after a **stone giant** attack)
+
+If the Snail can't get the entire party to agree, he ends the meeting politely.
+
+Regardless, he puts a tail on the party.
+
+If the party checks out the tower, run [[:Encounter:Stone Giants at Orlbar Tower]]

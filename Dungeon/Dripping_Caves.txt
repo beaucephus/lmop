@@ -1,0 +1,125 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T11:25:08-04:00
+
+====== Dripping Caves ======
+Created Friday 31 May 2019
+
+__You approach a gaping cave mouth on the south face of a rocky hill topped with pine trees.__'' (''enters to area 1)
+If the characters take an hour to circle the hill, they find 2 other entrances.
+  __On the west side is a narrow tunnel into which a stream flows.__ This tunnel is 40ft long and enters to area 6.
+  __On the east side is a dry tunnel that gently slopes downward__ to area 3A.
+If the characters climb the hill, they __find a natural chimney__ (5ft diameter shaft) that descends 50ft to area 7.
+  __The chimney seems to have abundant handholds.__ DC10 to climb without tools or fall to the bottom.
+
+===== General Features =====
+**Darkness: **__The caves have no natural light source.__ The goblins and ogres use their darvision to see.
+**Dripping Water:** __Water constantly drips from the stalactities in the main chamber. The sound echoes throughout the complex but isn't loud enough to drown out other distinctive noises.__
+**Narrow Tunnels:** __The tunnels leading away from the main cavern are 7-8ft high and range in width from 2-5ft.__ (Ogres and other large creatures can squeeze through)
+**Walls:** __The walls are damp and slick, but sport an abundance of nooks, crannies, and outcrops making for easy climbing.__ (DC 10)
+
+===== 1. Main Cavern =====
+Vast cavern with a forest of stalactites and stalagmites rising to meet them.
+The floor is riddled with broken spears, broken shields, and bat guano.
+An ogre is visible in the daylight bathing in a pool of mud near the entrance.
+**darkvision:** Around the perimeter of the room there are 6 natural tunnel exits and 5 ledges upon each of which sits a single sleeping goblin.
+
+If the party caries light or makes noise, the 2 **ogres** and 5 **goblins** across area 1 sound an alarm and all attack.
+6 exiting tunnels, 1 due north, 2 east, 3 west
+
+===== 2. Goblin Warrens =====
+__A series of narrow, low tunnels winds about the southwest portion of the caves.__
+__One of the caves you enter ends in a goblin sleeping room.  There are thatches of hay forming small bedding areas, rusty iron pots, and odd tools and toys mostly made of bone and wood including a cleaned-out human skull turned up-side down and the loose teeth carved to form makeshift dice.__
+__4 tiny goblins are playing a game as you enter the room.__
+
+Several rooms with similar setups. Some goblins sleeping, some playing and cooking.  None of the goblins have weapons. They seem to be mostly females, smaller males and children.
+__One of the rooms is littered with bones. They mostly seem to belong to small bats and rodents, but several clumps of human bones are dispered around the floor.  They look to have been freshly cleaned of their flesh.__
+
+**Developments**
+If the players erradicate the goblins here, have a goblin revenant chase the party [[Encounter:Forked Ear Goblin Revenant]]
+
+===== 3. East Caves =====
+__Stalactites and stalagmites crowd this 20ft high, 15ft wide cave. Rising up from the middle of the floor is a particularly large, 10ft diameter at the base, pourous stalagmite riddled with holes that bore down into the interior of the rock. Lying near the base of the stalagmite are the badly corroded remains of two crudely made scimitars.__
+
+If players investigate the stalagmite, they __smell a stinging, corrosive musk and their fingers sting after touching the rock.__
+A **black pudding** only exits the stalagmite if the characters move deeper in the cave.
+
+__2 tunnels exit this room on opposite sides.__ 
+__The east tunnel leads back outside after 100ft.  __
+__The west tunnel leads to another chamber with a natural waterfall of clean-looking water pouring into a dark pool at the southwest end of the room. A thin line of brown mushrooms grows near the water's edge.__
+The ooze will not enter the pool. If all the players run into the pool, the ooze retreats to its rock.
+The mushrooms are poisonous (DC10 to identify). If ingested, DC12 con save or take 1 poison dmg and be poisoned (1 hour). This effect stacks.
+
+===== 4. Bats and Prisoners =====
+__This short tunnel leads to a sunken cavern that echoes lightly with the sound of flapping wings. The sound emanates from a naturally formed pit in the center of the cavern's floor. Ten-foot-high ledges surround the pit and form raised alcoves. Huddled in these alcoves are 2 to 3 dozen humans clad in plain clothes.__
+
+These are the [[Nightstone]] villagers. They try to remain as quiet as possible because...
+Any loud noise or bright light agitates thousands of bats hidden in a large cavern beneath this one.
+If the bats become agitated, roll initiative. On initiative 10 bats fly up out of the pit and flutter about the cave, shrieking loudly.
+The swarming bats reduce visibility to 5 feet.
+A creature takes 1 piercing dmg when it enters a square occupied by swarming bats.
+On each of the bat swarm's turn roll a d6. They recede back to the lower cavern on a 6.
+
+[[:Morak Ur'gray]] is held in this cavern and speaks on behalf of the other villagers.
+He's counting on the [[:Lady Velrosa Nandar]] and the remaining guards of [[Nightstone]] to come rescue them.
+When Morak sees the party, __he breathes a hushed sigh of relief__. He assumes the party was hired by the Lady Nandar and is dismayed if he learns of her death.
+__Standing out amongst the plainly clad human and halfling villagers you also see a pair of tieflings, 1 human man clad is dirtied priestly vestments and 6 wounded individuals wearing armor and heraldry depicting a stylized fox holding a rose in its mouth__ (Players who have been in the keep recognize them to be [[Nightstone]] guards)
+
+===== 5. Fissure =====
+__An 8-foot-wide, 20-foot-deep fissure splits this very large tunnel which otherwise slowly declines into the earth due north as far as you can see.__
+It splits and winds ending in several collapses, showing no signs of occupation by anything living. There are occational piles of hand-sized to cannonball-sized, perfectly rounded stones that seem to have the consistency of finely ground mortar.
+
+**Developments**
+Eventually the players might hear a rumor of a [[Encounter:Stone Dragon's Lair]] . This tunnel is the way to it. The stone piles are his poop.
+
+===== 6. Underground Stream =====
+__An ankle-deep stream of water pours through a narrow tunnel in the west wall and forms a small pool in this otherwise empty cave. Tunnels exit to the west, east, and north.__
+There's a chance that a goblin non-combatant will stumble in this cave and discover the players. It flees to area 9 and warns the others there.
+
+===== 7. Natual Chimney =====
+__A natural chimney has formed in the 7-foot-high ceiling of this small side cave__ (5-foot wide, DC10 to climb w/o gear)
+__A single sharp-eyed goblin sentry stands guard at the bottom of the shaft.__ (Snigbat)
+If Snigbat notices the players, she offers them a deal.  Help Snigbat kill the ogres and the goblin leader, Boss Hark, so Snigbat can become the new boss, and she will release all the __"filthy humans"__ back to the party.
+
+===== 8. Hark's Hoard =====
+__A large round rock fills the low, 4-foot-diameter tunnel leading to this cave. The boulder fits snuggly in the tunnel and would need to be pushed into or pulled out of the cave to clear the passage.__
+DC11 check to move
+
+**Developments**
+If the players move the rock, it alerts all the creatures in area 9. Boss Hark sicks his 7 **giant rats** and 1 of his **goblin** concubines to deal with whoever is moving the rock.  
+The concubine calls for Hark who joins with his other concubine one round later. 
+
+**Once inside**
+__The cave has an 8-foot-high ceiling and contains a dirty grass pallet, next to which rests a battered wooden chest with a rusty lock.__ (The lock is purely for show and falls apart if handled roughly)
+
+**Loot**
+The chest contains
+  18gp of loose coins
+  a matching pair of silver salt and pepper shakers (25gp for the pair)
+  bloodstained leather case containing a set of thieve's tools
+  a holy symbol of Silvanus carved from wood and inlaid with gold (25gp)
+  [[:Item:Sanctified Bones]]
+
+===== 9. Boss Hark's Cave =====
+If the party surprises Hark
+__High-ceilinged cave with a large, finely crafted but old, and worn dining chair against the north wall. A fat old goblin sits in the chair, 2 femails goblins stand on either side of him.  The trio are taking delight in watching 7 giant rats devour a human man's corspe.__
+
+__Small alcoves to the west and north contain the villagers and guard's weapons, and a human female respectively.__
+9 spears, five longswords, 2 daggers, 6 steel-banded shields, and 6 long bows
+The female is Daphne Featherstone , [[:Lady Velrosa Nandar]] 's lady-in-waiting. She becomes sunken and reserved if she learns of her Lady's death.
+
+If the players present no immediate threat, [[:Boss Hark]] realizes his situation and tries to treat with the players.
+  He tells the players that __his people have recently been forced off their ancestral lands by the elves of the Ardeep forest, and they don't have much to each.  To make matters worse, a blob monster has been killing them when they go to the water cave to drink.__
+	DC10 Insight to realize he's lying about the elves.
+  He offers to release the villagers if the Party agrees to kill the __"blob monster"__ and pays 1gp per head (31gp), so __his family can eat__
+
+
+  
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-02T20:14:29-04:00
+
+====== Clarion and the 6 Dwarves ======
+Created Sunday 02 June 2019
+
+Party encounters [[:Clarion]] , an **adult silver dragon**, who swoops down out of the sky and releases 6 heavily armored dwarves (**veterans**) from her front claws.
+The dwarves immediately hail the players and lightly interrogate them about [[Encounter:Giants on the Road to Triboar]]
+The dwarves are looking for a particular magic item that was being carried in the caravan.
+  Remember the [[:Item:Sanctified Bones]] !!!
+
+If the dwarves see [[:Item:Shalamayne]] they demand it returned.
+[[:Tiffin Foehammer]] argues that her father wielded it and she decided it goes with the party. She damns the dwarves for "letting her parents die".
+After Tiffin's outburst, Clarion will try to convince the other dwarves to leave.

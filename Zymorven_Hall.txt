@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T08:35:53-04:00
+
+====== Zymorven Hall ======
+Created Monday 02 September 2019
+
+__Perched atop a crap overlooking the__ [[:Rauvin Road]] __with a clear view of the__ [[:Evermoors]] __to the south and the__ [[:Moonwood]] __to the north, is a keep of mortared stone with a high-pitched roof that has wooden statues of baying wolves rising from its peaks. A branch in the road winds up to the keep's gatehouse and bailey.__
+
+From the keep, the Zymorven family of [[:Silverymoon]] have watched over the surrounding lands for generations.
+
+The keep is currently lorded over by Lord [[:Harthos Zymorven]]
+
+The keep appears to have only a few guards and staff to defend it.
+Most of the halls and rooms are lined with suits of armor, swords mounted on oak panels, and tapestries. These are in fact, **animated armors**, **flying swords**, and **rugs of smothering**

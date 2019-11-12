@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-07T22:08:39-04:00
+
+====== Giant Bag of Holding ======
+Created Wednesday 07 August 2019
+
+Bag of Holding, but sized for a giant.
+A medium creature could wear it as a large backpack.
+It holds 5,000 pounds.
+
+[[..\Giant_Bag_of_Holding_1565230657851.png]]

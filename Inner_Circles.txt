@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-31T14:51:52-04:00
+
+====== Inner Circles ======
+Created Saturday 31 August 2019
+
+The [[:Harpers]] maintain a network of teleportation circles throughout major cities in Faerun.
+
+[[../harper teleportation network map.max.jpg]]
+
+On their first use of the circles, the party meets [[:Krowen Valharrow]]
+He is the resident arch mage who orchestrates and maintains the circles.
+He knows the giant castes are in upheival all around and he knows the upheival poses a grave threat to the civilized peoples of the north.
+He offers that if the party were to try and restore order among the giants, they may use his teleportation network.
+He gives them a parchment with the relevant circles and their sigils.
+
+===== Circle Locations =====
+
+==== Everlund ====
+This is the location where Krowen resides inside the [[:Moongleam Tower]] in [[:Everlund]]
+
+==== Loudwater ====
+Located in a 30-foot-square cellar underneath a tavern called the [[:Smiling Satyr]] in [[:Loudwater]]
+Stairs lead up to the inside of a closed trunk that opens to a coat room near the back entrance of the Smiling Satyr
+The proprieter, [[:Gharwin Umbryl]] is a Harper and monitors the circle entrance.
+
+==== Mirabar ====
+This circle is guarded by a shield dwarf mage disguised as a simple farmer in overalls and pitchfork.
+Its situated inside the city walls in a Stable that serves as a front for Harper operations in [[:Mirabar]] .
+
+==== Neverwinter ====
+This circle is drawn in the attic of a creaky old three-story rowhouse that the Harpers use as an intelligence hub in the city.
+Minding the circle is a confident byt socially awkward young woman named Sandyse Thuderquill.
+The Harpers are training her to infiltrate the [[:Arcane Brotherhood]] in [[:Neverwinter]]
+
+==== Waterdeep ====
+The [[:Waterdeep]] circle is located inside a raised crypt in Waterdeep's large, walled cemetary, the City of the Dead.
+The crypt has 2 levels. The name "Myrna" is inscribed above its entrance, which is sealed with an arcane lock spell.
+The topmost level is the crypt itself which contains a stone sarcophagus watched over by a shield guardian that is trained to lift the lid when someone speaks the name "Myrna" outloud. 
+The sarcophagus contains a stone staircase leading down to a brightly-lit room where a whisp of a woman, [[Thestryl Mellardin]] lives and studies.
+
+==== Yartar ====
+The [[:Yartar]] circle is a run-down, dillapidated villa in the heart of the city.
+A cantakorous old mage, [[:Kolbaz]] , dwells in the villa and casts a Hallucinatory Terrain spell on the villa every morning at high-sun.
+The spell creates an illusion that the iron-bar-walled villa looks as it did in its hay-day.
+In reality the villa is overgrown, and an overgrown patio area in the back conceals the teleportation circle.

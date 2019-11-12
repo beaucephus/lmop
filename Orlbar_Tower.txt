@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-04T22:28:03-04:00
+
+====== Orlbar Tower ======
+Created Thursday 04 July 2019
+
+This long abandoned wizard's tower was serving as a base for the [[:Zhentarim]] until recently when **stone giants** from [[:Deadstone Cleft]] attacked.
+
+It is in disrepair when the party finds it beging dismantled by giants and costs 1,000gp and 10 days to repair.

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T09:04:24-05:00
+
+====== Darathra Shendrel ======
+Created Tuesday 12 November 2019
+
+Darathra is the Lord Protector of Triboar and a secret agent of the [[:Harpers]] 
+Darathra has sworn an oath to defend Triboar, and she takes her duty very seriously.
+
+Darathra rides an unarmored warhorse "Buster" into battle.
+
+**Ideal** Good people should be given every chance to prosper, free of tyranny.
+**bond** I'll lay down my life to protect Triboar and its citizens.
+**flaw** I refuse to back down. Push me, and I'll push back.
+
+
+
+===== Quest =====
+Darathra doesn't have much contact with her fellow Harpers, but it strikes her as odd that fire giants could make it this far into the Dessarin Valley without her receiving some kind of warning.
+She wants to make sure the Harpers are aware of the giant threat and the gravity of the situation.
+
+Se gives the characters a platinum badge (50gp) bearing an insignia of three wild boars charging forward, and uges the party to __travel east along the :Evermoor Way to :Everlund .__
+__Once in Everlund, locate __[[:Dral Thelev]]__ . Show him the badge and explain the situation in Triboar. He'll reward you handsomely for your trouble.__
+
+Run [[:Encounter:Everlund Teleportation Network Introduction]] if the party finds Dral and follows Darathra's instructions.

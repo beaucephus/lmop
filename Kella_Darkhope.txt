@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-30T17:31:57-04:00
+
+====== Kella Darkhope ======
+Created Thursday 30 May 2019
+
+Kella is a blonde human female with sharp facial features underneath her plain brown travelling cloak.
+
+Kella is a [[Zhentarim]] **spy** sent to [[Nightstone]] in the guise of a travelling monk.
+
+**Motivation**
+Kella is waiting in Nightstone for her Zent allies to arrive. She intends to take over the village and turn it into a [[Black Network]] base.

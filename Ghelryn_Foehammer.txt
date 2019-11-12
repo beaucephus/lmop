@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-10T12:09:41-04:00
+
+====== Ghelryn Foehammer ======
+Created Saturday 10 August 2019
+
+Ghelryn hates giants and orcs almost to the point of madness.
+Otherwise he is a good and wise old dwarf blacksmith.
+
+**ideal** It is incumbent upon every dwarf to protect his family and property.
+**bond** I love my dear niece [[:Tiffin Foehammer]]
+**flaw** I get worked up into a temper-filled fury when it comes to orcs or giants.

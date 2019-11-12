@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-25T09:37:31-04:00
+
+====== Goblin Ambush ======
+Created Saturday 25 May 2019
+@encounter
+
+4 [[:Forked Ear Goblins]] ambush the party on the way to [[::Nightstone|Nightstone]]
+2 use shortbows from 40ft in the forest, full cover except when they shoot,
+2 rush into melee with scimitars.
+If the melee goblins are killed, the archers flee.
+
+AC 15
+HP 7
++6 to hit
++2 damage
+shortbow
+scimitar
+

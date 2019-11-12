@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T08:52:13-04:00
+
+====== Seven Snakes arrive at Nightstone ======
+Created Friday 31 May 2019
+
+The "Seven Snakes" Seven [[:Zhentarim]] mercenaries arrive at the village on horseback.
+Led by [[:Xolkin Alassandar]] (LE male half-elf **bandit captain)**
+6 others are common **bandits**
+
+If the drawbridge is lowered, they ride into the square and call out for __"Kella"__ [[:Kella Darkhope]]
+If the drawbridge is raised, they __shout from the road for someone to lower the bridge__.
+If Kella is still alive, she tries to let them in.
+
+The Seven Snakes are on a mission with Kella to convert [[Nightstone]] into a zent base of operations on the [[:Black Network]]
+
+If Kella is a prisoner, Xolkin tries to buy her freedom with his coin purse. If that fails, he attempts to liberate her by force.
+If Kella is in the parties good graces, she reveals her allegiance to the [[:Zhentarim]] as soon as the Seven Snakes are close enough to protect her.
+Regardless, Kella attempts to convince any neutral or evil PCs to join her and the Zhentarim and help her secure [[Nightstone]] as a [[:Black Network]] base.
+  If the party agrees she asks them to prove their conviction by murdering the remaining guards in the keep. (She has caught glimpses of guards still alive in the keep)
+
+If the characters do nothing to oppose the Seven Snakes, Xolkin orders his men to raise the drawbridge and sends a message to the [[:Snail]] either by flying snake or two of his men.
+The Seven Snakes are not openly hostile to the players unless they've killed Kella or try to oppose Xolkin
+
+If the players are with the guards, then the guards plead with the characters to rid Nightstone of the bandit occupation.
+
+**Loot**
+Xolkin wears studded leather armor and carries a scimitar and several daggers. 
+He also wears an obsidian ring emblazoned with the symbol of a black winged serpent (25gp) DC10 history to recognize the symbol of the Zhentarim
+He has a coin purse containing 53gp of coins, 2 gemstones (100gp each), and a [[:Item:Potion of Invulnerability]]
+
+The other Seven Snakes members wear leather armor and carry a scimitar and a light crossbow
+They carry 2d10gp each
+
+
+
+
+
+
+

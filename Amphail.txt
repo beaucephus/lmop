@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-05T11:17:10-04:00
+
+====== Amphail ======
+Created Friday 05 July 2019
+
+A town north of [[:Waterdeep]] on the [[:Long Road]]
+**History.** The town is named after one of Waterdeep's early warlords, who is said to haunt the surrounding hills in spirit form, frightening away monsters.
+
+Horses are trained and bred here, several Waterdhavian noble houses keep estates here.
+In the center of the town square stands the Great Shalarn, a black stone statue of a famous war stallion bred in Amphail long ago.
+It's covered in grafitti and a few children are playing rider on it.
+
+The local tavern is the Stag-Horned Flagon, run by a gray-haired, middle-aged woman with a wry sense of humor named Arleosa Starhenge.
+
+Amphail is the last town patrolled by Waterdeep's city guard and a small barracks stands here.
+
+Run [[:Encounter:Roaringhorn's Birthday Feast]] the first time the party gets here.

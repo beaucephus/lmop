@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-04T22:25:38-04:00
+
+====== Stone Giants at Orlbar Tower ======
+Created Thursday 04 July 2019
+
+[[:Orlbar Tower]]
+
+6 **stone giants** are dismantling this tower stone by stone.
+
+If losing, the giants flee east along the [[:Loagrann River]] to their base in [[:Deadstone Cleft]]

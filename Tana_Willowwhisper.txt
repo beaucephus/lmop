@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-30T17:52:52-04:00
+
+====== Tana Willowwhisper ======
+Created Thursday 30 May 2019
+
+Tana Willowwhisper , or “Nana Tana” as she is affectionately referred to in the towns she visits, is a grandmotherly potions peddler who makes a living selling her wares to the settlements along the edge of the savage frontier. She suffers from a skin condition that runs in the women in her family, causing white scaley growths to appear over her arms and back. For this reason, she keeps her arms wrapped in bandages. She has lived a hard life and has never had much coin. Her parents were devoured by a hill giant that attacked their wagon, buying Tana and her twin sister, [[Frana Willowwhisper]], time to escape. Frana herself disappeared one night many decades ago without a word, leaving Tana alone in the world. She is a bit of a folk hero, not for any one deed, but rather for the many tales of her potions bringing back those who seemed beyond help. She is especially loved by the common folk for providing care to those without coin in desperate need for little or no cost. She possesses some small skill in magic that she uses to protect herself when the need arises, but does not know where it comes from.  
+
+Notes for the DM: 
+*The scales on Tana’s body and her magic ability are actually markings of her family’s draconic bloodline. Many generations ago, a powerful and evil sorceress made a pact with an ancient white dragon. Ever since, the blood of this dragon has flowed through the veins of the female descendants of that sorceress, granting them magical powers. 
+
+* I deliberately left the fate of Tana’s disappeared twin sister vague, figuring this could be an interesting plot point should you choose to weave it into the story. No worries if it never comes up
+
+
+===== Tana's Potion Making =====
+**Recipes known**
+Potion of Healing
+Antitoxin
+Potion of Phallic Enlargement
+
+**Potion of Healing Crafting**
+Healing			1day	25gp
+Greater Healing	1week	100gp
+Superior Healing	3weeks	1,000gp
+Supreme Healing	4weeks	10,000gp
+
+**General Potion Crafting **(already halved since consumable)
+Common	3days	25gp
+Uncommon	1week	100gp
+Rare		5weeks	1,000gp
+Very Rare	12weeks	10,000gp
+Legendary	15weeks	50,000gp
+
+
+[[..\Item\potions.jpg]]
+https://www.dandwiki.com/wiki/5e_Potions

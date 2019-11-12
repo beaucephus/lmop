@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-01T15:26:03-04:00
+
+====== Noanar's Hold ======
+Created Sunday 01 September 2019
+
+**History**
+This village on the edge of the [[:High Forest]] grew up around a famous hunting lodge built over 200 years ago.
+In its heyday, Noanar's Hold hosted wild hunts that attracted the wealthiest nobles and merchants of the North.
+Over 100 years ago, dark rumors abounded of the hunt lords who ruled Noanar's Hold arranging wanton slaughters to amuse their guests and even allowing their guests to hunt one another.
+The place was shunned and the village fell on hard times.
+
+The rumors were true.
+About a century and a half ago, to escape their inevitable deaths, the hunt lords forged a pact with Orcus, who turned them into 5 **wights**.
+Necromancers in the demon lord's service turned their horses into **warhorse skeletons**
+
+Every night after sunset, the huntlords set out from Noanar's Hold and patrol the nearby lands looking for worthy prey to hunt.
+They don't harm the local villagers, and the villagers are aware of their undead masters.
+
+The once-famous hunting lodge, the White Heart Inn, stands tall amid low stone cottages and stables.
+The creaky building is well maitained on the inside, __offering a bit of grandeur in an otherwise rustic setting.__
+The Inn is run by a delusional man named Avgar Filroy.
+  He speaks of the huntlords as if they were still alive and advises guests to stay indoors at night.
+  __The huntlords are retired and do not wish to be disturbed__
+
+[[:Encounter:Harness Delivery to Noanar's Hold]]
+

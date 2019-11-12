@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-05T12:19:42-04:00
+
+====== Rassalantar ======
+Created Friday 05 July 2019
+
+__A quiet village well known for its soft beds and rich ale.__
+__A few walled farms and grazing sheep around the town.__
+__A ruined keep hidden among the stand of trees west of the village.__
+
+[[:Waterdeep]] keeps a __large contingent of city guards here__ using a __nearby barracks__ as a headquarters for __patrols up and down__ the [[:Long Road]] to [[:Amphail]] and [[:Waterdeep]]
+
+[[Yondral Horn]] runs the local Inn, The [[:Sleeping Dragon]]
+  Yondral is on the [[:Black Network]] 's payroll and has heard of the party.
+  He runs the only inn in town and has fine rooms which are expensive (25gp per night per person). They have thin walls and Yondral attempts to spy on the players.
+  He might offer the rooms freely if the party agrees to investigate the ruined keep.  __Several villagers have complained about glowing lights and strange noises coming from the ruins.__
+
+Rassalanter's keep has largely been robbed of its stone to build other structures in the village, and its cellars and dungeons are waterlogged.
+A hidden chamber in the dungeon holds a permanent teleportation circle inscribed with an intricate and complicated sigil and a large mound of dirt.
+	A player could copy the sigil on the circle for later use.
+
+The teleportation circle is used by the Blackstaff (Waterdeep's hightest-ranking wizard) to send messages and aid to Rassalantar
+
+The dirt mound is protected by a Glyph of Warding(Confusion DC20)
+The dirt mound hides a __5ft-diameter fine crystal jar with corked lid which contains what appears to be a human fetus floating in a translucent liquid.__  It's Blackstaff's clone.
+	The jar is worth 2000gp
+
+
+Destroyed TP circle locations
+1. Castle with guards
+2. Magic workshop
+3. opulent bedroom
+4. everlund barn
+5. mountain monastary
+6. blackstaff's clone room
+

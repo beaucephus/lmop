@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-07T22:02:45-04:00
+
+====== Rod of the Vonindod ======
+Created Wednesday 07 August 2019
+
+Rod, rare (requires attunement)
+
+__This 4 foot long adamantine rod wieghs over 100 pounds. The rod has two prongs at one end and a molded handle grip on the opposite end.__
+
+The rod has 10 charges and regains 1d6 + 4 of its expended charges daily at dawn.
+As an action, you can grasp the rod by the handle and expend 1 charge to cast the Locate Object spell from it.
+When the rod is used to detect objects made of adamantine, such as fragments of the [[:Vonindod]] , its range increases to 10 miles.

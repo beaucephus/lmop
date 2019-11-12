@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-10T11:04:07-04:00
+
+====== Darz Helgar ======
+Created Saturday 10 August 2019
+
+Darz works in the main campgrounds in [[:Triboar]]
+He is employed by [[:Darathra Shendrel]] to keep the campground clean and welcome newcomers.
+
+Darz has a shady past.
+He was a member of the [[:Xanathar Thieves' Guild]] in [[:Waterdeep]]
+He was caught and imprisoned for 10 years. After his release, he vowed an oath against thievery and moved to Triboar to start a new life.
+
+**Ideal:** You can run from your past, but you can't hide from it.
+**Bond** I've made a new life in Triboar. I'm not gonna run away this time.
+**Flaw** I have no regrets. I do whatever it takes to survivie.
+
+===== Quest =====
+Darz relates to the characters that he was recently visited by an old acqaintance, a merchant from [[:Mirabar]] , with an interesting tale to tell.
+The merchant saw a dwarf cleaning stables in [[:Xantharl's Keep]] , a fortified village on the [[:Long Road]] , and later recognized him from a wanted poster he saw while traveling south through [[:Longsaddle]] .
+The merchant is sure the dwarf he saw is a wanted brigand known as the Weevil.
+According to the poster, he's worth 5000gp if delivered alive to the authorities in Mirabar.
+Darz would have gone to collect the bounty in his younger years, but now he's got too much to take care of here in Triboar.
+
+Run [[:Encounter:Attack on Xantharl's Keep]] if the players go after the Weevil.
+

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T08:59:33-05:00
+
+====== Open Lord of Waterdeep ======
+Created Tuesday 12 November 2019
+
+Public face of [[:Waterdeep]] 's ruling body, the [[:Masked Lords of Waterdeep]]
+
+Current Open Lord is [[:Lady Laeral Silverhand]]

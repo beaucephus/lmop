@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-02T08:54:50-04:00
+
+====== Ground Rules ======
+Created Sunday 02 June 2019
+
+**Start** **Creating characters**
+**Setting: **
+  Savage North in the Forgotten Realms setting but not 100% accurate to all the written lore.  Think of it like Tyler's version of the Forgotten Realms.
+  Worldmap and adventure background pinned in discord.
+  If you like, pick a location for your character to be from.
+  High Fantasy, magic is common.
+  All the good-aligned races are common and won't experience much prejudice.  Typically evil-aligned races might be unwelcome depending on the location (half-orc,drow,duergar)
+  Questions about setting?
+**How do we want to play dnd?**
+  I know this is a module, but still feel free to use all your creativity when adventuring.  Feel free to explore side quests or other areas of the map. Don't worry about staying on the rails. There will be some sessions that feel very rail-roady esp at the start, but I want to play this more like a sandbox game with an overarching plotline.
+  Probably theater of the mind combat, not grid, but we'll see. Flanking
+  Anything published by Wizards of the Coast is fair game (except racial flying). If you wanna play something homebrew, just let me know so I can check the balance and we'll make it work.
+  Difficulty (combat, puzzles, plot)
+	PC death
+  Explicit themes and descriptions (violence, gore, murder, torture). I typically on censor sexual crimes (rape)
+  Evil PCs
+	PvP comat is ok
+	Need to have a really good motivation to adventure with the party, better than "I'm just in it for the money"
+  Spell components
+  I encourage players to come up with their own vocal components for spells and say them when casting!
+  encounter percentages combat/dungeoneering/social
+  I am still learning how to roll-play lots of characters.  Please bare with me. Roll-play scenarios may feel a bit off.
+  I don't usually do crit fumbles for attacks, but will try to remember to use them for this group.
+  Crit fail/success on skill checks doesn't mean you'll fail the check. 1 means something negative happens, 20 means something positive happens regardless of the check.
+  Leveling up, milestone based leveling, will be effected by participation. If you miss a session you might be a bit slower to level.
+  Leveling benefits happen after you complete a long rest.
+  Questions about game mechanics or play style?
+Character hook to be traveling to nightstone.
+  Add characters to [[Party]]
+  You've received a leter from your friend [[Morak Ur'gray]] in [[Nightstone]] .

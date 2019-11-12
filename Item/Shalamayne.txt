@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T09:01:52-05:00
+
+====== Shalamayne ======
+Created Tuesday 12 November 2019
+
+
+__This thick and heavy dwarven blade has a small hole worked into he middle of the blade near the crossguard.__
+If an attuned creature grasps the handle, a small red flame erupts in the hole, emitting dim light in a 10-foot-radius. Creatures in this light cannot be frightened. 
+
+requires attunement
+
+[[..\Shalamayne_1565225917421.png]]
+
+(Whoever gets the sword, do something later to cause her to make a decision, have the sword split)

@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-10T11:54:53-04:00
+
+====== Urgala Meltimer ======
+Created Saturday 10 August 2019
+
+A retired adventurer, Urgala owns a respectable inn, the Northshield House, and she doesn't want to see it or her neighbors' homes destroyed. She has no tolerance for monsters or bullies.
+
+**ideal** We live in a violent world, and sometimes violence is necessary for survival.
+**bond** My home is my life. Threaten it, and I'll hurt you.
+**flaw** I know how treacherous and greedy adventurers can be. I don't trust them.
+
+
+===== Quest =====
+In the aftermath after the battle, Urgala relates to the characters that one of her former adventuring companions, a wealthy knight named [[:Harthos Zymorven]] , had an [[:Item:Giant Slayer Great Axe]] .
+The last time she spoke with him, he was living in [[:Zymorven Hall]] , the families keep on the [[:Rauvin Road]] northwest of [[:Silverymoon]]
+Urgala thinks Harthos might be willing to part with the weapon with a suggestion from her.
+She writes 2 letters to Harthos and asks the party to deliver them. One of them is a letter commendint the party and request Harthos help them.
+
+Run [[:Encounter:Deliver Urgala's Letter to Harthos]]

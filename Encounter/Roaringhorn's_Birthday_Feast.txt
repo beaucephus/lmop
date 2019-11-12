@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T08:59:10-05:00
+
+====== Roaringhorn's Birthday Feast ======
+Created Tuesday 12 November 2019
+
+It's Tylandar Roaringhorn's 63rd birthday and the noble is throwing an outdoor banquest complete with the finest food and ale from [[:Waterdeep]]
+
+If the characters stick around for the banquet, run [[:Encounter:Giants on the Road to Triboar]] at this location.
+
+If the players take care of the giants, Lord Roaringhorn is grateful and offers the party a favor whenever needed. He suggest as example an audience with one of the noble families of Waterdeep or the [[:Open Lord of Waterdeep|Open Lord of Waterdeep]] herself.

@@ -1,0 +1,63 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T09:03:11-05:00
+
+====== Triboar ======
+Created Friday 12 July 2019
+
+
+__The bustling mercantile town of Triboar stands where the __[[:Long Road]]__ meets the __[[:Evermoor Way|Evermoor Way]]__. Triboar's name is thought to have come from a traveler's tale of slaying three boars here in the same day, over four hundred winters ago. The town is built on flat, fertile land, with a few natural rises here and there. Nearly half of Triboar's population lives outside the town proper, on sprawling ranches and neighboring farmsteads, most of which lie to the north or east.__
+
+**history. **__Thousands of years ago, giants and dragons fought a great battle here, during which the giants unleashed an enormous dragon-slaying construct called the__ [[Vonindod]] . Part of the construct broke off and is buried deep in the earth underneath the 2. North Caravan Campground.
+
+The current lord protector of Triboar is a good-natured Harper and ex-adventurer named [[:Darathra Shendrel]] .
+Darathra keeps a squad of a dozen mounted warriors, hand-drawn from the local militia, known as the "Twelve".
+	The Twelve enforce local ordinances issued by Darathra.
+
+
+===== 1. Market Square and Tower =====
+__The center of Triboar, where the Long Road meets the Evermoor Way, is a huge open space used as a market by local famers and visiting peddlers. Dominating the space is the two-story tower of the lord protector, a simple stone keep that leans decidely to the east. Hanging above the entrance is the dusty banner of the lord protector, which depicts three black boars running toward the head of the banner on a blood-red field.__
+
+Darathra Shendrel's office is in the tower
+She can muster 50 militia in the night, and 300 by noon, the next day.
+She attempts to draft mercenaries and adventerurs to help defend the town.
+
+===== 2. North Caravan Campground =====
+__Many travelling caravans are using this fenced-in field as a place to park their wagons and contain their oxen.__ It's free and there's plenty of room.
+__A couple weary travelers are drawing water from a stone well in the southeast corner of the yard__.
+__A cottage stands in the east corner of the lot.__ [[:Darz Helgar]] approaches from the cottage and greets any newcomers that enter the campground.
+
+===== 6. The Lionshield Coster =====
+__This building appears newly refurbished. Above the entrance hangs a polished shield emblazoned with the head of a stylized golden lion on a blue background.__
+
+The Lionshield Coster is not well-liked in Triboar. Triboar and [[:Yartar]] are trading rivals.
+Few locals visit. The store caters to caravas and out-of-towners.
+The store is run by a pair of business partners [[:Narth Tezrin]] and [[:Alaestra Ulgar]]
+Narth was to become more than just "business" partners, and will do anything to impress Aleastra.
+There are stairs in the back which lead up to their living quarters where they keep their wealth.
+
+**Loot**
+A closet-sized vault on on the second floor behind secret door (DC 15 to spot) contains an empty [[:Item:Heward's Handy Haversack]] and a locked (DC 20) iron strongbox contains 265gp and a gray [[:Item:Bag of Tricks]]
+Aleastra and Narth each carries a key to the strongbox.
+
+===== 10. Northshield House =====
+__This inn appears stately, clean, and quiet.__
+The proprietor, [[:Urgala Meltimer]] is a retired adventurer. She warns armed guests to keep their words civil and their weapons sheathed.
+Urgala has 3 **mastiffs** that sleep in the ground floor common room, and she employs a staff of 6 loyal, well-payed **commoners**.
+
+===== 11. Othovir's Harness Shop =====
+A skilled harness-maker [[:Othovir]] lives and works here. He __makes the finest elk-skin harnesses in the Dessarin Valley.__
+Othovir hunts the elk, keeps their skins, and sells the rest to the Lionshield Coster.
+
+===== 18. Foehammer's Forge =====
+[[:Ghelryn Foehammer]] is getting old and looking for a skilled apprentice.
+Ghelryn's work is legendary in this area, and he holds the title "Royal Armorer of Felbar" because he crafts much of the ceremonial armor for [[:Citadel Felbarr]] royal family.
+
+
+
+
+
+
+
+
+

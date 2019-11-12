@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T08:07:48-04:00
+
+====== Giant Slayer Great Axe ======
+Created Monday 02 September 2019
+
+Giant Slayer
+Weapon (any axe or sword)
+
+When you hit a giant with it, the giant takes an extra 2d6 damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and Trolls. 
+
+[[../Giant_Slayer_Greataxe_1567426224394.png]]

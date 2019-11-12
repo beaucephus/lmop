@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-01T15:22:38-04:00
+
+====== Harness Delivery to Noanar's Hold ======
+Created Sunday 01 September 2019
+
+This encounter takes place in [[:Noanar's Hold]]
+
+===== In the hold =====
+The "hold" at Noanar's hold is nestled among old pine trees on a hilltop overlooking the sleepy village.
+It sports 3 turrets, 1 of which has completely collapsed and gapes openly to the sky.
+All the windows are bricked up, and the doors are either bricked up, or barred from the inside. (DC27 athletics to break open a barred door)
+
+
+Its current occupant, [[:Amrath Mulnobar]] is an old half-dwarven servant of the huntlords.
+He doesn't open the door unless the characters are delivering saddles.
+Amrath allows the characters to place the saddles in the entrance foyer and quickly ushers them to leave.
+
+The hunt lords lurk in a dusty ground-floor banquet hall, slumped in chairs around a cobweb-draped dining table.
+They spend their days reminiscing about the "good old times" and attack any creature other than Amrath that disturbs them.
+Behind their chairs are piles of horse bones that can be summoned into **warhorse skeletons**
+
+**Loot**
+A locked treasure chest at the back of the banquet hall contains what wealth the hunt lords have amassed. (DC20 thieves tools, DC30 strenght)
+  600gp in coinage in a strangely beige colored leather sack.
+  A smaller sack of similar make contains 6 blue sapphires (50gp each)
+  [[:Item:Talon]]
+  [[:Item:Alabaster Figurine of Find Familiar (Hunting Dog)]]
+  [[:Item:Deadeye]]
+
+
+Run [[:Encounter:Neverwinter Brothers Inheritance]] if the party doesn't explore the hold and/or encounter the wights.

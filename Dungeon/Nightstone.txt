@@ -1,0 +1,301 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-25T09:06:25-04:00
+
+[[Nightstone]]
+Created Saturday 25 May 2019
+@dungeon
+
+Nightstone is a motte-and-bailey fortification built on the [[:Ardeep River]]
+
+''After following the road for a few more miles, you hear the ringing of a bell. The sound grows louder as Nightstone comes into view. A river flows around the settlement forming a moat. The village itself is contained within a wooden palisade, inside of which you see the tops of a windmill, a tall steeple, and the high-pitched rooftops of several other buildings. Apart from the ringing of the bell, you detect no other activity in the village. The trail ends before a lowered draw-bridge that spans the moat on the western side of the village. Beyond the drawbridge, two stone watchtowers flank an open gap in the palisade.''
+''South of the village and also surrounded by the river moat is a cone-shaped, flat-topped hill on which stands a stone keep enclosed by a wooden wall. The keep, which overlooks the village, has partially collapsed. A wooden bridge that once connected the keep to the village has also partially collapsed.''
+
+Paste the nightstone side view in discord.
+
+===== General Features =====
+**Bailey**
+15-foot high wooden palisade of sharpened logs and pitch.  Can't be climbed without tools or magic.
+**Moat**
+15 feet deep
+30 feet wide
+Schools of trout
+**Motte**
+DC 20 athletics to climb the motte's slope w/o tools or magic
+Keep and palisade can't be climbed w/o tools or magic
+**Rocks**
+Giant boulders, 3ft in diameter, 500lbs each punching holes through rooftops, embedded several feet in the earth, lying among shattered wreckage of stone and wood constructions
+Evidence of dead villagers in the rubble
+**Goblins**
+Goblins attempt to flee to the temple (area 5) if injured
+
+===== 1. Drawbridge =====
+The drawbridge is lowered.
+20ft long, 10ft wide made of sturdy oak planks.
+Iron chains bolted to the drawbridge connect to winch mechanisms in the nearby watchtowers
+
+**Footprints**
+PP15 to notice several sets of humanoid tracks in the grass and dirt.
+They lead north.
+Smaller humanoid tracks come from the north and lead into the village along with 2 sets of unusually large 4-legged paw tracks headed in the same direction.
+
+**Developments**
+Once inside, read 2 and 3.
+
+===== 2. Watchtowers =====
+''7 stone watchtowers stand equidistant from each other along the village perimeter.''
+
+Each tower is 20ft tall
+Unlocked wooden door to the inside
+
+**Inside**
+Wooden ladder that leads to unlocked trap doors in the roof.
+
+==== 2A. West Towers ====
+Two watchtowers flank the entrance to the village, forming a gatehouse of sorts.
+
+**Inside**
+Winches to operate the drawbridge
+They must be operated together and raise 30 degrees per round.
+
+==== 2B. Northwest Tower ====
+Chicken Coop with eggs
+
+==== 2C. Northeast Tower ====
+Two pigs
+
+==== 2D. East Tower ====
+The door is ajar, and a greedy [[:Forked Ear Goblins]] named Gwerk lurks within.
+She immediately understands her situation and uses the locket to bargain for her life.  She runs to the temple
+
+Gwerk has [[:Item:Taela Summerhawk's Locket]]
+
+==== 2E. Southeast Tower ====
+The door is ajar.
+Unless they are drawn by nearby combat, 2 goblins, Larv and Snokk are in the tower searching for treasure.
+
+**Loot**
+Larv carries a sack filled with stolen wooden utensils and 3 vials of perfume (5gp each)
+Snok's bag contains a stuffed blood hawk and a battered copper flagon (1gp)
+
+==== 2F. Southwest Tower ====
+Rock fell through the roof and collapsed half the tower with it.
+
+===== 3. Square =====
+''A central lane opens up to the village square which is a large, open, muddy area marked by a covered well, empty carts, and a few tethering posts. Centered in the middle of the square is a 5ft cuboid hole. From the square you clearly see 2 marked buildings, The Squaking Squirrel, and the Lionshield Coster, among a host of other unmarked buildings. Behind one of the unmarked buildings, you see a grave-yard, around others, farms. To the south of the village, you see a tall windmill and the broken bridge spanning the moat up to the keep. Scattered all about the village are huge 500lb boulders and the wreckage wrought by their impacts. The impact craters and rubble make it seem as if the boulders had come from directly overhead.''
+
+2 worgs slaughtered a dog and are feasting on its remains in the northeast corner of the village square.
+They attack any character that enters the square, they flee out the west gate and to the north.
+If the bell has been silenced, and combat errupts here, the goblins in 4c and 9 investigate. They stay on the fringes of battle and attack with arrows.
+
+===== 4. Residences =====
+8 in total, 2 small rooms (kitchen,bedroom)
+
+==== 4A. Delfryndel Residence ====
+__Looted by goblins__
+
+==== 4B. Osstra Farm ====
+__Utterly destroyed by boulders and ransacking goblins.__ __Boulder crashed through the kitchen and 2 out in the wheat field beside it. Looted by goblins.__
+
+==== 4C. Southwell Farm ====
+__Boulder crushed female in plain clothes__ ( [[:Semile Southwell]] )
+__The back door is ajar and opens to a muddy fenced-in yard containing wooden feeding troughs and a chicken coop.__
+Unless drawn elsewhere, 2 goblins named Pojo and Tot are chasing a pair of chickens in the yard.
+
+**Loot**
+Pojo wears a gold ring that he pulled from Semile's dead hand. 25gp
+Tot has a sack of 3 live chickens.
+
+==== 4D. Hulvaarn Farm ====
+Looted and It's clear these people were human farmers and their cottage backs onto a fenced-in potato and turnip garden.
+A crushed human corpse is visible underneath a boulder in the garden.
+
+==== 4E. Summerhawk Residence ====
+__Spatter of dried blood underneath a boulder just outside the front door.__
+__Carelessly looted by goblins__
+__Seems to be the residence of a halfling family.  It like as though they may have been apothecaries by the collection of herbs, flowers, and other medicinal flora growing in the garden outside.__
+
+**Loot**
+DC10 to find a loose floorboard. Underneath is a Potion of Healing, a vial of antitoxin, and a puch containing 15gp.
+
+==== 4F. Agganor Residence ====
+__Cottage with locked shutters over the windows and locked door.__
+__The sturdy iron-hinged door is adorned with row upon row of ornate runes burned into it.__
+  Infernal: "Let all who enter this home without the consent of its owner burn for ninety-nine years in the depths of Nessus and freeze for a thousand more in the icy wastes of Cania."
+__The door shows some signs of attempted entry by brute force.__
+
+DC15 to open with tools, 20 to force open.
+
+**Loot**
+Unlocked wooden chest containing a golden holy symbol of Asmodeus (75gp), a healer's kit, and a Potion of Healing
+
+==== 4G. Nesper Farm ====
+__Looted__. 2 goblins playing blind tag with hollowed out pumpkins on their heads in the farm. They are effectively blind.
+If fighting erupts, the goblins in 2e come to investigate.
+
+**Loot**
+Sack of loot containing 1gp of coins, a tinderbox, a smoking pipe, a stuffed teddy bear, and a boxed set of lewdly decorated playing cards (1GP)
+
+==== 4H. Xelbrin Residence ====
+__Roof is collapsed and 2 elderly human corpses in the rubble. Seems to be not-yet-looted by the goblins.__
+[[:Rillix]] , their pet tressym (cat with wings) lurks amid the wreckage.  He flutters out of the shadows and flies off to find another hiding place.
+
+**Loot**
+2 Wax seals (DC10 history to discern it is the Nandar seal), 2 jars of ink (5gp each), 10 blank scrolls, quill pens,
+land deeds, tax records, and a money pounch containing 34gp of coins
+
+===== 5. Temple =====
+Stained glass windows and other iconogrophy depict images og birth, the dawning sun, trees, and unicorns.
+  Characters recognize the iconogrophy. Temple dedicated to Lathandar (god of the dawn) and Mielikki (goddess of forests)
+The front door is swung wide open and the steeple bell is ringing incessantly.
+
+==== 5A. Temple and Pulpit ====
+Sunlight or moonlight pours into this high-vaulted chamber through 4 stained-glass windows.
+Beneath the windows are plain wooden benches.
+The room is monstly empty with a plain, dirt floor.
+Standing against the back wall is a wooden pulpit, behind it an open door.
+
+==== 5B. Bedroom and Steeple ====
+This backroom contains a plain wooden bead (belongs to [[:Hiral Mystrum]] the village's acolyte of Lathandar)
+The mattress has been torn open and lumps of straw are strewn about the room.
+Priestly vestments and personal effects lie haphazardly.
+A long rope in the corner descends from the steeple into the room and 2 goblins are currently bouncing up and down on it.
+
+**Loot**
+There are 2 sacks lying on the wooden-planked floor.
+Between the 2 of them there are 3 blocks of incense (5gp each), a silver holy symbol of Mielikki shaped like a unicorn's head (25gp), 1 vial of clear liquid, and an unlocked wooden "poor box" containing 2gp worth of coins
+
+===== 6. Graveyards =====
+__Narrow footpaths meander among the graves, most of which are marked with granite headstones. A few of the headstones have been crushed under boulders.__
+__In the northeast corner stands an aboveground crypt with the name "Nandar" engraved over its sealed entrance.__
+DC11 to open the door with a tool, 21 with no tool
+Stone bier, wooden coffin, skeletal remains, tattered burial shroud, and [[:Item:Alabaster Figurine of Find Familiar (Hunting Dog)]]  
+
+**Developments**
+If anything inside the coffin is removed from the crypt, a specter of [[:Lord Drezlin Nandar]] appears and attacks.
+The specter can't leave the graveyard and disappears when killed or has no enemies to attack.
+
+===== 7. Stable House =====
+
+==== 7A. Barn ====
+__Dirt floor and 10 stables. 5 draft horses and 5 riding horses are confined to the stables lining the walls.  They seem uneasy.  Hanging on the walls are bits, bridles, and leather saddles.  Two wooden ladders allow easy access to the hayloft__.
+Characters entering the bard trigger the goblin in the haylofto attack.
+
+==== 7B. Hayloft ====
+__haystacks and sacks of oats__. A goblin named Derp is playing in the hay. Derp peeks out from behind the hay to shoot his bow, then hides for full cover.
+
+**Loot**
+Sack containing a wooden box engraved with the [[:Lionshield Coster]] symbol. 10 silvered darts inside. (2gp each)
+
+===== 8. Sqwuaking Squirrel =====
+__An ornate wrought-iron sign bearing the inn's name hangs above the entrance, facing the town square.__
+
+==== 8A. Dining Room ====
+__This room is strewn with the wreckage of a particularly destructive boulder that crashed in from the room above, bringing pieces of the room's furniture with it and leaving a gaping hole to the upper floor. __
+__Lying on the floor of the room is a dead goblin with a crossbow bolt sticking through its neck and a slowly growing pool of blood underneath it.__
+Players in this room __hear sounds of rummaging coming from the kitchen.__
+
+DC10 medicine check to determine the goblin's wound is fresh, only a few minutes old.
+Roll stealth for [[:Kella Darkhope]] upstairs.
+
+==== 8B. Kitchen and Pantry ====
+__The floor is covered with broken dishware and scattered utensils. More wreckage from falling boulders lies in the Northwest wall.__
+A fat goblin name Gum-gum is searching through the pantry stuffing her already brimming sack with food items.
+
+Gum-gum tries to flee with her bag. 20ft speed while carrying the bag.
+
+**Loot**
+several muffins, a block of cheese, a frying pan, 2 flasks of lantern oil, cook's tools, cloves, saffron (1gp), a dented silver jug (20gp), and a cracked copper and glass hourglass (25gp if repaired)
+
+==== 8C. Morak's Bedroom ====
+__Most of the funishings and some of the floor in this room are destroyed, with a several gaping holes in the floor. Hanging on the far wall is a tapestry depicting a mountainous landscape, and tucked underneath the tapestry is a wooden chest__ (locked).
+
+The floor is not safe. Any character who tries to enter the room triggers a full floor collapse. DC16 to avoid falling.
+
+**Loot**
+Chest is steel banded, and has a tricky lock. DC19 thieve's tools to open, DC 22 to smash open. AC 22 10HP.
+  dwarven chain mail and helm, leather bag containing 45gp, 2 diamonds (100gp each), and a potion ( [[:Item:Potion of Heroism]] )
+
+==== 8F. Kella's Bedroom ====
+[[:Kella Darkhope]] and a **flying snake** attempt to hide from the players in this room. The flying snake curls itself around Kella's forearm.
+If discovered, Kella pretends to be a guest who was knocked unconscious by falling debris. (She shows no signs of physical injury)
+She claims that she was planning to escape until the goblins arrived and started looting.
+DC 18 history check to recognize the flying snake as a symbol of the [[:Zhentarim]]
+
+**Loot**
+**spy** weapons and armor, a small piece of rolled parchment with the words "On our way.", and a pouch containing 9gp of mostly gold and some silver coins
+
+**Developments**
+If they players don't find her, she hides until the [[:Seven Snakes]] arrive.
+
+===== 9. Lionshield Coster =====
+__Mounted above this building's entrance is a circular blue shield emblazoned with a stylized golden lion: the symbol of the :Lionshield Coster__
+__The door to the trading post hangs open, and you hear a ruckus from within.__
+A single goblin name Jilk is rummaging through the store's shelves and stuffing things into a backpack.  He tries to use the stolen gear to bargain for his life.
+
+**Loot**
+Anything in the adventuring gear section of the PHB worth 10gp or less (1d4 quantity)
+
+===== 10. Windmill =====
+__Nightstone's windmill stands atop a 10-foot-high grassy hill.__
+__Two sets of goblin tracks are clearly visible in the muddy path that leads up the hill to an open doorway.__
+__The windmill's interior is dark, dusty, and filled with wooden gears and cogs that help turn the central millstone.__
+2 goblins named Longo and Yek are in the rafters, 25ft up. They heckle the players and shoot arrows at them with half cover.
+
+**Loot**
+Longo and Yek seem to have been more interested in goffing off than searching for treasure.
+
+===== 11. Bridge =====
+__A 70ft long, 10ft wide sloped bridge used to connect the village bailey to the motte, however a 15ft long section of it is completely destroyed.__
+A character with 15STR score can jump over the gap.
+If jumping from the lower section, DC10 Athletics check
+If jumping from the higher section, DC 10 Acrobatics check
+  Failure takes 1d4 dmg from slipping on the sharp edges of the wooden planks
+  Failure by 5 or more tumbles into the slow-moving river below and takes 2d6 dmg from hitting logs and posts along the way
+
+===== 12. Gate to the Keep =====
+__Set into the motte's palisade wall are two windowless stone gatehouses with wood-shingled, high-pitched rooftops. Between them stands a set of oad doors with iron hinges.__ (They aren't barred)
+The gatehouses seem to have been a barracks for the gards able to house 24 guards in total.
+The bodies of 5 guards lie in their bunks, crushed by rubble from a collapse in the gatehouse.
+
+===== 13. Inner Bailey =====
+__Dozens of giant boulders lie all around the keep cutting deep ruts as they fell on the slope of the inner bailey.__
+__Ramps lead up to the stone parapet that encircles the yard, but no guards currently stand watch.__
+3 more broken guard corpses lie in the inner bailey.
+
+===== 14. Nandar Keep =====
+__The Nandar keep is left in a sorry state. Several boulder impacts portray a tragectory of vertical destruction, taking most of the keep wall on the east side.__
+The door on the west side is closed.
+
+==== 14A. Great Hall ====
+__Half of this once-great hall lies under rubble. An open staircase leads up to the next level.__
+__4 :Nightstone Guards (Sydiri Haunlar, Torem Breck, Alara Winterspell, and Kaelen Zam) stand around a great oak dinner table, arguing. They turn as you enter, and you see a 5th dressed in deep purple robes lying motionless on the table.__
+The dead woman is [[:Lady Velrosa Nandar]] (she died slowly from underneath collapsed rubble)
+The guards are completely demoralized and look to the players for leadership.
+Sydiri does most of the talking
+
+==== 14D. Upstairs Hall ====
+__This L-shaped hall is decorated with rich carpets, gilded sconces, and framed paintings of places in__ [[:Waterdeep]]
+Most of the bedrooms have been destroyed, only the master bedroom remains intact.
+__Another set of stairs leads up to the next level.__
+
+==== 14E. Master Bedroom ====
+__Tapestries and oil lamps adorn the walls and wolfskin rugs cover the wooden floor. The room's centerpiece is a large bed, its ornate headboard sculpted with images of roses and foxes.__
+__4 wardrobes stand along the various walls__ (each contains a __season's worth of women's clothing, all in the latest fashions of Waterdeep__)
+__At the foot of the bed is a wooden chest__ (unlocked)
+
+A **flying sword** mounted above the door attacks anyone who opens the chest. If battle erupts, the guards come to investigate after a few rounds and try to disuade the party from looting.
+
+**Loot**
+The chest is divided into many compartments containing 18gp worth of silver coins, 4 rubies (100gp each), and a silver jewelry box (25gp) containing 3 beautiful pearl necklaces (250gp each)
+
+==== 14F. Roof ====
+__Entire sections of the roof are completely gone. A flag waves in the breeze atop a 30ft wooden flagpole. The flag depicts the stylized head of a golden fox with a rose clenched in its teeth, on a puple background.__
+
+
+
+
+
+
+
+

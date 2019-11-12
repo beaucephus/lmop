@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-01T11:30:48-04:00
+
+====== Xantharl's Keep ======
+Created Sunday 01 September 2019
+
+**History**
+Xantharl was a ranger and explorer of the north that helped to found the fortress-city [[:Mirabar]]
+
+The fortified village that bears Xantharl's name stands in the middle of nowhere, on the west side of a notoriously dangerous and rugged stretch of the [[:Long Road]] .
+__An outer wall with heavy crossbows mounted to its battlements encloses a keep sheltered by a steep roof.__ (To shed snow)
+__Surrounding the keep are dozens of narrow stone houses with heavy shutters and steep roofs of their own.__
+
+The Falling Orc inn and tavern stands near the main gates next to a stables. It is run by a hulking yet friendly femal half-ogre, Arzastra.
+
+The Lord of Xantharl's Keep is Narbeck Horn.
+He is a male shield dwarf **knight** and reports directly to the marchion of [[:Mirabar]] .
+He carries a sending stone which he can use to warn the marchion of any impending threat from the south.
+
+The keep itself houses 150 shield dwarf **veterans**
+
+

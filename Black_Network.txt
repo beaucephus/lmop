@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T10:16:24-04:00
+
+====== Black Network ======
+Created Friday 31 May 2019
+
+A network of towns and forts that serve as bases of operations for the [[Zhentarim]]

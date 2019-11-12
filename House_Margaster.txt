@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-10T12:07:54-04:00
+
+====== House Margaster ======
+Created Saturday 10 August 2019
+
+A prominent noble house in [[:Waterdeep]]
+They secretly worship the arch-devil [[:Asmodeus]]

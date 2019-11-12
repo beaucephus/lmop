@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-31T13:38:18-04:00
+
+====== Uthgardt Ancestral Spirit Mounds ======
+Created Saturday 31 August 2019
+
+Ancestral burial mounds that each contains a relic of giant-kind. The oracle at the [[:Eye of the All-Father]] will grant a quest based on which relics are offered as tribute.
+
+[[:Dungeon:Beorunna's Well]]         [[:Thane Kayalithica]]
+[[:Dungeon:Flint Rock]]                   [[:Countess Sansuri]]
+[[:Dungeon:Grandfather Tree]]       [[:Chief Guh]]
+[[:Dungeon:Great Worm Cavern]]   [[:Jarl Storvald]]
+[[:Dungeon:Morgur's Mound]]         [[:Duke Zalto]]
+[[:Dungeon:One Stone]]                  [[:Thane Kayalithica]] 
+[[:Dungeon:Raven Rock]]                [[:Duke Zalto]]
+[[:Dungeon:Shining White]]             [[:Countess Sansuri]]
+[[:Dungeon:Stone Stand]]                [[:Jarl Storvald]]
+

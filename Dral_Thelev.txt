@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T09:04:45-05:00
+
+====== Dral Thelev ======
+Created Tuesday 12 November 2019
+
+The one-eyed half-orc proprietor of [[:Danivarr's House]] in [[:Everlund]]
+
+''Dral's thin build and sharp attire contrasts his brutish, half-orc face, tusks, and missing eye.''
+''A black monacle covers the scared divot where his eye once was.''
+
+He is a member of the [[:Harpers]] and has a close bond to [[:Darathra Shendrel]] of [[:Triboar]]

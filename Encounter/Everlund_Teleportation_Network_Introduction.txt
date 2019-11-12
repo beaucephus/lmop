@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T09:05:11-05:00
+
+====== Everlund Teleportation Network Introduction ======
+Created Tuesday 12 November 2019
+
+[[:Dral Thelev]] uncorks a flask of elven wine that he claims is [[:Silverymoon]] 's finest, and pours its contents into small wooden cups - one per character.
+
+Characters who take even the smallest sip are teleported to a parlor in the heart of [[:Moongleam Tower]] , the [[:Harpers]] stronghold in [[:Everlund]]
+
+Once in the tower, a wizard named [[:Krowen Valharrow]] greets the party warmly and grants them access to a Harper secret network of teleportation circles until __the Harpers decide otherwise.__
+[[:Inner Circles]]
+
+After showing them the circles, Krowen thanks the party for helping Darathra and offers them a small wooden coffer. 
+The coffer contains 6 separate compartments, each of which houses a spell scroll.
+**Dispel Magic**
+**Fly**
+**Magic Weapon**
+**Sending**
+**Tongues**
+**Water Breathing**

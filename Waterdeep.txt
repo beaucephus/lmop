@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T08:59:47-05:00
+
+====== Waterdeep ======
+Created Tuesday 12 November 2019
+
+__The City of Splendors__
+
+Waterdeep is a large, walled metropolis on the Sword Coast. It's probably the largest city in all of the savage north.
+It is the de-facto headquarters of the [[:Lord's Alliance]] although all of the major factions have influence in the city.
+
+The current [[:Open Lord of Waterdeep]] is [[:Lady Laeral Silverhand]]
+She rules openly under the council of the [[:Masked Lords of Waterdeep]]
+
+Run [[:Encounter:Cloud Giant Castle above Waterdeep]] if the players visit Waterdeep and are at least 5th level.
+
+===== Wards of Waterdeep =====
+**Castle Ward.** West under the shadow of Mount Waterdeep. Contains Castle Waterdeep.  This ward is home to mainly the walthy or influential who ca't count themselves among the nobility. It also contains most of the public buildings in Waterdeep.
+**Dock Ward.** Far south. A crowded neighborhood of many winding streets, where folk are comfortable making deals that might otherwise provoke the displeasure of the law.
+**Field Ward.** Far north. Stands between the inner and outer walls of the city. Very poor.
+**North Ward.** NE. Gentrified neighborhood.
+**Sea Ward.** NW. Old money. Noble houses and villas.
+**South Ward.** Middle class, mostly residential.
+**Trade Ward.** Commerce.
+**City of the Dead.** Far east. Walled Graveyard and park.

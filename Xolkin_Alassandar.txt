@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T10:11:25-04:00
+
+====== Xolkin Alassandar ======
+Created Friday 31 May 2019
+
+Xolkin is a charming but ruthless male half-elf **bandit captain** in his mid thirties with a reddish/dark complexion and a long, thin scar stretching from his right cheekbone to his chin
+
+He's in love with [[:Kella Darkhope]] even tho he knows she doesn't feel the same way about him.
+He leads a gang of bandits called the "Seven Snakes".  Thy are the muscle for a [[:Zhentarim]] leader named [[:Snail]] based in [[Daggerford]]

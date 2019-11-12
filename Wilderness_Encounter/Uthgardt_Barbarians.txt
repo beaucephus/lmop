@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-31T13:29:16-04:00
+
+====== Uthgardt Barbarians ======
+Created Saturday 31 August 2019
+
+14 **tribal warriors**
+1 **uthgardt shaman** (appendix C)
+
+Pick the appropriate tribe based on where the party encounters them.
+The barbarians carry no treasure, but they have left an easy-to-follow trail as they travelled.
+
+The travelling barbarians are outfitted with bows, spears, and large sacks.
+
+The sacks contain various quantities of wild game, mushrooms, and herbs.
+
+**development**
+If the party follows the barbarians or backtracks their trail, it leads to the closest [[:Uthgardt Ancestral Spirit Mounds]]

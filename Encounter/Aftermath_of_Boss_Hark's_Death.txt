@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-07T14:07:29-04:00
+
+====== Aftermath of Boss Hark's Death ======
+Created Sunday 07 July 2019
+
+Aftermath of fight in Boss Hark's cave.
+Don't forget to describe the __half-eaten human corpse, cubby to the west and the portcullis to the north.__
+The cubby is covered by a boulder (13 STR to move) leads to area 8 and is only sized for a tiny creature.  Small creatures can squeeze through
+
+[[:Morak Ur'gray]] is in the portculis.
+  
+Snigbat, an ambitious female goblin is going to attempt to treat with the players.
+She offers to sell the other villagers to the party if they agree to kill the __"blob monster" in the Eastern Cave with the big ground spike.__
+
+If the players don't agree to the terms
+	She warns that the bat swarms will kill the weakest of the villagers if they try to flee the cavern without the goblin's help.
+	Only the goblins know the secret (They have incenced torches __(smells like rotting onion)__ that pacifies the bats. They burn them as they enter.
+	Morak vouches to the truth of her claim.
+	
+If the players kill and loot Snigbat, they notice a pungent scent __(smells like rotting onion)__ coming from a pack slung around her. It contains 5 incenced torches.
+
+

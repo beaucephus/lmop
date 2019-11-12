@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-31T13:03:44-04:00
+
+====== Sea Elves ======
+Created Saturday 31 August 2019
+
+A half-dozen sea elves on wooden out-rigger sailing canoes speed up to the party.
+
+They offer to guide the party to their destination.
+
+They know where [[:Maelstrom]] is and can guide the party there.
+They warn the party about the whirlpool leading to it.

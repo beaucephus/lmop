@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-12T09:01:15-05:00
+
+====== Giants on the Road to Triboar ======
+Created Tuesday 12 November 2019
+
+[[:Giants]]
+
+Party encounters a hill giant chasing a dwarven girl ( [[:Tiffin Foehammer]] ) down the road towards them.
+
+She is part of a dwarven trading caravan that has traded its wares and  headed back to [[:Mirabar]] before it was ambushed by 5 hungry hill giants.
+The hill giants eat or kill all the dwarves and steal the oxen.  They can be seen carrying oxen into the foothills a couple miles in the distance.
+
+If the party gives chase, make it clear that Tiffin is hurt, sprained her ankle and can't keep up.  She doesn't want to be left alone.
+
+**Loot**
+The giants left behind all the gold totalling 547gp
+Tiffin finds her slain father and mother.  He father holds a magic sword still clutched tightly in his hands [[:Item:Shalamayne]]
+
+**Development**
+Tiffin and her family were on their way to Mirabar.  Tiffin asks if they party will help her get to Triboar. Her uncle lives in [[:Triboar]] , [[:Ghelryn Foehammer]] . She wants to stay with him.

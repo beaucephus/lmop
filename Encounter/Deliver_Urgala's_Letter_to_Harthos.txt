@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T08:17:17-04:00
+
+====== Deliver Urgala's Letter to Harthos ======
+Created Monday 02 September 2019
+
+takes place in [[:Zymorven Hall]]
+
+Lord Zymorven is sad to report that his son Harthal has stolen the [[:Item:Giant Slayer Great Axe]]
+Harthal stole the axe and ran away after Lord Zymorven disowned him for marrying a common thief from [[:Yartar]]
+
+If the characters go to [[:Yartar]]
+The thieves guild [[:Hand of Yartar]] knows where Harthal is and the whereabouts of the sword.
+  300gp and 6 hours for the thieve's guild to find the info.
+  
+Harthal was arrested and imprisoned for murdering a man.
+A corrupt watch captain named Tholzar Brenner wields the axe now.
+
+Brenner is a **knight** and travels with 8 **guards**
+
+Any faction that a player has a recommendation from or is a member of can help them out. DC15

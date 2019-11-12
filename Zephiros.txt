@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-12T09:42:27-04:00
+
+====== Zephiros ======
+Created Friday 12 July 2019
+
+During your research in Waterdeep, you found a few obscure references to an "extremely tall wizard with clouds for hair" that seems to match the Nightstone guard's description of a cloud giant.  The references refer to the wizard as "Zephiros," and they say he lives in a tower that "floats atop the ever-lingering clouds above the Lonely Moor."  The references describe Zephiros as a soothe-sayer, a diviner, and a powerful enchanter. One reference, written in giant, speaks fondly of Zephiros, and warns would-be adventurers against attempting to combat him as his preferred method of attack is to levitate his enemies out of his castle and drop them to their demises.

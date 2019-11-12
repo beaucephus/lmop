@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T11:23:41-04:00
+
+====== Dripping Caves ======
+Created Friday 31 May 2019
+
+A network of bat caves 1 mile north of [[Nightstone]]
+
+A band of golins and 2 mated ogres have setup in the cave network.
+After the giant attack on nightstone, the surviving villagers fled to the caves only to be captured by the goblins.
+They are being kept as food... 
+
+Run [[:Dungeon:Dripping Caves]]

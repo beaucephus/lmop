@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-11T08:50:24-04:00
+
+====== Darthag Ulgar ======
+Created Thursday 11 July 2019
+
+Proprietor of the [[:Lionshield Coster]] in [[:Nightstone]]
+
+Died in the [[:Dripping Caves]] , eaten by giant rats.
+
+[[:Morak Ur'gray]] asks the party to cart Darthag's earthly possesions to his ex-wife [[:Alaestra Ulgar]] in [[:Triboar]]

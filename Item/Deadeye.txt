@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-11T11:47:39-05:00
+
+====== Deadeye ======
+Created Friday 11 January 2019
+
+Weapon (sling), uncommon
+Deals an additional 1d4 damage on hit.
+When you attack with this weapon you score a critical hit on a natural 19 or 20.

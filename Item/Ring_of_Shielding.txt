@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-12T08:47:24-04:00
+
+====== Ring of Shielding ======
+Created Friday 12 July 2019
+
+
+Ring, Uncommon (requires attunement)
+
+//The band is a thick loop of silver with a heavy dome-cut sapphire set in the socket. The ring feels heavier than its size suggests it should.//
+
+This ring has 3 charges. While wearing it, you can expend 1 charge as an reaction to cast the Shield spell from it. The ring regains 1d3 expended charges daily at dawn.
+
+https://evilpawnjewelry.com/wp-content/uploads/2014/04/LabradoriteShieldRing1.jpg

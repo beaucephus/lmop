@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-24T22:03:28-04:00
+
+====== Nightstone ======
+Created Friday 24 May 2019
+
+Nightstone is a fortified settlement located a few miles south of the [[Ardeep Forest]] , in the untamed hills between [[Waterdeep]] and [[Daggerford]] .
+A lonely wooden signpost, standing where the trail to Nightstone meets the [[High Road]] , points the way to the settlement.
+
+Run [[Dungeon::Nightstone]] when the players first arive.
+
+**Lore**
+Nightstone got its name from a massive chunk of obsidian that stands in the middle of the village square. The obsidian megalith had strange glyphs carved into it and radiated magic under the scrutiny of detection spells, but its properties and purpose have never been acertained.
+
+**Developments**
+2 days before the party runs [[Dungeon:Nightstone]] a [[Cloud Giant Floating Castle]] attacked the village by hurling boulders down at them and stole the [[Nightstone Megalith]]

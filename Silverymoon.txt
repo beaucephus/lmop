@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-02T09:21:49-04:00
+
+====== Silverymoon ======
+Created Monday 02 September 2019
+
+__The "Gem of the North" is a fitting epithet for Silverymoon: a beautiful, tranquil city where threes and gardens live in harmony with buildings, bridges, and sculptures.__
+
+**History**
+Silverymoon is an enlightened place, with a great library, breathtaking temples and shrines, and respected schoools of magic, art, and music.
+
+High Marshal Methrammar Aerasume, the city's lord, resides in a tall, slender palace on the east side of the city.
+The city has many magical wards and defenses in addition to its ever watchfull elven guard.
+
+Any member of the [[:Lord's Alliance]] or [[:Harpers]] can easily find a faction house in the city.

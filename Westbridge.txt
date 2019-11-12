@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-05T13:00:11-04:00
+
+====== Westbridge ======
+Created Friday 05 July 2019
+
+A village that is __strung out for almost a mile__ along the [[:Long Road]] between [[:Red Larch]] and [[:Triboar]]
+
+**History.** Westbridge is so-named  because it is west of [[:Stone Bridge]]
+
+Local Inn is called the Harvest Inn.  The Inn's proprietor is the affable Herivin Dardragon (CG male strongheart halfling **commoner**).
+Herivin is curly-haired and collects and re-sells paintings and statuettes of questionable taste.  His current stock lines the walls, halls, and bedrooms of his inn.
+
+He tries to pedal a fake Figuring of Wondrous Power (Bronze Griffon) to the party.  He starts with a story and 5000gp, but offers the players a discount because they "look so sharp", 2000gp.
+
+

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-30T15:49:53-04:00
+
+====== Alabaster Figurine of Find Familiar (Hunting Dog) ======
+Created Thursday 30 May 2019
+
+Small, finely crafted alabaster figurine in the shape of a hunting dog.
+
+Command word: Alabaster (It's the dog's name. An identify spell reveals the name).
+
+Hold the figurine in hand and speak the command word to summon a familiar a la the find familiar spell.
+The familiar takes the shape of a hunting dog and only obeys commands from the holder of the figurine.
+
+[[..\Alabaster_Figurine_of_Find_Familiar_(Dog)_1565230978609.png]]

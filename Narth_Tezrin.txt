@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-10T11:15:22-04:00
+
+====== Narth Tezrin ======
+Created Saturday 10 August 2019
+
+Narth is a clerk and co-owner at the [[:Lionshield Coster]] in [[:Triboar]]
+He has an adventerous spirit and wants to impress [[:Alaestra Ulgar]] who he has a crush on.
+
+**ideal** The bigger the risk, the greater the reward.
+**bond** I adore my colleague Alaestra, and I'd like to do something to impress her.
+**flaw** I'll risk life and limb to become a legend.
+
+
+===== Quest =====
+A few month ago, the Lionshield Coster received a payment from one [[:Amrath Mulnobar]] , castellan of [[:Noanar's Hold]] , for 5 horse harnesses made by none other than Triboar's finest harness-maker, [[:Othovir]] .
+Othovir recently finished the harnesses and Narth needs to arrange for their delivery.
+Since the recent giant attacks, Narth is worried about the safe arrival of the shipment.
+Narth has never been to Noanar's Hold, but he knows its a village near the [[:High Forest]] that once attracted wealthy hunters.
+
+Narth offers a cart and horse (Boris) plus 100gp as payment for the delivery.
+Run [[:Encounter:Harness Delivery to Noanar's Hold]] when the players arrive.
