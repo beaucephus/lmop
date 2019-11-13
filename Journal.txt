@@ -291,6 +291,9 @@ Killed the giants in Beggar's Nest
 ===== Session 29 2019/10/24 =====
 [[:Encounters:Giants Siege of Neverwinter]]
 
+===== Session 30 2019/11/12 =====
+[[Encounters:Giants Siege of Neverwinter]]
+
 **Immediately after the battle**
 The giants are routed
 Vincent offers Othard to head house Drapier, but will reluctantly accept the task if Othard doesn't want to.
@@ -301,10 +304,10 @@ The Lord's Council is reinstated with Vincent/Othard at the head of house Drapie
 Reports start coming in of giant attacks all over the North. __It seems something has happened to stir the giants and they are more active than ever.__
 The players receive specific reports about giant attacks in a few locations.
 Prepare handouts for the following:
-  Fire giants attacking Triboar. Quest to track and recover a priceless stolen art piece.
-  Stone giants attacking cities on the Delimbiyr River. Investigate the ruined cities and stop the attacks.
-  Hill Giants attacking Golden Fields. Defend the city and stop the attacks.
-
+  Fire giants attacked [[:Triboar]] and stole a piece of art, estimated value 15,000GP. [[Narth Tezrin]] of the Lion's Share in Triboar is looking for adventurers to track the escaping giants down and recover the piece.
+  Stone giants attacked [[:Orlbar]] and [[:Llorkh]] on the Delimbiyr River. The Mayor of [[:Loudwater]] requests aid in investigating the ruined cities and preventing an attack on Loudwater.
+  Hill Giants constantly raid [[:Golden Fields]] , the main grain and produce supplyer for [[:Waterdeep]] . The [[:Open Lord of Waterdeep]] is looking for adventures to strengthen the city's defenses and stop the attacks.
+Alfredo mentions that the [[:Harpers]] __teleportation network__ __may help you move around more easily__. __Any of the Harpers should recognize a Lord of House Drapier and allow them passage.__
 
 ===== Future... =====
 

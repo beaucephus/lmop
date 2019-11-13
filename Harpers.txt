@@ -5,3 +5,16 @@ Creation-Date: 2019-05-24T21:40:37-04:00
 ====== Harpers ======
 Created Friday 24 May 2019
 
+Secretive faction commited to enacting good throughout Faerun.
+Tends to employ operatives that work outside the law.
+
+
+===== Teleportation Network =====
+
+==== The Harpers have manned teleportation circles in the following cities ====
+[[:Neverwinter]]
+[[:Waterdeep]]
+[[:Mirabar]]
+[[:Yartar]]
+[[:Loudwater]]
+[[:Everlund]]

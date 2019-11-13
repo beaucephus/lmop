@@ -8,7 +8,9 @@ Tokens: bone naga (2)
 
 
 **Statblocks:**
-fire giant, orog, magmin
+
 
 
 **Prepare:**
+Harper Teleportation Network
+Each city on the network.
